@@ -1,0 +1,214 @@
+---
+title: "Jagdish_Chhabria_DS608_HW1"
+output:
+  html_document: default
+  html_notebook: default
+---
+
+**Principles of Data Visualization and Introduction to ggplot2**
+
+I have provided you with data about the 5,000 fastest growing companies in the US, as compiled by Inc. magazine. lets read this in:
+
+```{r}
+
+inc <- read.csv("https://raw.githubusercontent.com/charleyferrari/CUNY_DATA_608/master/module1/Data/inc5000_data.csv", header= TRUE)
+
+```
+
+And lets preview this data:
+
+```{r}
+#class(inc)
+head(inc)
+```
+```{r}
+summary(inc)
+```
+
+As can be seen from the above, there are 12 records with missing values for employees, which then impacts the revenue per employee column as well.
+
+```{r}
+
+#inc=inc[complete.cases(inc),]
+#head(inc)
+```
+
+
+
+```{r}
+# View the structure of the different data columns in this dataset
+str(inc)
+```
+
+
+Think a bit on what these summaries mean. Use the space below to add some more relevant non-visual exploratory information you think helps you understand this data:
+```{r}
+# Import libraries
+
+library(dplyr)
+library(ggplot2)
+library(kableExtra)
+#library(tidyverse)
+
+options(scipen=999)
+
+```
+
+```{r}
+# Check the number of unique values for Industry, State and City
+cat('The number of unique states in this dataset is:',inc$State%>%nlevels(),'\n')   
+cat('The number of unique industries in this dataset is:',inc$Industry%>%nlevels(),'\n')
+cat('The number of unique cities in this dataset is:',inc$City%>%nlevels(),'\n')
+```
+
+The growth rate for the top 5000 companies seems to have a very wide range from 0.34% to 421%. On the other hand, the revenue ranges from $2 million to $10.1 billion. It's easier for smaller companies (by revenue) to grow quickly. The sweet spot would be companies that are not too small and still growing aggressively. Let's filter the companies that have an annual revenue of $50 million and grew by atleast 100% year-over-year.
+
+```{r}
+kable(inc%>%filter(Growth_Rate>=100&Revenue>=50000000))%>%kable_styling()
+```
+This results in only 5 companies that meet the criteria. 
+
+
+Now let's look at the top 10 cities by number of companies. This should give us an indication of the relative business-friendliness of the cities in this dataset.
+
+```{r}
+kable(inc%>%group_by(City)%>%summarise(n=n())%>%arrange(desc(n))%>%top_n(10))%>%kable_styling()
+```
+
+So NY City has the maximum number of companies followed by Chicago and Austin. But if we want to find which cities are the hub for growth, we need to bring in growth rate into the mix. Let's examine which are the top 10 cities for the 500 fastest growing companies.
+
+```{r}
+top10_cities<-inc%>%arrange(Growth_Rate)%>%head(500)%>%count(City,sort=TRUE)%>%head(10)
+kable(top10_cities)
+
+```
+So NY retains the top spot - not only is it home to most companies, it is also home to the fastest growing ones.
+
+```{r}
+
+# Look at the proportion of each industry in the top 5000 companies sorted in descending order
+industry.freq<-(as.data.frame(round(100*prop.table(table(inc$Industry)),2)))
+industry.freq%>%arrange(desc(industry.freq$Freq))
+#head(industry.freq)
+
+```
+
+From the above, it can be seen that IT Services comprises the biggest share of the top 5000 based on number of companies, followed by Business Products & Services. Let's dig deeper into the industry-specific metrics below.
+
+
+```{r}
+
+# Look at Industry-specific metrics such as Average Revenue, Total Employees etc
+inc1<-inc%>%group_by(Industry)%>%summarise(NumCompanies=sum(!is.na(Revenue)),Prop_NumCompanies=round(NumCompanies/nrow(.),2), TotalRevenueMln=round(sum(Revenue)/1000000,2), Prop_TotalRev=round(sum(Revenue)/sum(inc$Revenue),2),TotalEmployees=sum(Employees,na.rm=TRUE),AvgRevenueMln=round(mean(Revenue)/1000000,2),AvgNumEmployees=round(mean(Employees,na.rm=TRUE),0),WtdAvgGrowthRate=round(mean((Growth_Rate*Revenue)/sum(Revenue)),4), AvgRevPerEmp=sum(Revenue)/sum(Employees,na.rm=TRUE))
+
+kable(inc1%>%arrange(desc(NumCompanies)))
+
+```
+
+While IT services drops to second place in terms of proportion of total revenue across all industries, another interesting aspect that come to light in the table above is the much higher 'Revenue per Employee' for Computer Hardware. Instead of taking this at face value, I think this needs more investigation and additional data - it is possible that this number is so high because this industry relies heavily on imports, and therefore the contribution of its supply chain to the revenue is not reflected in the number of employees.
+
+```{r}
+# Look at averages for numerical metrics by State and Industry
+inc2<-inc%>%group_by(State,Industry)%>%summarize(AvgRevenueMln=round(mean(Revenue)/1000000,2), AvgEmployees=round(mean(Employees),0), AvgGrowthRate=round(mean(Growth_Rate),2))
+
+head(inc2)
+
+```
+Unlike the growth rate in the previous table, the growth rate shown in the table above is a simple average so it may be less informative than the weighted average growth rate shown in the previous table.
+
+```{r}
+# Look at averages for numerical metrics by City
+inc3<-inc%>%group_by(City)%>%summarize(AvgRevenueMln=round(mean(Revenue)/1000000,2), AvgEmployees=round(mean(Employees),0), AvgGrowthRate=round(mean(Growth_Rate),2))
+
+head(inc3)
+
+```
+
+## Question 1
+
+Create a graph that shows the distribution of companies in the dataset by State (ie how many are in each state). There are a lot of States, so consider which axis you should use. This visualization is ultimately going to be consumed on a 'portrait' oriented screen (ie taller than wide), which should further guide your layout choices.
+
+```{r}
+library(ggplot2)
+#Group number of companies by state and sort in descending order
+state.count<-inc%>%group_by(State)%>%summarize(NumCompanies=sum(!is.na(Revenue)))%>%arrange(desc(NumCompanies))
+state.count
+
+```
+The table above shows that California has the highest number of top 5000 companies, which is likely on account of Silicon valley as well as it's large size compared to the other states.
+
+```{r}
+#Create a horizontal bar chart of number of companies by state
+chart<-ggplot(state.count)+geom_bar(aes(reorder(State,NumCompanies),NumCompanies,fill=State),stat='identity')+coord_flip()
+
+chart+scale_y_continuous("Number of Companies")+ggtitle("Distribution of Companies by State")+theme(axis.text.x = element_text(size=8, angle = 90, hjust = 1), axis.text.y = element_text(size=6), axis.title=element_text(size=14,face="bold")) + labs(title = 'Distribution of Companies by State', x = 'State')
+
+```
+
+## Question 2
+
+Lets dig in on the state with the 3rd most companies in the data set. Imagine you work for the state and are interested in how many people are employed by companies in different industries. Create a plot that shows the average and/or median employment by industry for companies in this state (only use cases with full data, use R's `complete.cases()` function.) In addition to this, your graph should show how variable the ranges are, and you should deal with outliers.
+
+From the table in question 1, we can see that NY is the state with the 3rd most companies.
+
+```{r}
+# Filter companies to those in NY State
+incNY<-inc%>%filter(State=='NY')
+
+# Restrict the rows to those with no missing values
+incNY<-incNY[complete.cases(incNY),]
+
+# Calculate mean and median number of employees by industry for those companies in NY State
+incNY_Emp_By_Industry<-incNY%>%group_by(Industry)%>%summarise(MeanEmployees=round(mean(Employees),0),MedEmployees=round(median(Employees),0))
+head(incNY_Emp_By_Industry)
+
+```
+```{r}
+# Graph the boxplot for Employees by Industry in NY State
+ggplot(incNY, aes(x=Industry, y=Employees))+geom_boxplot()+scale_y_continuous("Average Employees", trans='log2')+coord_flip()+ggtitle("Employment by Industry in NYS")
+```
+
+We remove the data points with minimum and maximum number of employees to reduce the impact of the skew. Another alternative would have been to remove additional outliers that fall outside the whiskers of the bokplots.
+
+```{r}
+# Remove outliers by excluding the minimum and maximum value for Employees for each industry in New York State
+incNY_sub<-incNY%>%group_by(Industry)%>%filter(Employees<max(Employees)&Employees>min(Employees))
+
+# Graph the boxplot without the minimum and maximum value for Employees
+ggplot(incNY_sub, aes(x=Industry, y=Employees))+geom_boxplot()+scale_y_continuous("Average Employees", trans='log2')+coord_flip()+ggtitle("Employment by Industry in NYS without outliers")                                       
+                                                
+```
+
+
+## Question 3
+
+Now imagine you work for an investor and want to see which industries generate the most revenue per employee. Create a chart that makes this information clear. Once again, the distribution per industry should be shown.
+
+```{r}
+#Calculate Revenue per employee and create new dataframe with this column in descending order
+inc$RevenuePerEmployee<-inc$Revenue/inc$Employees
+incMod<-inc[complete.cases(inc),]%>%arrange(desc(RevenuePerEmployee))
+incMod<-subset(incMod, select = c('Industry','RevenuePerEmployee'))
+#head(incMod)
+
+#Calculate mean, median, standard deviation and quartile of Revenue per Employee, grouped by Industry
+inc_Rev_Per_Emp<-incMod%>%group_by(Industry)%>%summarise(MeanRevPerEmp=round(mean(RevenuePerEmployee),0),StdDevRevPerEmp=round(sd(RevenuePerEmployee),0),MedRevPerEmp=round(median(RevenuePerEmployee),0),Q25_RevPerEmp=round(quantile(RevenuePerEmployee)[2],0))
+
+inc_Rev_Per_Emp%>%arrange(desc(inc_Rev_Per_Emp,MeanRevPerEmp))
+#head(inc_Rev_Per_Emp)
+
+```
+
+```{r}
+#Create box plots of revenue per employee by industry 
+ggplot(incMod, aes(x=Industry, y=RevenuePerEmployee))+ scale_y_continuous("Revenue per Employee", trans='log2') + geom_boxplot()+coord_flip()+ggtitle("Revenue per Employee by Industry")
+```
+
+
+```{r}
+chart1<-ggplot(incMod)+geom_bar(aes(reorder(Industry,RevenuePerEmployee),RevenuePerEmployee),stat='identity')+coord_flip()
+
+chart1+scale_y_continuous("Industry")+ggtitle("Revenue Efficiency by Industry")+theme(aspect.ratio = 2.1, axis.text.x = element_text(size=8, angle = 90, hjust = 1), axis.text.y = element_text(size=6), axis.title=element_text(size=8,face="bold")) + labs(title = 'Revenue Efficiency by Industry', x = 'Revenue Per Employee')
+
+```
+
