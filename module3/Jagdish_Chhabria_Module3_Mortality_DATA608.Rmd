@@ -1,0 +1,92 @@
+---
+title: "Jagdish_Chhabria_Module3-Mortality_DATA608"
+author: "Jagdish Chhabria"
+date: "10/4/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r }
+library(shiny)
+library(dplyr)
+library(ggplot2)
+library(rsconnect)
+library(plotly)
+```
+```{r}
+rsconnect::setAccountInfo(name='jagdish',
+			  token='67A0CF780389C90C5917FDB0B2FBC52B',
+			  secret='PZ3ApOsrebj7HeLZAGlYjZlu2o61XibdqoTF0Kmo')
+```
+
+
+```{r, echo=FALSE}
+cdc<-read.csv('cleaned-cdc-mortality-1999-2010.csv')
+
+```
+```{r}
+head(cdc)
+nrow(cdc)
+```
+
+```{r}
+cdc.2010<-cdc%>%filter(Year==2010 & ICD.Chapter == 'Certain infectious and parasitic diseases')%>%arrange(Crude.Rate)
+nrow(cdc.2010)
+```
+
+```{r}
+chart1<-ggplot(cdc.2010)+geom_bar(aes(x=reorder(State,Crude.Rate),y=Crude.Rate,fill=State),stat='identity')+coord_flip()+geom_text(aes(x=State,y=Crude.Rate,label=Crude.Rate),size=2, hjust=0, vjust=-0.2,position=position_dodge(.9))
+
+chart1+ggtitle("Crude Mortality by State for 2010")+theme(axis.text.x = element_text(size=8, angle = 90, hjust = 1), axis.text.y = element_text(size=6), axis.title=element_text(size=14,face="bold")) + labs(title = 'Crude Mortality by State', x = 'State', y='Crude Mortality')
+```
+```{r}
+
+cdc.states<-cdc%>%select(ICD.Chapter,Year,Crude.Rate,State)
+
+cdc.nation<-cdc%>%group_by(ICD.Chapter,Year)%>%summarize(Crude.Rate=(sum(Deaths)*100000/sum(Population)))%>%mutate(State='USA')
+
+#cdc.nation$Crude.Rate<-as.numeric(cdc.nation$Crude.Rate)
+cdc.nation$State<-as.factor(cdc.nation$State)
+#str(cdc.nation$Crude.Rate)
+#str(cdc.nation$State)
+
+cdc.combined<-dplyr::bind_rows(cdc.states,cdc.nation)
+
+```
+```{r}
+cdc.combined.cause<-cdc.combined%>%filter(ICD.Chapter == 'Certain infectious and parasitic diseases')
+nrow(cdc.combined.cause)
+
+cdc.combined.cause.state<-cdc.combined%>%filter(ICD.Chapter == 'Certain infectious and parasitic diseases' & (State=='USA'|State=='NY'))
+nrow(cdc.combined.cause.state)
+
+```
+```{r}
+plot_ly(cdc.combined.cause,x=~Year, y=~Crude.Rate,color = ~State, type='scatter', mode = 'lines')
+```
+
+```{r}
+chart2<-ggplot(cdc.combined.cause)+geom_line(aes(x=Year,y=Crude.Rate,color=State))#+geom_line(size=1.0)
+
+chart3<-ggplot(cdc.combined.cause.state)+geom_line(aes(x=Year,y=Crude.Rate,color=State))
+
+chart2+ggtitle( "Trend in mortality rate by State and National Average" )
+
+chart2
+
+chart3+ggtitle( "Trend in mortality rate by State and National Average" )
+
+chart3
+
+```
+
+
