@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Part 2</title>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.7.4/d3.min.js"></script>
+    </head>
+    <body>
+    <script type="text/javascript">
+
+        function presi_data(){
+            d3.csv("presidents.csv", function(data) {
+                var row_data = ""; 
+                data.forEach(function(d) {
+                    row_data = row_data + 
+                    "<tr>" + 
+                    "<td>" + d.Name + "</td>" + 
+                    "<td>" + d.Height + "</td>" + 
+                    "<td>" + d.Weight + "</td>" + "</tr>"
+                });
+                display_presi_table(row_data); 
+            });
+        }
+
+        function display_presi_table(row_data){
+            var t = document.getElementById("target1");
+            t.innerHTML = "<table>" + row_data + "</table>"; 
+        }
+
+        function find_presi(president_name){
+            d3.csv("presidents.csv", function(data) {
+            //console.log(data)
+            var selected_object = data.filter(function(d) 
+            { 
+                if (d["Name"].toLowerCase() == president_name.toLowerCase()) 
+                { 
+                    return d;
+                } 
+            });
+            //console.log(selected_object[0].Name);
+            if(selected_object.length > 0){
+                window.alert("President " + selected_object[0].Name + ":  Height = " + selected_object[0].Height + ", Weight = " + selected_object[0].Weight);
+            }
+            else{
+                window.alert("President not in database.")
+            }
+            });
+        }
+
+    function president_check(){
+        find_presi(document.getElementById('president_name').value);
+    }
+    </script>
+
+<h2>Get Height and Weight for President</h2>
+
+<script type="text/javascript">
+    presi_data()
+</script>
+
+<div id="target1"></div>
+<p>
+<form>
+    <input id="president_name" type="string" size="50">
+    <input type="button" value="Get president height and weight" onClick="president_check();">
+</form>
+</p>
+
+</body>
+</html>
