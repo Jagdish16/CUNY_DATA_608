@@ -1,0 +1,12 @@
+name: bank_branch_density
+title: bank_branch_density
+username:
+account: jagdish
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3381098
+bundleId: 3968254
+url: https://jagdish.shinyapps.io/bank_branch_density/
+when: 1607561688.76879
+asMultiple: FALSE
+asStatic: FALSE

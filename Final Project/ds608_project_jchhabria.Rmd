@@ -1,0 +1,408 @@
+---
+title: "DS608_Final_Project_JChhabria"
+author: "Jagdish Chhabria"
+date: "12/5/2020"
+output:
+  pdf_document: default
+  html_document: default
+---
+### The Physical Bank Branch - Asset or Liability?
+
+A lot has been said about the utility of bank branches over the years - as a way to bank the unbanked, extend small business credit, aid in educating people about financial literacy.
+Several studies since the Great Financial Crisis have shown a clear increase in adoption of digital banking for the more standard tasks that most consumers deal with - checking balances, depositing checks, paying bills etc. Coupled with bank mergers, this has had a clear impact on branch networks across the USA.
+
+I chose to study this data to explore the relatonship between branch networks and deposits. With the growing advent of Fintech, it was expected that Bank CEOs would take a serious look at the cost benefit ratio for bank branches - both the tangibles as well as intangibles such as brand building. 
+
+I used bank branch data from the website of the Federal Deposit Insurance Corporation (FDIC) to show the distribution of physical bank branches across the USA. I focused on the branch distributions of the 5 largest national banks and pulled in historical data to show how their branch network has been changing in the past 10-11 years. 
+
+The links to the data sources can be found at:
+https://www7.fdic.gov/sod/dynaDownload.asp?barItem=6
+http://www2.census.gov/programs-surveys/popest/datasets/2010-2019/national/totals/nst-est2019-alldata.csv
+
+```{r}
+# Import libraries
+library(dplyr)
+library(ggplot2)
+library(kableExtra)
+library(stringr)
+library(tidyverse)
+library(readr)
+library(viridis)
+library(wesanderson)
+library(hrbrthemes)
+library(gridExtra)
+library(plotly)
+library(usmap)
+library(rgdal)
+library(leaflet)
+library(maps)
+library(ggiraph)
+
+```
+
+
+```{r}
+# Perform housekeeping tasks
+options(scipen=999)
+defaultW <- getOption("warn")
+options(warn = -1)
+setwd('C:/Jagdish/MastersPrograms/CUNY/DS608KnowledgeAndVisualAnalytics/Final_Project')
+```
+
+
+```{r}
+# Clear objects that are not needed
+#rm(top5_2015,top5_2016,top5_2017,top5_2018)
+#rm(usa_branches)
+gc()
+```
+I loaded the usa map data.
+
+```{r}
+# Load USA States map data
+usa_map<-map_data("usa")
+states<-map_data("state")
+
+# Rename the region column in the states data and change case from lower to camel
+states<-states%>%rename("Region"="region")
+states$Region<-str_to_title(states$Region,locale="en")
+
+```
+
+I loaded the data files for bank data as well as state populations.
+
+```{r }
+# Read in data files
+# Load branch count and deposit data for USA and filter for years 2010 and later
+usa_branches<-read_csv("usa_bank_data.csv")
+usa_branches<-subset(usa_branches,Year>=2010)
+usa_branches<-subset(usa_branches,Year<2020)
+
+# Load in branch count for all states and filter for years 2010 and later
+region_branches<-read_csv("states_bank_data.csv")
+region_branches<-subset(region_branches,Year>=2010)
+
+# Load branch count and deposits for top banks
+top_banks<-read_csv("top_3_banks.csv")
+top_banks<-subset(top_banks,Year<2020)
+#top_banks<-merge(y=usa_branches[,c("Year","Number_of_Branches", "Total_Deposits")],x=top_banks,by=c("Year"),all.x = TRUE)
+
+# Load the Census population data from 2010 to 2019
+census_population_data<-read_csv('census_states_population_2019.csv')
+
+# Convert from a wide to a long format
+pop_hist<-census_population_data%>%gather(Year,Population,4:13)
+
+# Add a new column for population in ten thousands
+pop_hist$Population_10000<-round(pop_hist$Population/10000,0)
+
+# Remove rows related to regions and columns for Region Number and State Number
+pop_hist<-pop_hist[!pop_hist$Region %in% c('Northeast Region','Midwest Region', 'South Region','West Region'),]
+pop_hist<-subset(pop_hist,select=-c(Region_Number,State_Number))
+
+```
+
+```{r}
+# Filter the top banks data frame to exclude rows for "United States"
+top_banks<-top_banks[!top_banks$Bank %in% c('United States'),]
+```
+
+I calculated the branch count per 10,000 people.
+
+```{r }
+# Combine states branch data with population data to calculate branches per 10000 people
+branches_per_cap<-merge(y=region_branches,x=pop_hist,by=c("Year","Region"),all.x = TRUE)
+#state_per_cap_branch<-dplyr::left_join(states, branches_per_cap, by='Region')
+branches_per_cap$Branches_Per_Capita<-round(branches_per_cap$Number_of_Branches/branches_per_cap$Population_10000,2)
+
+```
+
+
+```{r}
+# Filter the data for USA rows only
+#usa_total<-branches_per_cap%>%filter(Region=="United States")
+#usa_total<-merge(y=usa_total,x=usa_branches,by=c("Year"),all.x = TRUE)
+usa_branches$Population_10000<-round(usa_branches$Population/10000,0)
+usa_branches$Branches_Per_Capita<-round(usa_branches$Number_of_Branches/usa_branches$Population_10000,2)
+usa_branches$Deposits_Per_Branch<-round(usa_branches$Total_Deposits/usa_branches$Number_of_Branches,2)
+usa_branches$Deposits_Per_Capita<-round(usa_branches$Total_Deposits/usa_branches$Population_10000,2)
+#usa_branches
+```
+
+
+```{r}
+# Filter branch data for all of USA
+usa_total<-branches_per_cap%>%filter(Region=="United States")
+#kable(branches_per_cap)%>%kable_styling()
+#head(branches_per_cap)
+```
+
+
+```{r}
+# Use 2019 for branch density map - filter data for 2019
+state_per_cap_branch<-dplyr::left_join(states, branches_per_cap, by='Region')
+state_pcb_2019<-state_per_cap_branch %>% filter(Year==2019)
+
+```
+
+I plot the annual trend in branch count across all banks in the USA
+
+```{r}
+# Plot annual trend in branch network across all of USA
+ggplot(data=usa_total,aes(x=Year,y=Number_of_Branches,group=1))+  geom_line(color="red")+geom_point()+labs(title="Trend in Bank Branches") 
+
+```
+
+```{r}
+# Create a variable for fill color
+usa_branches<-usa_branches%>%mutate(Branches_Change_Positive=Branches_Pct_Change>0)
+```
+
+I plot the % change in bank branches from 2010 to 2019
+
+```{r}
+# Plot % change in yearly Branch counts across all US Banks
+plot1<-ggplot(data=usa_branches,aes(fill=Branches_Pct_Change>0, y=Branches_Pct_Change, x=Year))+ geom_bar(stat="identity",size=0.1,color="black",alpha=.7)+scale_x_continuous(name="Year",breaks=c(2010,2011,2012,2013,2014,2015,2016,2017,2018,2019))+scale_y_continuous(name="Branches Percent Change", limits=c(-0.025,+0.025),breaks=c(-0.02,-0.01,0,0.01,0.02))+labs(x="Year",y="Branches Percent Change", title = "Percentage change in Branch network across all US Banks", subtitles = "")+guides(fill = FALSE)+theme(axis.title = element_text(color="black",size=10,face=2),axis.line=element_line(size = 1,colour="black",linetype=1),axis.text = element_text(angle =90,color="black",size=10, face=2))+annotate("text",x=2010,y=0.01,size=3,label="Great Financial Crisis",color='red')
+
+plot1
+
+```
+I plot the proportion of branches for the top 5 banks and all other banks.
+
+```{r}
+p1<-ggplot(data=top_banks,aes(x=Year,y=Branches,group=Bank))+geom_col(aes(fill=Bank),width=0.7)+scale_x_continuous(breaks = unique(top_banks$Year))+theme(axis.text.x=element_text(angle=0, vjust=1))+geom_text(aes(label=Branches),position='stack',size=2.5, vjust=1)+labs(x="Year",y="Number of Branches")+ggtitle("Branch Count for Top Banks in USA")+scale_fill_brewer(palette="PiYG")
+  
+p1
+
+```
+```{r}
+# Filter out all other banks to leave only the top 5 banks in the dataset
+top3_banks<-subset(top_banks,Bank!="All other banks")
+```
+
+
+
+```{r}
+# Create a bar plot for branches for top banks for 2020
+p2<-ggplot(top3_banks,aes(fill=Bank, y=Branches, x=Year))+ geom_bar(position="dodge", stat="identity",size=0.1,color="black",alpha=.7)+scale_x_continuous(name="Year",breaks=c(2010,2011,2012,2013,2014,2015,2016,2017,2018,2019))+scale_y_continuous(name="Branch count",breaks=c(0,1000,2000,3000,4000,5000,6000))+labs(title = "Yearly trend in Branch network for top 5 banks in the USA")
+
+p2
+```
+
+```{r}
+# Plot % change in yearly deposits and deposit levels across all US Banks
+plot2<-ggplot(data=usa_branches,aes(y=Deposits_Pct_Change, x=Year))+ geom_line(size=0.1,color="blue",alpha=.7)+scale_x_continuous(name="Year",breaks=c(2010,2011,2012,2013,2014,2015,2016,2017,2018,2019))+scale_y_continuous(name="Deposits Percent Change", limits=c(0,0.15))+geom_point()+geom_text(aes(label=paste("$",round(Total_Deposits/1000000000000,1),"Tln")),color="blue",size=3,vjust="outward",hjust="outward",show.legend=TRUE)+labs(x="Year",y="Deposits Percent Change", title = "Total Bank Deposits in $ Trillions across all US Banks", subtitles = "")+guides(fill = FALSE)+theme(axis.title = element_text(color="black",size=10,face=2,hjust=.2),axis.line=element_line(size = 1,colour="black",linetype=1),axis.text = element_text(angle =90,color="black",size=10, face=2))+annotate("text",x=2010,y=0.13,hjust=.2,size=3,label="Great Financial Crisis",color='red')
+
+plot2
+#grid.arrange(plot1, plot2,nrow=2,ncol=1,heights=c(6,8))
+```
+
+
+```{r}
+# Create a line plot for yearly deposits for top banks
+top3_banks<-subset(top_banks,Bank!="All other banks")
+top3_banks$Deposits<-top3_banks$Deposits/1000000
+
+p1<-ggplot(data=top3_banks,aes(x=Year,y=Deposits,color=Bank))+geom_line()+scale_x_continuous(name="Year",breaks=c(2010,2011,2012,2013,2014,2015,2016,2017,2018,2019))+scale_y_continuous(name="Deposits in $Millions",breaks=c(0,200,400,600,800,1000,1200,1400,1600))+labs(title = "Yearly trend in Deposits ($ million) for top 5 banks in the USA")
+
+p1
+```
+
+
+```{r}
+# Filter data for branch count and small business loans
+loans<-usa_branches[,(names(usa_branches)%in%c("Year","Small_Business_Loans","Total_Business_Loans"))]
+loans<-loans%>%gather(Loan_Type,Loan_Amount_Mln,2:3)
+```
+Next we check whether there is a trend in small business credit as a proportion of total bank loans, the using small multiples approach.
+
+```{r}
+# Check share of small business loans as a share of total bank loans in millions
+ggplot(data=loans,aes(x="",y=Loan_Amount_Mln,fill=Loan_Type))+ 
+geom_bar(stat="identity",position=position_fill())+
+coord_polar(theta="y")+
+facet_wrap(~Year)+
+theme(axis.title.x=element_blank(),
+axis.title.y=element_blank())+ 
+theme(legend.position='bottom')
+
+```
+I load the detailed branch data from the FDIC website.
+
+```{r}
+# Load the Bank Branches data for previous years
+#Source:
+#all2020<-read.csv('ALL_2020.csv')
+all2020<-read_csv('ALL_2020.csv')
+all2019<-read_csv('ALL_2019.csv')
+
+```
+
+
+```{r }
+# Make a list of columns of interest
+cols<-c('ASSET', 'CHARTER', 'CITYBR', 'CNTRYNA', 'DEPDOM', 'DEPSUM', 'DEPSUMBR', 'NAMEBR', 'NAMEFULL', 'REGAGNT', 'RSSDID', 'SIMS_LATITUDE', 'SIMS_LONGITUDE', 'SPECDESC', 'SPECGRP', 'STALPBR', 'STNAMEBR', 'UNINUMBR', 'YEAR', 'ZIPBR')
+
+```
+
+```{r}
+# Filter the data frame to select only the columns of interest
+all2020<-all2020[ ,which((names(all2020) %in% cols)==TRUE)]
+all2019<-all2019[ ,which((names(all2019) %in% cols)==TRUE)]
+
+```
+
+
+```{r}
+# Derive the top 5 banks by number of branches over the past 11 years
+kable(all2020%>%group_by(NAMEFULL)%>%summarise(n=n())%>%arrange(desc(n))%>%top_n(5))%>%kable_styling()
+kable(all2019%>%group_by(NAMEFULL)%>%summarise(n=n())%>%arrange(desc(n))%>%top_n(5))%>%kable_styling()
+
+```
+
+We can see that the same banks show up in the list of top banks by branch count, except for a new entrant in 2020 - Truist which was the result of a merger between SunTrust Bank and BB&T. So going forward, we will focus on these 6 banks: Wells Fargo, JP Morgan Chase, Bank of America, Truist, US Bank and PNC.
+
+Surprisingly Citibank which has a big banking brand does not show up in this list. This is because it has a much smaller branch network compared to the big 3 banks. It is actually between positions 10 to 20 as far as branch count is concerned.
+
+```{r}
+# Create a dataframe with the bank short names
+short<-read.table(file="bank_short_names.txt",header=TRUE,sep="|")
+```
+
+```{r}
+# Rename the columns to more intuitive names
+# Convert case for the state column to allow it to be used in a merge
+# Create a shortlist of top 5 bank by branch count for each year
+# Filter the data and create a new dataset for each year with branch data only for top 5 banks
+
+# 2020
+#all2020$region<-tolower(all2020$STNAMEBR)
+#all2020<-subset(all2020,select=-c(state))
+all2020<-all2020%>%rename(state_code=STALPBR, region=STNAMEBR, total_assets=ASSET, city=CITYBR, domestic_deposits=DEPDOM, total_deposits=DEPSUM, branch_deposits=DEPSUMBR, branch=NAMEBR, bank_name=NAMEFULL,regulator=REGAGNT, specialization=SPECDESC, branch_id=RSSDID,zipcode=ZIPBR, location_id=UNINUMBR, spec_grp=SPECGRP, branch_lat=SIMS_LATITUDE, branch_lon=SIMS_LONGITUDE)
+
+all2020$region<-tolower(all2020$region)
+shortlist<-all2020%>%group_by(bank_name)%>%summarise(n=n())%>%arrange(desc(n))%>%top_n(5)
+top5_2020<-all2020[all2020$bank_name %in% shortlist$bank_name,]
+top5_2020<-merge(top5_2020,short,by='bank_name')
+
+# 2019
+all2019<-all2019%>%rename(state_code=STALPBR, region=STNAMEBR, total_assets=ASSET, city=CITYBR, domestic_deposits=DEPDOM, total_deposits=DEPSUM, branch_deposits=DEPSUMBR, branch=NAMEBR, bank_name=NAMEFULL,regulator=REGAGNT, specialization=SPECDESC, branch_id=RSSDID,zipcode=ZIPBR, location_id=UNINUMBR, spec_grp=SPECGRP, branch_lat=SIMS_LATITUDE, branch_lon=SIMS_LONGITUDE)
+
+all2019$region<-tolower(all2019$region)
+shortlist<-all2019%>%group_by(bank_name)%>%summarise(n=n())%>%arrange(desc(n))%>%top_n(5)
+top5_2019<-all2019[all2019$bank_name %in% shortlist$bank_name,]
+top5_2019<-merge(top5_2019,short,by='bank_name')
+
+```
+
+Next I plot state totals for bank branches and bank deposits and introduce the state population as a third variable in a bubble chart.
+
+```{r}
+# Derive state-wise totals for deposits and branches and combine with population for 2019
+#arrange((distinct(all2020, state)))
+#length(unique(all2020$state_code))
+pop_2019<-subset(pop_hist,pop_hist$Year==2019)
+pop_2019<-pop_2019%>%rename("region"="Region")
+#head(pop_2019)
+state_2019<-all2019%>%group_by(region)%>%summarize(tot_deposits=sum(branch_deposits),tot_branches=n())
+state_2019$region<-str_to_title(state_2019$region,locale="en")
+#head(state_2019)
+state_2019<-merge(y=pop_2019,x=state_2019,by=c("region"),all.x = TRUE)
+state_2019<-state_2019[complete.cases(state_2019),]
+#state_2019
+
+```
+
+```{r}
+# Derive state-wise totals for deposits and branches and combine with population for 2019
+pop_2019<-subset(pop_hist,pop_hist$Year==2019)
+pop_2019<-pop_2019%>%rename("region"="Region")
+
+state_2019<-all2019%>%group_by(region)%>%summarize(tot_deposits=sum(branch_deposits),tot_branches=n(),state_code=state_code)
+state_2019$region<-str_to_title(state_2019$region,locale="en")
+
+state_2019<-merge(y=pop_2019,x=state_2019,by=c("region"),all.x = TRUE)
+state_2019<-state_2019[complete.cases(state_2019),]
+#state_2019
+
+```
+```{r}
+# Create a bubble chart showing branch count versus deposits for all the states for 2019 - the bubble size is governed by the state's population
+
+p<-state_2019%>%ggplot(aes(x=tot_branches,y=round(tot_deposits/1000000,2),size=round(Population/10000000,2),fill=region))+
+geom_point(alpha=0.9,shape=21,color="black",position=position_dodge(0.9))+
+geom_text(aes(label=state_code),size=2,nudge_x=0.0,nudge_y=-0.15)+
+scale_size(range = c(.1, 24), name="Population")+ scale_fill_manual(values=wes_palette(name="GrandBudapest2",n=51,type="continuous"))+
+#scale_fill_viridis(discrete=TRUE, guide=FALSE, option="B") +
+theme(legend.position="bottom")+
+theme_classic()+
+ylab("Deposits")+
+xlab("Branches")+theme(legend.position = "none")
+
+#p<-ggplotly(p, tooltip="label")
+p
+
+```
+I now plot a chloropeth map shwing bank branch density by state for 2019 using the ggiraph package. I also create an interactive plot for this using R Shiny.
+
+```{r}
+# Create the same chloropeth map using the ggiraph package to make it interactive
+p0<-ggplot(data=state_per_cap_branch)+geom_polygon_interactive(aes(x=long,y=lat,fill=Branches_Per_Capita,group=group,tooltip=paste(Region,":",Branches_Per_Capita)),data_id=state_per_cap_branch$Region,color="white")+theme_classic()+xlab("Longitude")+ylab("Latitude")+labs(title="Bank Branches Per 10000 people in the USA for 2019") 
+
+p1<-p0+labs(fill="Branch Density")+scale_fill_gradient(low="white",high="#CB454A")
+p2<-p1+theme(legend.position="right",legend.background=element_rect(size=2,linetype='solid'),legend.text = element_text(size=6),legend.title=element_text(size=8),legend.box.margin = margin(0, 0, 0, 0, "cm"))
+
+#,width=.7
+
+girafe(code=print(p2),width_svg=9,height_svg=6,options=list(opts_sizing(rescale=FALSE)))
+
+```
+I drill down into Bank of America's data. and create a leaflet map showing all the branches across the USA. I also create an interactive Shiny map allowing for selection of the state, and showing only the branches within that state along with a tooltip showing the branch deposits on mouse-over.
+
+```{r}
+# Create a new dataset by filtering branches for top banks only
+bankam_branches<-top5_2020%>%filter(bank=="Bank of America")
+#wellsfargo_branches<-top5_2020%>%filter(bank=="Wells Fargo")
+#jpmchase_branches<-top5_2020%>%filter(bank=="JPM Chase")
+#truist_branches<-top5_2020%>%filter(bank=="Truist")
+#usbank_branches<-top5_2020%>%filter(bank=="US Bank")
+#pnc_branches<-top5_2020%>%filter(bank=="PNC")
+```
+
+
+```{r}
+# Create a new dataset by filtering branches for one state only
+#MA_top5_2020<-top5_2020%>%filter(state_code=="MA")
+#alabama.map<-states%>%filter(region=='alabama')
+#alabama.branches<-top5_2020%>%filter(region=='alabama')
+#alabama_top5_2020<-merge(alabama.map,alabama.branches,by='region')
+
+```
+
+
+```{r}
+# Create icons based on bank logos
+
+bankamIcon<-icons("bankam.png",iconWidth=8,iconHeight=8)
+wellsfargoIcon<-icons("wellsfargo.png",iconWidth=6,iconHeight=6)
+jpmchaseIcon<-icons("jpmchase.jpg",iconWidth=8,iconHeight=8)
+truistIcon<-icons("truist.png",iconWidth=8,iconHeight=8)
+usbankIcon<-icons("usbank.jpg",iconWidth=8,iconHeight=8)
+pncIcon<-icons("pnc.png",iconWidth=8,iconHeight=8)
+```
+
+
+```{r}
+# Generate branch density plot for Bank of America for the USA for 2020
+#m%>%clearTiles()
+#m<-leaflet(options=leafletOptions(minZoom=0,maxZoom=18))%>%setView(-96,37.8,4)
+
+leaflet()%>%setView(-96,37.8,4)%>%addProviderTiles("CartoDB.Positron")%>%addMarkers(data=bankam_branches,lng=~branch_lon,lat=~branch_lat,icon=bankamIcon,label=~branch,popup=~paste("Deposits = $",branch_deposits))
+
+#leaflet()%>%setView(-96,37.8,4)%>%addProviderTiles("CartoDB.Positron")%>%addCircleMarkers(data=bankam_branches,lng=~branch_lon,lat=~branch_lat,label=~branch, popup=~paste("$",branch_deposits), radius=~branch_deposits/total_deposits)
+
+```
+
+
+
+

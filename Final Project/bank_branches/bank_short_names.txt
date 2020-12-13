@@ -1,0 +1,16 @@
+bank_name|bank
+Wells Fargo Bank, National Association|Wells Fargo
+Jpmorgan Chase Bank, National Association|JPM Chase
+Bank Of America, National Association|Bank of America
+Truist Bank|Truist
+U.S. Bank National Association|US Bank
+PNC Bank, National Association|PNC
+Regions Bank|Regions
+Td Bank, National Association|TD Bank
+Fifth Third Bank, National Association|Fifth Third
+Keybank National Association|Keybank
+Citizens Bank, National Association|Citizens
+The Huntington National Bank|Huntington
+Woodforest National Bank|Woodforest
+Manufacturers and Traders Trust Company|Manufacturers
+Citibank, National Association|Citibank

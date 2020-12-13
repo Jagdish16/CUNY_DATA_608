@@ -1,0 +1,5269 @@
+Year,Region,Number_of_Banks,Number_of_Branches,New_Charters
+1934,Alabama,210,0,
+1935,Alabama,207,22,
+1936,Alabama,208,21,
+1937,Alabama,208,21,
+1938,Alabama,208,21,
+1939,Alabama,209,20,
+1940,Alabama,209,20,
+1941,Alabama,211,20,
+1942,Alabama,211,22,
+1943,Alabama,211,27,
+1944,Alabama,213,28,
+1945,Alabama,212,25,
+1946,Alabama,216,23,
+1947,Alabama,219,22,
+1948,Alabama,221,23,
+1949,Alabama,224,23,
+1950,Alabama,225,26,
+1951,Alabama,226,28,
+1952,Alabama,229,30,
+1953,Alabama,231,31,
+1954,Alabama,234,37,
+1955,Alabama,237,47,
+1956,Alabama,237,53,
+1957,Alabama,239,60,
+1958,Alabama,239,62,
+1959,Alabama,237,78,
+1960,Alabama,238,90,
+1961,Alabama,238,98,
+1962,Alabama,239,108,
+1963,Alabama,242,129,
+1964,Alabama,252,142,
+1965,Alabama,263,163,
+1966,Alabama,267,186,5
+1967,Alabama,266,211,0
+1968,Alabama,268,236,3
+1969,Alabama,268,247,1
+1970,Alabama,272,272,4
+1971,Alabama,273,303,3
+1972,Alabama,277,334,4
+1973,Alabama,287,369,11
+1974,Alabama,293,417,8
+1975,Alabama,299,457,6
+1976,Alabama,303,484,5
+1977,Alabama,310,509,7
+1978,Alabama,312,553,5
+1979,Alabama,317,578,7
+1980,Alabama,317,624,1
+1981,Alabama,308,668,3
+1982,Alabama,294,656,3
+1983,Alabama,273,702,4
+1984,Alabama,269,715,5
+1985,Alabama,240,758,5
+1986,Alabama,228,793,6
+1987,Alabama,225,819,9
+1988,Alabama,221,853,8
+1989,Alabama,221,880,5
+1990,Alabama,220,932,1
+1991,Alabama,219,962,0
+1992,Alabama,217,987,1
+1993,Alabama,214,1022,0
+1994,Alabama,208,1065,1
+1995,Alabama,186,1097,3
+1996,Alabama,183,1171,0
+1997,Alabama,175,1220,1
+1998,Alabama,160,1257,1
+1999,Alabama,156,1247,2
+2000,Alabama,158,1245,4
+2001,Alabama,158,1238,3
+2002,Alabama,151,1250,0
+2003,Alabama,151,1262,3
+2004,Alabama,153,1273,4
+2005,Alabama,150,1265,4
+2006,Alabama,148,1275,4
+2007,Alabama,149,1312,5
+2008,Alabama,148,1349,3
+2009,Alabama,144,1348,0
+2010,Alabama,136,1344,0
+2011,Alabama,134,1425,0
+2012,Alabama,133,1427,0
+2013,Alabama,129,1404,0
+2014,Alabama,127,1396,0
+2015,Alabama,124,1398,0
+2016,Alabama,123,1379,0
+2017,Alabama,116,1358,0
+2018,Alabama,115,1356,1
+2019,Alabama,106,1367,0
+1934,Alaska,2,0,
+1935,Alaska,2,0,
+1936,Alaska,2,0,
+1937,Alaska,2,0,
+1938,Alaska,2,0,
+1939,Alaska,2,0,
+1940,Alaska,2,0,
+1941,Alaska,2,0,
+1942,Alaska,2,0,
+1943,Alaska,2,0,
+1944,Alaska,3,1,
+1945,Alaska,3,1,
+1946,Alaska,3,1,
+1947,Alaska,3,1,
+1948,Alaska,4,1,
+1949,Alaska,5,3,
+1950,Alaska,5,4,
+1951,Alaska,6,5,
+1952,Alaska,7,9,
+1953,Alaska,8,10,
+1954,Alaska,9,13,
+1955,Alaska,10,14,
+1956,Alaska,12,14,
+1957,Alaska,13,16,
+1958,Alaska,13,19,
+1959,Alaska,13,24,
+1960,Alaska,9,32,
+1961,Alaska,10,34,
+1962,Alaska,9,40,
+1963,Alaska,9,48,
+1964,Alaska,10,51,
+1965,Alaska,10,53,
+1966,Alaska,10,55,0
+1967,Alaska,10,54,0
+1968,Alaska,10,55,0
+1969,Alaska,9,59,0
+1970,Alaska,10,62,1
+1971,Alaska,10,65,0
+1972,Alaska,10,70,0
+1973,Alaska,10,73,0
+1974,Alaska,10,81,0
+1975,Alaska,11,88,2
+1976,Alaska,12,98,1
+1977,Alaska,12,106,0
+1978,Alaska,12,112,0
+1979,Alaska,12,109,0
+1980,Alaska,12,113,0
+1981,Alaska,12,114,0
+1982,Alaska,14,115,1
+1983,Alaska,14,121,0
+1984,Alaska,15,133,1
+1985,Alaska,15,142,0
+1986,Alaska,15,141,1
+1987,Alaska,11,133,0
+1988,Alaska,10,120,0
+1989,Alaska,7,107,0
+1990,Alaska,8,111,1
+1991,Alaska,8,106,0
+1992,Alaska,8,107,0
+1993,Alaska,8,108,0
+1994,Alaska,8,113,0
+1995,Alaska,8,115,0
+1996,Alaska,8,119,0
+1997,Alaska,6,125,0
+1998,Alaska,6,126,0
+1999,Alaska,6,122,0
+2000,Alaska,6,120,0
+2001,Alaska,6,118,0
+2002,Alaska,6,114,0
+2003,Alaska,5,114,0
+2004,Alaska,5,117,0
+2005,Alaska,5,118,0
+2006,Alaska,5,118,0
+2007,Alaska,4,118,0
+2008,Alaska,5,119,0
+2009,Alaska,4,119,0
+2010,Alaska,4,119,0
+2011,Alaska,4,118,0
+2012,Alaska,4,118,0
+2013,Alaska,4,117,0
+2014,Alaska,4,122,0
+2015,Alaska,4,120,0
+2016,Alaska,4,120,0
+2017,Alaska,4,117,0
+2018,Alaska,4,113,0
+2019,Alaska,4,112,0
+1934,American Samoa,0,0,
+1935,American Samoa,0,0,
+1936,American Samoa,0,0,
+1937,American Samoa,0,0,
+1938,American Samoa,0,0,
+1939,American Samoa,0,0,
+1940,American Samoa,0,0,
+1941,American Samoa,0,0,
+1942,American Samoa,0,0,
+1943,American Samoa,0,0,
+1944,American Samoa,0,0,
+1945,American Samoa,0,0,
+1946,American Samoa,0,0,
+1947,American Samoa,0,0,
+1948,American Samoa,0,0,
+1949,American Samoa,0,0,
+1950,American Samoa,0,0,
+1951,American Samoa,0,0,
+1952,American Samoa,0,0,
+1953,American Samoa,0,0,
+1954,American Samoa,0,0,
+1955,American Samoa,0,0,
+1956,American Samoa,0,0,
+1957,American Samoa,0,0,
+1958,American Samoa,0,0,
+1959,American Samoa,0,0,
+1960,American Samoa,0,0,
+1961,American Samoa,0,0,
+1962,American Samoa,0,0,
+1963,American Samoa,0,0,
+1964,American Samoa,0,0,
+1965,American Samoa,0,2,
+1966,American Samoa,0,2,0
+1967,American Samoa,0,2,0
+1968,American Samoa,0,2,0
+1969,American Samoa,0,3,0
+1970,American Samoa,0,3,0
+1971,American Samoa,0,3,0
+1972,American Samoa,0,3,0
+1973,American Samoa,0,3,0
+1974,American Samoa,0,5,0
+1975,American Samoa,0,5,0
+1976,American Samoa,0,5,0
+1977,American Samoa,0,3,0
+1978,American Samoa,0,3,0
+1979,American Samoa,0,2,0
+1980,American Samoa,0,2,0
+1981,American Samoa,0,2,0
+1982,American Samoa,1,2,0
+1983,American Samoa,1,2,0
+1984,American Samoa,1,2,0
+1985,American Samoa,1,2,0
+1986,American Samoa,1,2,0
+1987,American Samoa,1,2,0
+1988,American Samoa,1,2,0
+1989,American Samoa,1,2,0
+1990,American Samoa,1,2,0
+1991,American Samoa,1,2,0
+1992,American Samoa,1,3,0
+1993,American Samoa,1,4,0
+1994,American Samoa,1,4,0
+1995,American Samoa,1,4,0
+1996,American Samoa,1,4,0
+1997,American Samoa,1,4,0
+1998,American Samoa,1,4,0
+1999,American Samoa,1,4,0
+2000,American Samoa,1,4,0
+2001,American Samoa,1,4,0
+2002,American Samoa,1,4,0
+2003,American Samoa,1,4,0
+2004,American Samoa,1,4,0
+2005,American Samoa,1,5,0
+2006,American Samoa,1,7,0
+2007,American Samoa,1,6,0
+2008,American Samoa,1,6,0
+2009,American Samoa,1,6,0
+2010,American Samoa,1,6,0
+2011,American Samoa,,6,0
+2012,American Samoa,,5,
+2013,American Samoa,,5,
+2014,American Samoa,,4,
+2015,American Samoa,,4,
+2016,American Samoa,,4,
+2017,American Samoa,,4,
+2018,American Samoa,,4,
+2019,American Samoa,,3,
+1934,Arizona,15,0,
+1935,Arizona,15,21,
+1936,Arizona,14,24,
+1937,Arizona,12,25,
+1938,Arizona,12,26,
+1939,Arizona,12,26,
+1940,Arizona,12,26,
+1941,Arizona,12,26,
+1942,Arizona,12,27,
+1943,Arizona,12,30,
+1944,Arizona,12,35,
+1945,Arizona,11,34,
+1946,Arizona,10,35,
+1947,Arizona,10,40,
+1948,Arizona,10,44,
+1949,Arizona,9,51,
+1950,Arizona,10,55,
+1951,Arizona,12,67,
+1952,Arizona,13,70,
+1953,Arizona,13,73,
+1954,Arizona,12,82,
+1955,Arizona,10,93,
+1956,Arizona,9,111,
+1957,Arizona,6,126,
+1958,Arizona,7,138,
+1959,Arizona,8,146,
+1960,Arizona,9,171,
+1961,Arizona,11,190,
+1962,Arizona,10,202,
+1963,Arizona,12,223,
+1964,Arizona,15,239,
+1965,Arizona,17,250,
+1966,Arizona,17,261,1
+1967,Arizona,17,265,0
+1968,Arizona,13,278,0
+1969,Arizona,12,299,1
+1970,Arizona,12,323,0
+1971,Arizona,13,347,1
+1972,Arizona,15,374,2
+1973,Arizona,15,405,0
+1974,Arizona,17,425,2
+1975,Arizona,15,443,0
+1976,Arizona,16,458,1
+1977,Arizona,17,465,1
+1978,Arizona,20,484,3
+1979,Arizona,22,505,2
+1980,Arizona,24,537,2
+1981,Arizona,26,580,3
+1982,Arizona,30,600,6
+1983,Arizona,38,621,8
+1984,Arizona,46,660,9
+1985,Arizona,52,696,6
+1986,Arizona,54,724,3
+1987,Arizona,50,734,2
+1988,Arizona,47,698,0
+1989,Arizona,43,683,1
+1990,Arizona,38,797,0
+1991,Arizona,41,838,3
+1992,Arizona,38,748,0
+1993,Arizona,37,749,0
+1994,Arizona,34,772,0
+1995,Arizona,34,723,3
+1996,Arizona,35,814,4
+1997,Arizona,41,839,7
+1998,Arizona,43,853,6
+1999,Arizona,44,862,3
+2000,Arizona,45,842,7
+2001,Arizona,43,834,4
+2002,Arizona,43,855,3
+2003,Arizona,46,899,6
+2004,Arizona,45,972,1
+2005,Arizona,48,1047,4
+2006,Arizona,52,1106,8
+2007,Arizona,55,1200,9
+2008,Arizona,55,1314,3
+2009,Arizona,42,1289,0
+2010,Arizona,39,1269,0
+2011,Arizona,30,1256,0
+2012,Arizona,28,1252,0
+2013,Arizona,23,1265,0
+2014,Arizona,21,1243,0
+2015,Arizona,17,1208,0
+2016,Arizona,16,1183,0
+2017,Arizona,15,1154,0
+2018,Arizona,15,1129,0
+2019,Arizona,14,1105,0
+1934,Arkansas,213,0,
+1935,Arkansas,213,6,
+1936,Arkansas,211,9,
+1937,Arkansas,212,15,
+1938,Arkansas,209,15,
+1939,Arkansas,208,15,
+1940,Arkansas,207,15,
+1941,Arkansas,208,15,
+1942,Arkansas,207,16,
+1943,Arkansas,204,21,
+1944,Arkansas,206,21,
+1945,Arkansas,208,22,
+1946,Arkansas,213,20,
+1947,Arkansas,215,19,
+1948,Arkansas,219,19,
+1949,Arkansas,221,21,
+1950,Arkansas,222,19,
+1951,Arkansas,224,21,
+1952,Arkansas,224,22,
+1953,Arkansas,224,22,
+1954,Arkansas,225,23,
+1955,Arkansas,228,25,
+1956,Arkansas,231,27,
+1957,Arkansas,232,29,
+1958,Arkansas,232,35,
+1959,Arkansas,231,41,
+1960,Arkansas,232,46,
+1961,Arkansas,233,56,
+1962,Arkansas,237,67,
+1963,Arkansas,238,77,
+1964,Arkansas,241,90,
+1965,Arkansas,242,108,
+1966,Arkansas,243,119,2
+1967,Arkansas,245,130,3
+1968,Arkansas,245,141,0
+1969,Arkansas,246,155,1
+1970,Arkansas,248,165,1
+1971,Arkansas,251,179,3
+1972,Arkansas,251,193,0
+1973,Arkansas,254,227,3
+1974,Arkansas,258,281,4
+1975,Arkansas,258,318,1
+1976,Arkansas,257,341,0
+1977,Arkansas,259,353,2
+1978,Arkansas,259,372,0
+1979,Arkansas,258,393,0
+1980,Arkansas,260,415,1
+1981,Arkansas,262,420,2
+1982,Arkansas,260,411,1
+1983,Arkansas,259,428,2
+1984,Arkansas,258,439,0
+1985,Arkansas,259,451,1
+1986,Arkansas,256,464,0
+1987,Arkansas,257,466,1
+1988,Arkansas,256,482,0
+1989,Arkansas,257,499,1
+1990,Arkansas,256,562,1
+1991,Arkansas,262,602,4
+1992,Arkansas,259,622,1
+1993,Arkansas,257,624,0
+1994,Arkansas,257,674,1
+1995,Arkansas,243,710,1
+1996,Arkansas,234,742,1
+1997,Arkansas,226,791,7
+1998,Arkansas,202,857,2
+1999,Arkansas,195,938,2
+2000,Arkansas,185,988,3
+2001,Arkansas,178,997,0
+2002,Arkansas,169,1029,0
+2003,Arkansas,163,1111,0
+2004,Arkansas,161,1164,0
+2005,Arkansas,154,1207,2
+2006,Arkansas,149,1280,0
+2007,Arkansas,143,1308,0
+2008,Arkansas,137,1316,0
+2009,Arkansas,128,1318,0
+2010,Arkansas,124,1302,0
+2011,Arkansas,122,1321,0
+2012,Arkansas,121,1309,0
+2013,Arkansas,115,1303,0
+2014,Arkansas,106,1263,0
+2015,Arkansas,103,1275,0
+2016,Arkansas,100,1256,0
+2017,Arkansas,96,1260,0
+2018,Arkansas,92,1268,0
+2019,Arkansas,86,1290,0
+1934,California,254,0,
+1935,California,245,797,
+1936,California,218,837,
+1937,California,206,853,
+1938,California,203,850,
+1939,California,200,849,
+1940,California,198,845,
+1941,California,193,846,
+1942,California,191,831,
+1943,California,188,863,
+1944,California,186,880,
+1945,California,188,887,
+1946,California,187,877,
+1947,California,189,895,
+1948,California,191,916,
+1949,California,195,948,
+1950,California,191,978,
+1951,California,190,1003,
+1952,California,189,1034,
+1953,California,197,1056,
+1954,California,162,1119,
+1955,California,140,1209,
+1956,California,132,1302,
+1957,California,122,1384,
+1958,California,119,1462,
+1959,California,110,1552,
+1960,California,112,1671,
+1961,California,117,1787,
+1962,California,123,1963,
+1963,California,149,2122,
+1964,California,194,2273,
+1965,California,193,2419,
+1966,California,187,2532,1
+1967,California,172,2687,0
+1968,California,156,2788,0
+1969,California,148,2895,2
+1970,California,144,3028,6
+1971,California,144,3171,7
+1972,California,156,3254,17
+1973,California,174,3385,24
+1974,California,186,3484,18
+1975,California,200,3578,17
+1976,California,210,3688,13
+1977,California,220,3769,14
+1978,California,229,3897,13
+1979,California,242,4081,24
+1980,California,281,4279,46
+1981,California,312,4477,42
+1982,California,361,4506,53
+1983,California,407,4612,61
+1984,California,453,4621,44
+1985,California,481,4820,19
+1986,California,484,4730,9
+1987,California,484,4681,10
+1988,California,473,4499,10
+1989,California,479,4545,10
+1990,California,482,4892,15
+1991,California,480,5038,10
+1992,California,456,4501,1
+1993,California,425,4254,2
+1994,California,404,4305,1
+1995,California,383,4631,3
+1996,California,360,4454,3
+1997,California,336,4326,9
+1998,California,335,4408,18
+1999,California,325,4467,10
+2000,California,304,4433,8
+2001,California,301,4448,16
+2002,California,286,4481,8
+2003,California,281,4551,17
+2004,California,263,4791,12
+2005,California,274,4986,26
+2006,California,279,5535,23
+2007,California,288,5840,21
+2008,California,288,6887,9
+2009,California,271,6886,2
+2010,California,251,6837,1
+2011,California,235,6941,0
+2012,California,222,6970,0
+2013,California,206,6995,0
+2014,California,197,6968,0
+2015,California,182,6846,0
+2016,California,167,6772,0
+2017,California,155,6704,1
+2018,California,143,6624,2
+2019,California,137,6517,0
+1934,Colorado,,0,
+1935,Colorado,141,0,
+1936,Colorado,138,0,
+1937,Colorado,138,0,
+1938,Colorado,136,0,
+1939,Colorado,137,0,
+1940,Colorado,139,0,
+1941,Colorado,137,0,
+1942,Colorado,135,0,
+1943,Colorado,134,5,
+1944,Colorado,134,4,
+1945,Colorado,133,4,
+1946,Colorado,136,1,
+1947,Colorado,138,1,
+1948,Colorado,138,1,
+1949,Colorado,140,1,
+1950,Colorado,144,4,
+1951,Colorado,147,4,
+1952,Colorado,148,5,
+1953,Colorado,152,5,
+1954,Colorado,152,5,
+1955,Colorado,154,5,
+1956,Colorado,156,5,
+1957,Colorado,157,5,
+1958,Colorado,157,6,
+1959,Colorado,160,7,
+1960,Colorado,162,7,
+1961,Colorado,164,7,
+1962,Colorado,173,7,
+1963,Colorado,194,7,
+1964,Colorado,207,8,
+1965,Colorado,210,8,
+1966,Colorado,215,9,3
+1967,Colorado,217,7,3
+1968,Colorado,219,10,1
+1969,Colorado,223,12,5
+1970,Colorado,227,19,3
+1971,Colorado,235,29,9
+1972,Colorado,243,35,7
+1973,Colorado,255,42,12
+1974,Colorado,263,50,8
+1975,Colorado,277,54,14
+1976,Colorado,281,56,6
+1977,Colorado,288,64,7
+1978,Colorado,299,81,11
+1979,Colorado,307,97,9
+1980,Colorado,323,111,16
+1981,Colorado,340,133,18
+1982,Colorado,374,104,32
+1983,Colorado,401,111,28
+1984,Colorado,447,111,27
+1985,Colorado,469,111,12
+1986,Colorado,472,114,10
+1987,Colorado,462,121,3
+1988,Colorado,450,118,3
+1989,Colorado,451,119,11
+1990,Colorado,446,127,7
+1991,Colorado,387,233,1
+1992,Colorado,350,267,2
+1993,Colorado,322,368,1
+1994,Colorado,279,453,0
+1995,Colorado,231,513,3
+1996,Colorado,223,598,4
+1997,Colorado,215,727,5
+1998,Colorado,195,817,5
+1999,Colorado,189,894,3
+2000,Colorado,181,942,2
+2001,Colorado,176,995,5
+2002,Colorado,169,1042,2
+2003,Colorado,169,1071,4
+2004,Colorado,166,1151,4
+2005,Colorado,161,1236,1
+2006,Colorado,153,1305,1
+2007,Colorado,148,1416,5
+2008,Colorado,142,1490,3
+2009,Colorado,135,1503,1
+2010,Colorado,107,1519,0
+2011,Colorado,99,1527,0
+2012,Colorado,94,1490,0
+2013,Colorado,88,1471,0
+2014,Colorado,88,1464,0
+2015,Colorado,82,1434,0
+2016,Colorado,79,1391,0
+2017,Colorado,76,1359,0
+2018,Colorado,71,1354,0
+2019,Colorado,67,1340,0
+1934,Connecticut,109,0,
+1935,Connecticut,105,4,
+1936,Connecticut,104,5,
+1937,Connecticut,103,7,
+1938,Connecticut,103,7,
+1939,Connecticut,102,7,
+1940,Connecticut,100,8,
+1941,Connecticut,100,8,
+1942,Connecticut,100,8,
+1943,Connecticut,99,9,
+1944,Connecticut,99,11,
+1945,Connecticut,99,8,
+1946,Connecticut,97,10,
+1947,Connecticut,98,12,
+1948,Connecticut,98,16,
+1949,Connecticut,95,36,
+1950,Connecticut,92,50,
+1951,Connecticut,94,60,
+1952,Connecticut,95,68,
+1953,Connecticut,94,76,
+1954,Connecticut,92,88,
+1955,Connecticut,87,103,
+1956,Connecticut,85,119,
+1957,Connecticut,77,140,
+1958,Connecticut,70,160,
+1959,Connecticut,63,185,
+1960,Connecticut,61,198,
+1961,Connecticut,58,219,
+1962,Connecticut,58,231,
+1963,Connecticut,58,258,
+1964,Connecticut,61,286,
+1965,Connecticut,64,313,
+1966,Connecticut,63,336,0
+1967,Connecticut,64,357,1
+1968,Connecticut,63,375,1
+1969,Connecticut,59,405,0
+1970,Connecticut,58,436,1
+1971,Connecticut,62,469,5
+1972,Connecticut,63,498,2
+1973,Connecticut,67,518,4
+1974,Connecticut,70,547,5
+1975,Connecticut,71,564,1
+1976,Connecticut,71,572,2
+1977,Connecticut,71,577,1
+1978,Connecticut,65,587,1
+1979,Connecticut,65,593,1
+1980,Connecticut,64,603,0
+1981,Connecticut,57,613,0
+1982,Connecticut,54,618,1
+1983,Connecticut,51,616,0
+1984,Connecticut,50,633,2
+1985,Connecticut,57,628,9
+1986,Connecticut,59,646,4
+1987,Connecticut,64,667,9
+1988,Connecticut,65,676,6
+1989,Connecticut,69,678,7
+1990,Connecticut,68,665,1
+1991,Connecticut,56,618,1
+1992,Connecticut,48,567,0
+1993,Connecticut,46,496,0
+1994,Connecticut,43,498,1
+1995,Connecticut,39,503,1
+1996,Connecticut,28,468,0
+1997,Connecticut,26,528,0
+1998,Connecticut,28,519,4
+1999,Connecticut,24,495,2
+2000,Connecticut,23,414,0
+2001,Connecticut,25,430,3
+2002,Connecticut,26,434,2
+2003,Connecticut,24,459,0
+2004,Connecticut,23,571,1
+2005,Connecticut,24,583,1
+2006,Connecticut,24,631,2
+2007,Connecticut,24,693,0
+2008,Connecticut,25,689,2
+2009,Connecticut,23,686,0
+2010,Connecticut,22,671,1
+2011,Connecticut,22,737,0
+2012,Connecticut,20,738,0
+2013,Connecticut,15,723,0
+2014,Connecticut,14,714,0
+2015,Connecticut,14,852,0
+2016,Connecticut,14,828,0
+2017,Connecticut,15,807,0
+2018,Connecticut,12,801,0
+2019,Connecticut,11,810,0
+1934,Delaware,,0,
+1935,Delaware,44,12,
+1936,Delaware,44,12,
+1937,Delaware,44,13,
+1938,Delaware,44,13,
+1939,Delaware,42,13,
+1940,Delaware,42,14,
+1941,Delaware,41,13,
+1942,Delaware,41,11,
+1943,Delaware,40,12,
+1944,Delaware,39,13,
+1945,Delaware,39,13,
+1946,Delaware,38,14,
+1947,Delaware,38,14,
+1948,Delaware,38,14,
+1949,Delaware,37,15,
+1950,Delaware,37,19,
+1951,Delaware,35,23,
+1952,Delaware,34,29,
+1953,Delaware,34,32,
+1954,Delaware,33,31,
+1955,Delaware,29,36,
+1956,Delaware,27,38,
+1957,Delaware,26,40,
+1958,Delaware,26,42,
+1959,Delaware,19,51,
+1960,Delaware,19,52,
+1961,Delaware,19,52,
+1962,Delaware,19,56,
+1963,Delaware,20,60,
+1964,Delaware,20,64,
+1965,Delaware,20,65,
+1966,Delaware,20,71,0
+1967,Delaware,19,74,0
+1968,Delaware,19,78,0
+1969,Delaware,19,79,0
+1970,Delaware,18,87,0
+1971,Delaware,18,99,0
+1972,Delaware,18,110,0
+1973,Delaware,18,118,0
+1974,Delaware,17,130,0
+1975,Delaware,17,137,0
+1976,Delaware,17,142,0
+1977,Delaware,17,143,0
+1978,Delaware,17,147,0
+1979,Delaware,18,147,1
+1980,Delaware,18,148,0
+1981,Delaware,19,147,1
+1982,Delaware,27,150,9
+1983,Delaware,29,153,3
+1984,Delaware,32,154,3
+1985,Delaware,36,157,4
+1986,Delaware,42,159,6
+1987,Delaware,45,154,4
+1988,Delaware,46,157,3
+1989,Delaware,48,163,3
+1990,Delaware,47,167,1
+1991,Delaware,42,184,2
+1992,Delaware,40,179,0
+1993,Delaware,37,180,1
+1994,Delaware,39,184,3
+1995,Delaware,41,190,2
+1996,Delaware,40,187,2
+1997,Delaware,35,185,0
+1998,Delaware,35,184,3
+1999,Delaware,34,186,2
+2000,Delaware,33,172,1
+2001,Delaware,34,182,2
+2002,Delaware,28,183,0
+2003,Delaware,27,188,1
+2004,Delaware,27,201,0
+2005,Delaware,27,200,1
+2006,Delaware,26,198,1
+2007,Delaware,25,200,1
+2008,Delaware,24,198,0
+2009,Delaware,24,202,0
+2010,Delaware,21,203,0
+2011,Delaware,20,218,0
+2012,Delaware,20,222,0
+2013,Delaware,21,215,0
+2014,Delaware,19,205,0
+2015,Delaware,19,199,0
+2016,Delaware,19,198,0
+2017,Delaware,19,196,0
+2018,Delaware,19,193,0
+2019,Delaware,18,191,0
+1934,District of Columbia,22,0,
+1935,District of Columbia,22,30,
+1936,District of Columbia,22,30,
+1937,District of Columbia,22,30,
+1938,District of Columbia,22,30,
+1939,District of Columbia,22,30,
+1940,District of Columbia,22,30,
+1941,District of Columbia,22,30,
+1942,District of Columbia,22,30,
+1943,District of Columbia,22,33,
+1944,District of Columbia,21,34,
+1945,District of Columbia,21,34,
+1946,District of Columbia,20,35,
+1947,District of Columbia,19,38,
+1948,District of Columbia,19,39,
+1949,District of Columbia,19,41,
+1950,District of Columbia,19,45,
+1951,District of Columbia,19,47,
+1952,District of Columbia,19,48,
+1953,District of Columbia,19,51,
+1954,District of Columbia,17,54,
+1955,District of Columbia,17,54,
+1956,District of Columbia,17,54,
+1957,District of Columbia,16,57,
+1958,District of Columbia,13,60,
+1959,District of Columbia,12,64,
+1960,District of Columbia,12,65,
+1961,District of Columbia,11,69,
+1962,District of Columbia,12,72,
+1963,District of Columbia,14,76,
+1964,District of Columbia,15,84,
+1965,District of Columbia,15,88,
+1966,District of Columbia,14,94,0
+1967,District of Columbia,14,96,0
+1968,District of Columbia,14,100,0
+1969,District of Columbia,14,100,0
+1970,District of Columbia,14,103,0
+1971,District of Columbia,14,108,0
+1972,District of Columbia,14,112,0
+1973,District of Columbia,15,117,1
+1974,District of Columbia,16,126,1
+1975,District of Columbia,16,130,1
+1976,District of Columbia,16,131,0
+1977,District of Columbia,16,133,0
+1978,District of Columbia,17,138,1
+1979,District of Columbia,17,140,0
+1980,District of Columbia,17,151,0
+1981,District of Columbia,17,159,0
+1982,District of Columbia,17,162,1
+1983,District of Columbia,19,160,2
+1984,District of Columbia,19,160,0
+1985,District of Columbia,19,160,0
+1986,District of Columbia,20,164,1
+1987,District of Columbia,21,165,1
+1988,District of Columbia,24,170,3
+1989,District of Columbia,25,175,1
+1990,District of Columbia,26,169,2
+1991,District of Columbia,24,162,0
+1992,District of Columbia,20,170,0
+1993,District of Columbia,18,173,0
+1994,District of Columbia,16,177,0
+1995,District of Columbia,13,164,0
+1996,District of Columbia,8,175,0
+1997,District of Columbia,6,174,0
+1998,District of Columbia,7,166,1
+1999,District of Columbia,6,166,0
+2000,District of Columbia,6,158,0
+2001,District of Columbia,4,155,0
+2002,District of Columbia,4,153,0
+2003,District of Columbia,4,154,0
+2004,District of Columbia,5,159,1
+2005,District of Columbia,6,165,1
+2006,District of Columbia,5,189,0
+2007,District of Columbia,6,190,0
+2008,District of Columbia,5,195,0
+2009,District of Columbia,5,231,0
+2010,District of Columbia,5,232,0
+2011,District of Columbia,4,236,0
+2012,District of Columbia,4,232,0
+2013,District of Columbia,4,231,0
+2014,District of Columbia,4,226,0
+2015,District of Columbia,4,224,0
+2016,District of Columbia,3,220,0
+2017,District of Columbia,3,212,0
+2018,District of Columbia,3,208,0
+2019,District of Columbia,3,211,0
+1934,Federated States of Micronesia,0,0,
+1935,Federated States of Micronesia,0,0,
+1936,Federated States of Micronesia,0,0,
+1937,Federated States of Micronesia,0,0,
+1938,Federated States of Micronesia,0,0,
+1939,Federated States of Micronesia,0,0,
+1940,Federated States of Micronesia,0,0,
+1941,Federated States of Micronesia,0,0,
+1942,Federated States of Micronesia,0,0,
+1943,Federated States of Micronesia,0,0,
+1944,Federated States of Micronesia,0,0,
+1945,Federated States of Micronesia,0,0,
+1946,Federated States of Micronesia,0,0,
+1947,Federated States of Micronesia,0,0,
+1948,Federated States of Micronesia,0,0,
+1949,Federated States of Micronesia,0,0,
+1950,Federated States of Micronesia,0,0,
+1951,Federated States of Micronesia,0,0,
+1952,Federated States of Micronesia,0,0,
+1953,Federated States of Micronesia,0,0,
+1954,Federated States of Micronesia,0,0,
+1955,Federated States of Micronesia,0,0,
+1956,Federated States of Micronesia,0,0,
+1957,Federated States of Micronesia,0,0,
+1958,Federated States of Micronesia,0,0,
+1959,Federated States of Micronesia,0,0,
+1960,Federated States of Micronesia,0,0,
+1961,Federated States of Micronesia,0,0,
+1962,Federated States of Micronesia,0,0,
+1963,Federated States of Micronesia,0,0,
+1964,Federated States of Micronesia,0,0,
+1965,Federated States of Micronesia,0,24,
+1966,Federated States of Micronesia,0,24,0
+1967,Federated States of Micronesia,0,24,0
+1968,Federated States of Micronesia,0,26,0
+1969,Federated States of Micronesia,0,28,0
+1970,Federated States of Micronesia,0,27,0
+1971,Federated States of Micronesia,0,28,0
+1972,Federated States of Micronesia,0,29,0
+1973,Federated States of Micronesia,0,28,0
+1974,Federated States of Micronesia,0,19,0
+1975,Federated States of Micronesia,0,20,0
+1976,Federated States of Micronesia,0,20,0
+1977,Federated States of Micronesia,0,19,0
+1978,Federated States of Micronesia,0,11,0
+1979,Federated States of Micronesia,0,11,0
+1980,Federated States of Micronesia,0,11,0
+1981,Federated States of Micronesia,0,11,0
+1982,Federated States of Micronesia,0,12,0
+1983,Federated States of Micronesia,0,13,0
+1934,Florida,146,0,
+1935,Florida,148,0,
+1936,Florida,153,0,
+1937,Florida,158,0,
+1938,Florida,161,0,
+1939,Florida,162,0,
+1940,Florida,164,1,
+1941,Florida,165,1,
+1942,Florida,164,2,
+1943,Florida,166,13,
+1944,Florida,165,18,
+1945,Florida,167,12,
+1946,Florida,176,2,
+1947,Florida,180,2,
+1948,Florida,185,3,
+1949,Florida,189,4,
+1950,Florida,195,6,
+1951,Florida,204,9,
+1952,Florida,209,10,
+1953,Florida,213,12,
+1954,Florida,221,12,
+1955,Florida,233,12,
+1956,Florida,256,12,
+1957,Florida,265,13,
+1958,Florida,275,13,
+1959,Florida,288,14,
+1960,Florida,304,14,
+1961,Florida,318,15,
+1962,Florida,340,16,
+1963,Florida,382,16,
+1964,Florida,421,17,
+1965,Florida,439,18,
+1966,Florida,443,19,5
+1967,Florida,446,21,5
+1968,Florida,455,25,10
+1969,Florida,469,29,14
+1970,Florida,494,33,25
+1971,Florida,534,43,40
+1972,Florida,575,60,41
+1973,Florida,641,67,65
+1974,Florida,711,121,70
+1975,Florida,742,196,31
+1976,Florida,752,226,12
+1977,Florida,675,507,7
+1978,Florida,612,743,6
+1979,Florida,576,946,8
+1980,Florida,556,1184,5
+1981,Florida,495,1481,8
+1982,Florida,476,1623,29
+1983,Florida,460,1799,27
+1984,Florida,430,1996,30
+1985,Florida,422,2179,38
+1986,Florida,419,2397,36
+1987,Florida,411,2550,36
+1988,Florida,417,2680,31
+1989,Florida,431,2866,28
+1990,Florida,432,2916,8
+1991,Florida,421,3000,2
+1992,Florida,407,2602,3
+1993,Florida,375,2642,2
+1994,Florida,356,2958,2
+1995,Florida,333,3179,4
+1996,Florida,289,3331,7
+1997,Florida,266,3562,9
+1998,Florida,250,3694,12
+1999,Florida,272,3880,37
+2000,Florida,265,3863,16
+2001,Florida,261,3879,11
+2002,Florida,260,3818,6
+2003,Florida,262,3928,10
+2004,Florida,256,4121,13
+2005,Florida,262,4191,18
+2006,Florida,269,4455,21
+2007,Florida,281,4816,24
+2008,Florida,270,5153,9
+2009,Florida,253,5154,3
+2010,Florida,220,5015,0
+2011,Florida,204,5097,0
+2012,Florida,192,5244,0
+2013,Florida,183,5181,0
+2014,Florida,165,5128,0
+2015,Florida,148,5058,0
+2016,Florida,138,4949,0
+2017,Florida,124,4842,1
+2018,Florida,112,4697,1
+2019,Florida,99,4639,0
+1934,Georgia,260,0,
+1935,Georgia,258,24,
+1936,Georgia,262,24,
+1937,Georgia,264,23,
+1938,Georgia,263,24,
+1939,Georgia,267,24,
+1940,Georgia,266,24,
+1941,Georgia,272,24,
+1942,Georgia,274,30,
+1943,Georgia,275,36,
+1944,Georgia,276,41,
+1945,Georgia,291,31,
+1946,Georgia,304,29,
+1947,Georgia,311,29,
+1948,Georgia,318,29,
+1949,Georgia,328,37,
+1950,Georgia,331,41,
+1951,Georgia,337,47,
+1952,Georgia,341,51,
+1953,Georgia,345,57,
+1954,Georgia,347,58,
+1955,Georgia,349,61,
+1956,Georgia,352,67,
+1957,Georgia,353,69,
+1958,Georgia,356,76,
+1959,Georgia,357,87,
+1960,Georgia,363,106,
+1961,Georgia,362,126,
+1962,Georgia,364,141,
+1963,Georgia,370,160,
+1964,Georgia,381,169,
+1965,Georgia,387,196,
+1966,Georgia,394,211,2
+1967,Georgia,408,227,6
+1968,Georgia,417,248,3
+1969,Georgia,423,270,7
+1970,Georgia,434,296,9
+1971,Georgia,428,412,3
+1972,Georgia,431,483,5
+1973,Georgia,432,558,2
+1974,Georgia,443,656,13
+1975,Georgia,440,691,3
+1976,Georgia,441,718,4
+1977,Georgia,440,752,1
+1978,Georgia,440,786,1
+1979,Georgia,439,829,0
+1980,Georgia,435,876,0
+1981,Georgia,426,940,0
+1982,Georgia,416,928,2
+1983,Georgia,393,992,1
+1984,Georgia,384,1063,7
+1985,Georgia,373,1142,12
+1986,Georgia,369,1212,11
+1987,Georgia,358,1279,14
+1988,Georgia,379,1303,27
+1989,Georgia,392,1348,18
+1990,Georgia,409,1420,20
+1991,Georgia,405,1472,7
+1992,Georgia,403,1483,4
+1993,Georgia,399,1562,4
+1994,Georgia,386,1533,1
+1995,Georgia,383,1544,4
+1996,Georgia,354,1628,5
+1997,Georgia,353,1708,12
+1998,Georgia,349,1791,15
+1999,Georgia,345,1860,14
+2000,Georgia,338,1959,17
+2001,Georgia,324,2007,9
+2002,Georgia,319,2083,10
+2003,Georgia,323,2097,13
+2004,Georgia,325,2234,14
+2005,Georgia,331,2226,13
+2006,Georgia,333,2317,21
+2007,Georgia,332,2398,11
+2008,Georgia,314,2486,10
+2009,Georgia,287,2440,0
+2010,Georgia,250,2397,0
+2011,Georgia,226,2389,0
+2012,Georgia,212,2358,0
+2013,Georgia,208,2292,0
+2014,Georgia,197,2261,0
+2015,Georgia,183,2242,0
+2016,Georgia,171,2199,0
+2017,Georgia,165,2157,0
+2018,Georgia,159,2161,0
+2019,Georgia,150,2129,2
+1934,Guam,0,0,
+1935,Guam,0,0,
+1936,Guam,0,0,
+1937,Guam,0,0,
+1938,Guam,0,0,
+1939,Guam,0,0,
+1940,Guam,0,0,
+1941,Guam,0,0,
+1942,Guam,0,0,
+1943,Guam,0,0,
+1944,Guam,0,0,
+1945,Guam,0,0,
+1946,Guam,0,0,
+1947,Guam,0,0,
+1948,Guam,0,0,
+1949,Guam,0,0,
+1950,Guam,0,0,
+1951,Guam,0,0,
+1952,Guam,0,0,
+1953,Guam,0,0,
+1954,Guam,0,0,
+1955,Guam,0,0,
+1956,Guam,0,0,
+1957,Guam,0,0,
+1958,Guam,0,0,
+1959,Guam,0,0,
+1960,Guam,0,0,
+1961,Guam,0,0,
+1962,Guam,0,0,
+1963,Guam,0,0,
+1964,Guam,0,0,
+1965,Guam,0,4,
+1966,Guam,0,5,0
+1967,Guam,0,5,0
+1968,Guam,0,5,0
+1969,Guam,0,6,0
+1970,Guam,0,8,0
+1971,Guam,0,10,0
+1972,Guam,1,13,1
+1973,Guam,1,14,0
+1974,Guam,1,15,0
+1975,Guam,1,17,0
+1976,Guam,,14,0
+1977,Guam,1,12,0
+1978,Guam,1,12,0
+1979,Guam,1,13,0
+1980,Guam,1,16,0
+1981,Guam,1,14,0
+1982,Guam,1,15,0
+1983,Guam,1,15,0
+1984,Guam,1,15,0
+1985,Guam,1,16,0
+1986,Guam,1,17,0
+1987,Guam,1,16,0
+1988,Guam,1,15,0
+1989,Guam,1,15,0
+1990,Guam,1,15,0
+1991,Guam,2,17,1
+1992,Guam,2,19,0
+1993,Guam,2,21,0
+1994,Guam,2,21,0
+1995,Guam,2,23,0
+1996,Guam,2,25,0
+1997,Guam,2,25,0
+1998,Guam,2,28,0
+1999,Guam,2,28,0
+2000,Guam,2,28,0
+2001,Guam,2,27,0
+2002,Guam,2,26,0
+2003,Guam,2,30,0
+2004,Guam,2,27,0
+2005,Guam,2,27,0
+2006,Guam,2,27,0
+2007,Guam,2,27,0
+2008,Guam,2,27,0
+2009,Guam,2,27,0
+2010,Guam,2,27,0
+2011,Guam,2,27,0
+2012,Guam,2,26,0
+2013,Guam,2,21,0
+2014,Guam,2,21,0
+2015,Guam,2,20,0
+2016,Guam,2,19,0
+2017,Guam,2,18,0
+2018,Guam,2,18,0
+2019,Guam,2,17,0
+1934,Hawaii,0,0,
+1935,Hawaii,1,1,
+1936,Hawaii,1,2,
+1937,Hawaii,1,2,
+1938,Hawaii,1,2,
+1939,Hawaii,1,2,
+1940,Hawaii,1,2,
+1941,Hawaii,1,1,
+1942,Hawaii,1,0,
+1943,Hawaii,1,0,
+1944,Hawaii,1,0,
+1945,Hawaii,1,0,
+1946,Hawaii,1,0,
+1947,Hawaii,1,0,
+1948,Hawaii,1,0,
+1949,Hawaii,1,0,
+1950,Hawaii,1,0,
+1951,Hawaii,2,0,
+1952,Hawaii,2,1,
+1953,Hawaii,2,3,
+1954,Hawaii,3,3,
+1955,Hawaii,3,4,
+1956,Hawaii,3,6,
+1957,Hawaii,3,6,
+1958,Hawaii,3,7,
+1959,Hawaii,6,77,
+1960,Hawaii,7,85,
+1961,Hawaii,7,90,
+1962,Hawaii,7,105,
+1963,Hawaii,7,111,
+1964,Hawaii,7,114,
+1965,Hawaii,7,115,
+1966,Hawaii,7,119,0
+1967,Hawaii,7,122,0
+1968,Hawaii,7,122,0
+1969,Hawaii,7,128,0
+1970,Hawaii,7,138,0
+1971,Hawaii,7,140,0
+1972,Hawaii,7,143,0
+1973,Hawaii,8,147,1
+1974,Hawaii,8,148,0
+1975,Hawaii,8,151,0
+1976,Hawaii,8,153,0
+1977,Hawaii,8,155,0
+1978,Hawaii,8,157,0
+1979,Hawaii,9,160,1
+1980,Hawaii,9,162,0
+1981,Hawaii,9,163,0
+1982,Hawaii,10,167,1
+1983,Hawaii,14,184,0
+1984,Hawaii,21,0,0
+1985,Hawaii,22,0,0
+1986,Hawaii,22,0,0
+1987,Hawaii,22,0,0
+1988,Hawaii,22,0,0
+1989,Hawaii,21,0,0
+1990,Hawaii,21,0,0
+1991,Hawaii,20,0,0
+1992,Hawaii,17,0,0
+1993,Hawaii,17,0,0
+1994,Hawaii,16,0,0
+1995,Hawaii,14,0,0
+1996,Hawaii,14,0,0
+1997,Hawaii,14,0,0
+1998,Hawaii,12,0,0
+1999,Hawaii,10,0,0
+2000,Hawaii,8,0,0
+2001,Hawaii,8,0,0
+2002,Hawaii,7,0,0
+2003,Hawaii,6,0,0
+2004,Hawaii,6,0,0
+2005,Hawaii,5,0,0
+2006,Hawaii,7,0,2
+2007,Hawaii,7,0,0
+2008,Hawaii,7,0,0
+2009,Hawaii,7,0,0
+2010,Hawaii,7,0,0
+2011,Hawaii,7,0,0
+2012,Hawaii,7,0,0
+2013,Hawaii,7,0,0
+2014,Hawaii,7,0,0
+2015,Hawaii,6,0,0
+2016,Hawaii,6,0,0
+2017,Hawaii,6,0,0
+2018,Hawaii,6,0,0
+2019,Hawaii,6,0,0
+1934,Idaho,60,0,
+1935,Idaho,57,26,
+1936,Idaho,50,32,
+1937,Idaho,50,31,
+1938,Idaho,50,31,
+1939,Idaho,49,32,
+1940,Idaho,49,37,
+1941,Idaho,49,37,
+1942,Idaho,45,39,
+1943,Idaho,46,42,
+1944,Idaho,45,43,
+1945,Idaho,45,40,
+1946,Idaho,45,42,
+1947,Idaho,47,45,
+1948,Idaho,46,48,
+1949,Idaho,42,53,
+1950,Idaho,42,55,
+1951,Idaho,41,58,
+1952,Idaho,39,62,
+1953,Idaho,38,65,
+1954,Idaho,38,65,
+1955,Idaho,36,67,
+1956,Idaho,33,72,
+1957,Idaho,28,78,
+1958,Idaho,28,81,
+1959,Idaho,32,81,
+1960,Idaho,32,83,
+1961,Idaho,32,88,
+1962,Idaho,31,93,
+1963,Idaho,27,111,
+1964,Idaho,24,120,
+1965,Idaho,25,127,
+1966,Idaho,25,140,0
+1967,Idaho,26,141,1
+1968,Idaho,26,142,0
+1969,Idaho,26,149,0
+1970,Idaho,24,156,0
+1971,Idaho,24,165,0
+1972,Idaho,24,170,0
+1973,Idaho,24,179,1
+1974,Idaho,24,191,1
+1975,Idaho,24,200,0
+1976,Idaho,24,211,0
+1977,Idaho,24,215,1
+1978,Idaho,24,228,0
+1979,Idaho,27,236,3
+1980,Idaho,26,247,0
+1981,Idaho,27,259,1
+1982,Idaho,27,261,0
+1983,Idaho,26,262,0
+1984,Idaho,25,273,0
+1985,Idaho,26,275,1
+1986,Idaho,24,278,0
+1987,Idaho,23,277,0
+1988,Idaho,22,275,0
+1989,Idaho,23,275,1
+1990,Idaho,22,279,0
+1991,Idaho,22,300,1
+1992,Idaho,20,292,0
+1993,Idaho,21,305,1
+1994,Idaho,19,322,0
+1995,Idaho,19,329,0
+1996,Idaho,17,334,1
+1997,Idaho,17,346,4
+1998,Idaho,17,342,0
+1999,Idaho,17,358,0
+2000,Idaho,18,368,1
+2001,Idaho,17,362,1
+2002,Idaho,17,373,0
+2003,Idaho,15,380,0
+2004,Idaho,14,389,0
+2005,Idaho,15,408,1
+2006,Idaho,16,435,1
+2007,Idaho,16,447,1
+2008,Idaho,16,492,1
+2009,Idaho,16,489,0
+2010,Idaho,16,489,0
+2011,Idaho,17,500,0
+2012,Idaho,15,498,0
+2013,Idaho,15,512,0
+2014,Idaho,11,501,0
+2015,Idaho,11,495,0
+2016,Idaho,11,480,0
+2017,Idaho,12,478,0
+2018,Idaho,12,467,0
+2019,Idaho,10,451,0
+1934,Illinois,863,0,
+1935,Illinois,864,0,
+1936,Illinois,863,0,
+1937,Illinois,856,0,
+1938,Illinois,839,0,
+1939,Illinois,831,0,
+1940,Illinois,824,0,
+1941,Illinois,816,0,
+1942,Illinois,815,0,
+1943,Illinois,817,3,
+1944,Illinois,822,6,
+1945,Illinois,840,5,
+1946,Illinois,856,3,
+1947,Illinois,867,3,
+1948,Illinois,870,3,
+1949,Illinois,874,3,
+1950,Illinois,876,2,
+1951,Illinois,882,2,
+1952,Illinois,883,3,
+1953,Illinois,889,3,
+1954,Illinois,902,3,
+1955,Illinois,913,4,
+1956,Illinois,922,4,
+1957,Illinois,933,4,
+1958,Illinois,940,4,
+1959,Illinois,949,4,
+1960,Illinois,960,4,
+1961,Illinois,970,4,
+1962,Illinois,993,4,
+1963,Illinois,1003,4,
+1964,Illinois,1024,5,
+1965,Illinois,1044,5,
+1966,Illinois,1053,5,8
+1967,Illinois,1062,18,6
+1968,Illinois,1069,45,9
+1969,Illinois,1085,74,18
+1970,Illinois,1105,98,20
+1971,Illinois,1131,123,28
+1972,Illinois,1149,148,19
+1973,Illinois,1165,175,16
+1974,Illinois,1183,194,18
+1975,Illinois,1206,216,24
+1976,Illinois,1225,233,19
+1977,Illinois,1235,306,11
+1978,Illinois,1241,394,8
+1979,Illinois,1250,452,13
+1980,Illinois,1253,534,5
+1981,Illinois,1252,627,4
+1982,Illinois,1250,619,5
+1983,Illinois,1247,663,5
+1984,Illinois,1241,711,1
+1985,Illinois,1234,747,1
+1986,Illinois,1221,796,1
+1987,Illinois,1211,847,5
+1988,Illinois,1149,957,6
+1989,Illinois,1119,1043,8
+1990,Illinois,1087,1172,4
+1991,Illinois,1061,1296,10
+1992,Illinois,1006,1389,6
+1993,Illinois,958,1545,4
+1994,Illinois,906,1675,4
+1995,Illinois,864,1846,14
+1996,Illinois,833,2043,9
+1997,Illinois,784,2287,9
+1998,Illinois,745,2541,7
+1999,Illinois,725,2684,16
+2000,Illinois,711,2834,13
+2001,Illinois,692,2887,4
+2002,Illinois,677,3023,2
+2003,Illinois,664,3163,2
+2004,Illinois,645,3383,3
+2005,Illinois,611,3619,10
+2006,Illinois,592,3837,7
+2007,Illinois,581,4001,8
+2008,Illinois,570,4262,2
+2009,Illinois,546,4186,1
+2010,Illinois,527,4180,1
+2011,Illinois,498,4208,0
+2012,Illinois,485,4148,0
+2013,Illinois,469,4082,0
+2014,Illinois,452,4031,0
+2015,Illinois,429,3961,0
+2016,Illinois,414,3901,0
+2017,Illinois,398,3820,0
+2018,Illinois,381,3749,0
+2019,Illinois,363,3684,0
+1934,Indiana,493,0,
+1935,Indiana,500,47,
+1936,Indiana,485,52,
+1937,Indiana,483,55,
+1938,Indiana,481,59,
+1939,Indiana,476,64,
+1940,Indiana,475,66,
+1941,Indiana,473,67,
+1942,Indiana,473,68,
+1943,Indiana,473,70,
+1944,Indiana,472,75,
+1945,Indiana,471,78,
+1946,Indiana,474,82,
+1947,Indiana,473,88,
+1948,Indiana,473,96,
+1949,Indiana,477,99,
+1950,Indiana,475,108,
+1951,Indiana,471,120,
+1952,Indiana,471,125,
+1953,Indiana,469,141,
+1954,Indiana,466,153,
+1955,Indiana,466,166,
+1956,Indiana,463,193,
+1957,Indiana,457,223,
+1958,Indiana,452,248,
+1959,Indiana,443,276,
+1960,Indiana,437,311,
+1961,Indiana,437,340,
+1962,Indiana,434,366,
+1963,Indiana,432,399,
+1964,Indiana,426,441,
+1965,Indiana,418,471,
+1966,Indiana,415,507,0
+1967,Indiana,413,542,1
+1968,Indiana,411,576,0
+1969,Indiana,407,601,1
+1970,Indiana,404,632,0
+1971,Indiana,405,671,1
+1972,Indiana,405,719,1
+1973,Indiana,407,777,4
+1974,Indiana,408,842,3
+1975,Indiana,405,909,2
+1976,Indiana,406,948,3
+1977,Indiana,407,995,1
+1978,Indiana,404,1035,2
+1979,Indiana,404,1082,1
+1980,Indiana,405,1129,1
+1981,Indiana,405,1181,0
+1982,Indiana,400,1193,1
+1983,Indiana,390,1222,0
+1984,Indiana,378,1246,0
+1985,Indiana,371,1273,0
+1986,Indiana,356,1323,0
+1987,Indiana,345,1335,0
+1988,Indiana,338,1372,3
+1989,Indiana,312,1422,0
+1990,Indiana,301,1474,0
+1991,Indiana,284,1524,0
+1992,Indiana,270,1547,0
+1993,Indiana,239,1588,1
+1994,Indiana,222,1600,2
+1995,Indiana,211,1643,1
+1996,Indiana,204,1691,1
+1997,Indiana,185,1744,3
+1998,Indiana,169,1754,3
+1999,Indiana,158,1767,3
+2000,Indiana,153,1741,3
+2001,Indiana,154,1806,2
+2002,Indiana,151,1812,0
+2003,Indiana,148,1837,1
+2004,Indiana,140,1905,1
+2005,Indiana,131,1945,1
+2006,Indiana,122,2036,1
+2007,Indiana,114,2054,0
+2008,Indiana,111,2079,0
+2009,Indiana,104,2093,0
+2010,Indiana,102,2073,0
+2011,Indiana,101,2064,0
+2012,Indiana,99,2050,0
+2013,Indiana,96,1984,0
+2014,Indiana,95,1983,0
+2015,Indiana,92,1937,0
+2016,Indiana,87,1911,0
+2017,Indiana,84,1853,0
+2018,Indiana,82,1786,0
+2019,Indiana,80,1747,0
+1934,Iowa,575,0,
+1935,Iowa,582,115,
+1936,Iowa,589,133,
+1937,Iowa,589,138,
+1938,Iowa,584,145,
+1939,Iowa,584,149,
+1940,Iowa,586,147,
+1941,Iowa,589,151,
+1942,Iowa,587,153,
+1943,Iowa,588,151,
+1944,Iowa,586,152,
+1945,Iowa,593,150,
+1946,Iowa,596,154,
+1947,Iowa,602,155,
+1948,Iowa,606,157,
+1949,Iowa,604,159,
+1950,Iowa,606,159,
+1951,Iowa,606,160,
+1952,Iowa,609,160,
+1953,Iowa,612,161,
+1954,Iowa,615,160,
+1955,Iowa,619,160,
+1956,Iowa,622,159,
+1957,Iowa,624,159,
+1958,Iowa,628,161,
+1959,Iowa,632,170,
+1960,Iowa,635,181,
+1961,Iowa,649,190,
+1962,Iowa,652,194,
+1963,Iowa,657,212,
+1964,Iowa,659,221,
+1965,Iowa,659,235,
+1966,Iowa,661,250,2
+1967,Iowa,661,260,1
+1968,Iowa,661,282,0
+1969,Iowa,658,298,0
+1970,Iowa,658,318,1
+1971,Iowa,658,329,0
+1972,Iowa,661,345,3
+1973,Iowa,661,369,2
+1974,Iowa,657,385,0
+1975,Iowa,654,408,0
+1976,Iowa,652,421,0
+1977,Iowa,649,509,0
+1978,Iowa,650,500,1
+1979,Iowa,651,538,0
+1980,Iowa,651,572,1
+1981,Iowa,649,593,0
+1982,Iowa,643,514,2
+1983,Iowa,637,533,1
+1984,Iowa,632,544,0
+1985,Iowa,625,547,0
+1986,Iowa,614,544,0
+1987,Iowa,597,547,1
+1988,Iowa,585,548,1
+1989,Iowa,576,559,0
+1990,Iowa,562,588,0
+1991,Iowa,553,617,1
+1992,Iowa,542,640,0
+1993,Iowa,530,664,1
+1994,Iowa,517,706,2
+1995,Iowa,491,742,1
+1996,Iowa,467,787,7
+1997,Iowa,453,882,6
+1998,Iowa,443,877,5
+1999,Iowa,440,881,6
+2000,Iowa,431,878,4
+2001,Iowa,417,930,2
+2002,Iowa,410,952,2
+2003,Iowa,400,994,1
+2004,Iowa,395,1030,0
+2005,Iowa,392,1116,3
+2006,Iowa,383,1140,2
+2007,Iowa,372,1155,0
+2008,Iowa,361,1175,0
+2009,Iowa,352,1200,0
+2010,Iowa,345,1197,0
+2011,Iowa,333,1229,0
+2012,Iowa,329,1249,0
+2013,Iowa,322,1258,0
+2014,Iowa,314,1246,0
+2015,Iowa,305,1246,0
+2016,Iowa,297,1237,0
+2017,Iowa,292,1223,0
+2018,Iowa,285,1219,0
+2019,Iowa,270,1229,0
+1934,Kansas,431,0,
+1935,Kansas,460,0,
+1936,Kansas,460,0,
+1937,Kansas,457,0,
+1938,Kansas,456,0,
+1939,Kansas,453,0,
+1940,Kansas,449,0,
+1941,Kansas,455,0,
+1942,Kansas,456,0,
+1943,Kansas,451,2,
+1944,Kansas,449,6,
+1945,Kansas,446,3,
+1946,Kansas,452,1,
+1947,Kansas,452,0,
+1948,Kansas,455,0,
+1949,Kansas,461,0,
+1950,Kansas,466,0,
+1951,Kansas,468,2,
+1952,Kansas,474,2,
+1953,Kansas,477,3,
+1954,Kansas,487,3,
+1955,Kansas,502,2,
+1956,Kansas,548,3,
+1957,Kansas,552,5,
+1958,Kansas,557,14,
+1959,Kansas,585,20,
+1960,Kansas,583,25,
+1961,Kansas,587,32,
+1962,Kansas,590,38,
+1963,Kansas,591,45,
+1964,Kansas,593,50,
+1965,Kansas,596,49,
+1966,Kansas,599,53,2
+1967,Kansas,600,58,4
+1968,Kansas,600,61,0
+1969,Kansas,602,61,3
+1970,Kansas,600,69,0
+1971,Kansas,602,73,2
+1972,Kansas,606,76,5
+1973,Kansas,611,89,5
+1974,Kansas,612,127,2
+1975,Kansas,615,151,4
+1976,Kansas,615,169,0
+1977,Kansas,615,208,1
+1978,Kansas,616,256,1
+1979,Kansas,616,254,1
+1980,Kansas,619,272,6
+1981,Kansas,618,282,0
+1982,Kansas,620,208,2
+1983,Kansas,623,211,4
+1984,Kansas,628,216,7
+1985,Kansas,624,216,4
+1986,Kansas,613,221,0
+1987,Kansas,601,240,1
+1988,Kansas,590,271,2
+1989,Kansas,573,308,1
+1990,Kansas,555,407,3
+1991,Kansas,528,475,0
+1992,Kansas,508,494,0
+1993,Kansas,490,525,0
+1994,Kansas,458,586,1
+1995,Kansas,433,648,4
+1996,Kansas,416,698,2
+1997,Kansas,403,763,0
+1998,Kansas,393,808,3
+1999,Kansas,387,843,3
+2000,Kansas,376,873,2
+2001,Kansas,373,926,4
+2002,Kansas,363,968,1
+2003,Kansas,362,974,1
+2004,Kansas,355,1009,0
+2005,Kansas,354,1062,2
+2006,Kansas,346,1082,1
+2007,Kansas,340,1108,3
+2008,Kansas,331,1125,0
+2009,Kansas,323,1140,0
+2010,Kansas,311,1152,0
+2011,Kansas,304,1159,0
+2012,Kansas,286,1158,0
+2013,Kansas,277,1136,0
+2014,Kansas,268,1128,0
+2015,Kansas,260,1129,0
+2016,Kansas,253,1130,0
+2017,Kansas,238,1131,0
+2018,Kansas,226,1129,0
+2019,Kansas,219,1136,0
+1934,Kentucky,394,0,
+1935,Kentucky,392,30,
+1936,Kentucky,386,28,
+1937,Kentucky,379,29,
+1938,Kentucky,376,28,
+1939,Kentucky,374,28,
+1940,Kentucky,371,29,
+1941,Kentucky,372,29,
+1942,Kentucky,371,32,
+1943,Kentucky,365,35,
+1944,Kentucky,363,35,
+1945,Kentucky,363,35,
+1946,Kentucky,362,34,
+1947,Kentucky,362,36,
+1948,Kentucky,360,39,
+1949,Kentucky,362,41,
+1950,Kentucky,362,44,
+1951,Kentucky,361,51,
+1952,Kentucky,362,57,
+1953,Kentucky,360,59,
+1954,Kentucky,354,66,
+1955,Kentucky,353,84,
+1956,Kentucky,352,96,
+1957,Kentucky,351,108,
+1958,Kentucky,349,116,
+1959,Kentucky,348,132,
+1960,Kentucky,345,146,
+1961,Kentucky,342,165,
+1962,Kentucky,342,184,
+1963,Kentucky,341,198,
+1964,Kentucky,342,213,
+1965,Kentucky,340,232,
+1966,Kentucky,342,243,2
+1967,Kentucky,340,268,0
+1968,Kentucky,341,286,0
+1969,Kentucky,340,306,0
+1970,Kentucky,339,328,3
+1971,Kentucky,339,361,0
+1972,Kentucky,337,394,1
+1973,Kentucky,341,424,2
+1974,Kentucky,341,471,0
+1975,Kentucky,341,509,2
+1976,Kentucky,342,560,3
+1977,Kentucky,343,606,1
+1978,Kentucky,343,644,0
+1979,Kentucky,342,697,1
+1980,Kentucky,344,761,2
+1981,Kentucky,343,794,0
+1982,Kentucky,342,736,2
+1983,Kentucky,336,749,1
+1984,Kentucky,336,756,2
+1985,Kentucky,333,770,1
+1986,Kentucky,331,784,0
+1987,Kentucky,330,797,0
+1988,Kentucky,332,825,3
+1989,Kentucky,335,844,3
+1990,Kentucky,332,860,4
+1991,Kentucky,320,887,1
+1992,Kentucky,311,912,3
+1993,Kentucky,309,929,2
+1994,Kentucky,287,1026,1
+1995,Kentucky,276,1034,1
+1996,Kentucky,275,1070,8
+1997,Kentucky,271,1109,8
+1998,Kentucky,261,1212,3
+1999,Kentucky,248,1263,2
+2000,Kentucky,233,1335,6
+2001,Kentucky,230,1382,5
+2002,Kentucky,221,1400,1
+2003,Kentucky,217,1424,1
+2004,Kentucky,214,1482,2
+2005,Kentucky,205,1509,1
+2006,Kentucky,198,1550,3
+2007,Kentucky,186,1599,0
+2008,Kentucky,179,1613,0
+2009,Kentucky,180,1611,1
+2010,Kentucky,179,1562,0
+2011,Kentucky,178,1583,0
+2012,Kentucky,176,1555,0
+2013,Kentucky,172,1544,0
+2014,Kentucky,168,1517,0
+2015,Kentucky,157,1510,0
+2016,Kentucky,152,1489,0
+2017,Kentucky,143,1479,0
+2018,Kentucky,138,1471,0
+2019,Kentucky,131,1467,0
+1934,Louisiana,147,0,
+1935,Louisiana,148,51,
+1936,Louisiana,144,53,
+1937,Louisiana,145,53,
+1938,Louisiana,145,53,
+1939,Louisiana,144,53,
+1940,Louisiana,144,54,
+1941,Louisiana,145,55,
+1942,Louisiana,143,56,
+1943,Louisiana,146,64,
+1944,Louisiana,148,63,
+1945,Louisiana,150,61,
+1946,Louisiana,154,62,
+1947,Louisiana,159,63,
+1948,Louisiana,160,65,
+1949,Louisiana,161,72,
+1950,Louisiana,164,77,
+1951,Louisiana,165,83,
+1952,Louisiana,166,89,
+1953,Louisiana,170,95,
+1954,Louisiana,171,102,
+1955,Louisiana,174,117,
+1956,Louisiana,179,129,
+1957,Louisiana,181,141,
+1958,Louisiana,185,156,
+1959,Louisiana,186,162,
+1960,Louisiana,189,176,
+1961,Louisiana,191,189,
+1962,Louisiana,195,203,
+1963,Louisiana,198,220,
+1964,Louisiana,208,236,
+1965,Louisiana,213,248,
+1966,Louisiana,219,286,6
+1967,Louisiana,225,305,6
+1968,Louisiana,228,329,3
+1969,Louisiana,230,359,2
+1970,Louisiana,230,393,1
+1971,Louisiana,234,414,4
+1972,Louisiana,237,443,5
+1973,Louisiana,244,490,8
+1974,Louisiana,249,541,4
+1975,Louisiana,254,585,5
+1976,Louisiana,254,634,1
+1977,Louisiana,254,670,1
+1978,Louisiana,256,715,2
+1979,Louisiana,262,764,7
+1980,Louisiana,269,805,7
+1981,Louisiana,273,855,4
+1982,Louisiana,278,844,6
+1983,Louisiana,286,878,10
+1984,Louisiana,302,906,17
+1985,Louisiana,302,927,2
+1986,Louisiana,298,929,3
+1987,Louisiana,271,927,0
+1988,Louisiana,253,925,0
+1989,Louisiana,232,936,0
+1990,Louisiana,231,973,0
+1991,Louisiana,226,962,1
+1992,Louisiana,221,987,0
+1993,Louisiana,217,1013,0
+1994,Louisiana,200,1099,0
+1995,Louisiana,185,1109,0
+1996,Louisiana,172,1216,0
+1997,Louisiana,158,1269,3
+1998,Louisiana,150,1259,5
+1999,Louisiana,153,1244,9
+2000,Louisiana,149,1255,1
+2001,Louisiana,143,1266,0
+2002,Louisiana,140,1274,0
+2003,Louisiana,139,1291,0
+2004,Louisiana,138,1323,1
+2005,Louisiana,136,1341,1
+2006,Louisiana,139,1369,3
+2007,Louisiana,136,1381,0
+2008,Louisiana,134,1403,1
+2009,Louisiana,133,1410,0
+2010,Louisiana,132,1420,1
+2011,Louisiana,124,1449,0
+2012,Louisiana,123,1434,0
+2013,Louisiana,120,1424,0
+2014,Louisiana,117,1399,0
+2015,Louisiana,114,1408,0
+2016,Louisiana,112,1380,0
+2017,Louisiana,107,1333,0
+2018,Louisiana,100,1305,0
+2019,Louisiana,98,1287,0
+1934,Maine,66,0,
+1935,Maine,62,52,
+1936,Maine,62,52,
+1937,Maine,61,52,
+1938,Maine,61,52,
+1939,Maine,60,52,
+1940,Maine,59,53,
+1941,Maine,57,54,
+1942,Maine,57,55,
+1943,Maine,57,55,
+1944,Maine,57,56,
+1945,Maine,55,59,
+1946,Maine,55,60,
+1947,Maine,54,61,
+1948,Maine,54,61,
+1949,Maine,54,61,
+1950,Maine,53,62,
+1951,Maine,54,66,
+1952,Maine,55,72,
+1953,Maine,55,74,
+1954,Maine,54,80,
+1955,Maine,52,85,
+1956,Maine,51,92,
+1957,Maine,51,101,
+1958,Maine,49,109,
+1959,Maine,48,113,
+1960,Maine,42,123,
+1961,Maine,43,131,
+1962,Maine,41,145,
+1963,Maine,40,151,
+1964,Maine,40,154,
+1965,Maine,39,166,
+1966,Maine,41,180,0
+1967,Maine,41,191,0
+1968,Maine,40,197,0
+1969,Maine,41,206,0
+1970,Maine,39,226,0
+1971,Maine,40,237,1
+1972,Maine,43,248,4
+1973,Maine,44,260,1
+1974,Maine,45,277,1
+1975,Maine,45,287,1
+1976,Maine,43,291,0
+1977,Maine,43,297,0
+1978,Maine,43,293,0
+1979,Maine,41,299,0
+1980,Maine,41,308,0
+1981,Maine,36,356,0
+1982,Maine,35,316,0
+1983,Maine,31,322,0
+1984,Maine,26,327,1
+1985,Maine,25,327,0
+1986,Maine,22,333,0
+1987,Maine,23,338,1
+1988,Maine,19,336,0
+1989,Maine,20,333,1
+1990,Maine,21,331,1
+1991,Maine,21,317,1
+1992,Maine,21,310,1
+1993,Maine,20,300,0
+1994,Maine,20,295,0
+1995,Maine,20,276,1
+1996,Maine,20,278,0
+1997,Maine,17,265,0
+1998,Maine,17,224,0
+1999,Maine,16,227,0
+2000,Maine,15,296,0
+2001,Maine,15,281,0
+2002,Maine,15,278,0
+2003,Maine,16,271,1
+2004,Maine,16,280,0
+2005,Maine,14,284,0
+2006,Maine,14,302,0
+2007,Maine,13,292,0
+2008,Maine,8,259,0
+2009,Maine,8,255,0
+2010,Maine,8,249,0
+2011,Maine,8,248,0
+2012,Maine,7,246,0
+2013,Maine,6,229,0
+2014,Maine,6,227,0
+2015,Maine,6,270,0
+2016,Maine,6,265,0
+2017,Maine,6,257,0
+2018,Maine,6,253,0
+2019,Maine,6,244,0
+1984,Marshall Islands,,4,
+1985,Marshall Islands,,4,
+1986,Marshall Islands,,4,
+1987,Marshall Islands,,4,
+1988,Marshall Islands,,5,
+1989,Marshall Islands,,5,
+1990,Marshall Islands,,5,
+1991,Marshall Islands,,5,
+1992,Marshall Islands,,5,
+1993,Marshall Islands,,5,
+1994,Marshall Islands,,5,
+1995,Marshall Islands,,5,
+1996,Marshall Islands,,5,
+1997,Marshall Islands,,5,
+1998,Marshall Islands,,5,
+1999,Marshall Islands,,5,
+2000,Marshall Islands,,5,
+2001,Marshall Islands,,5,
+2002,Marshall Islands,,3,
+2003,Marshall Islands,,2,
+2004,Marshall Islands,,1,
+2005,Marshall Islands,,1,
+2006,Marshall Islands,,1,
+2007,Marshall Islands,,1,
+2008,Marshall Islands,,1,
+2009,Marshall Islands,,1,
+2010,Marshall Islands,,1,
+2011,Marshall Islands,,1,
+2012,Marshall Islands,,1,
+2013,Marshall Islands,,1,
+2014,Marshall Islands,,1,
+2015,Marshall Islands,,1,
+2016,Marshall Islands,,1,
+2017,Marshall Islands,,1,
+2018,Marshall Islands,,1,
+2019,Marshall Islands,,1,
+1934,Maryland,184,0,
+1935,Maryland,184,77,
+1936,Maryland,183,78,
+1937,Maryland,181,76,
+1938,Maryland,178,74,
+1939,Maryland,174,78,
+1940,Maryland,172,80,
+1941,Maryland,172,79,
+1942,Maryland,172,81,
+1943,Maryland,172,83,
+1944,Maryland,171,84,
+1945,Maryland,167,89,
+1946,Maryland,167,93,
+1947,Maryland,164,100,
+1948,Maryland,161,108,
+1949,Maryland,162,114,
+1950,Maryland,162,118,
+1951,Maryland,158,133,
+1952,Maryland,154,141,
+1953,Maryland,153,145,
+1954,Maryland,151,154,
+1955,Maryland,151,166,
+1956,Maryland,149,178,
+1957,Maryland,147,190,
+1958,Maryland,141,206,
+1959,Maryland,139,221,
+1960,Maryland,132,246,
+1961,Maryland,131,261,
+1962,Maryland,120,296,
+1963,Maryland,117,332,
+1964,Maryland,120,364,
+1965,Maryland,121,388,
+1966,Maryland,121,408,1
+1967,Maryland,121,435,1
+1968,Maryland,121,462,1
+1969,Maryland,121,484,2
+1970,Maryland,114,515,0
+1971,Maryland,112,567,0
+1972,Maryland,112,595,1
+1973,Maryland,112,643,0
+1974,Maryland,114,703,5
+1975,Maryland,115,751,2
+1976,Maryland,113,783,0
+1977,Maryland,108,812,0
+1978,Maryland,106,855,1
+1979,Maryland,102,905,1
+1980,Maryland,102,942,1
+1981,Maryland,94,990,0
+1982,Maryland,91,1036,1
+1983,Maryland,89,1060,2
+1984,Maryland,88,1116,2
+1985,Maryland,90,1135,3
+1986,Maryland,93,1189,4
+1987,Maryland,95,1258,2
+1988,Maryland,99,1259,4
+1989,Maryland,106,1286,7
+1990,Maryland,103,1295,3
+1991,Maryland,102,1289,1
+1992,Maryland,96,1287,0
+1993,Maryland,94,1256,1
+1994,Maryland,93,1278,0
+1995,Maryland,91,1257,0
+1996,Maryland,90,1268,1
+1997,Maryland,83,1275,0
+1998,Maryland,80,1299,1
+1999,Maryland,77,1333,1
+2000,Maryland,74,1318,2
+2001,Maryland,74,1338,1
+2002,Maryland,73,1331,0
+2003,Maryland,70,1327,2
+2004,Maryland,67,1345,3
+2005,Maryland,65,1367,1
+2006,Maryland,65,1419,1
+2007,Maryland,55,1468,1
+2008,Maryland,53,1480,1
+2009,Maryland,50,1663,0
+2010,Maryland,48,1615,0
+2011,Maryland,49,1626,0
+2012,Maryland,46,1597,0
+2013,Maryland,45,1540,0
+2014,Maryland,43,1515,0
+2015,Maryland,39,1470,0
+2016,Maryland,35,1444,0
+2017,Maryland,35,1423,0
+2018,Maryland,32,1385,0
+2019,Maryland,28,1367,0
+1934,Massachusetts,206,0,
+1935,Massachusetts,200,110,
+1936,Massachusetts,197,112,
+1937,Massachusetts,194,114,
+1938,Massachusetts,193,113,
+1939,Massachusetts,192,116,
+1940,Massachusetts,192,115,
+1941,Massachusetts,190,118,
+1942,Massachusetts,190,121,
+1943,Massachusetts,189,123,
+1944,Massachusetts,188,124,
+1945,Massachusetts,183,137,
+1946,Massachusetts,183,143,
+1947,Massachusetts,179,151,
+1948,Massachusetts,180,161,
+1949,Massachusetts,175,168,
+1950,Massachusetts,174,175,
+1951,Massachusetts,173,188,
+1952,Massachusetts,173,199,
+1953,Massachusetts,173,212,
+1954,Massachusetts,171,231,
+1955,Massachusetts,170,260,
+1956,Massachusetts,167,277,
+1957,Massachusetts,166,295,
+1958,Massachusetts,165,322,
+1959,Massachusetts,163,353,
+1960,Massachusetts,166,373,
+1961,Massachusetts,163,409,
+1962,Massachusetts,158,443,
+1963,Massachusetts,157,476,
+1964,Massachusetts,154,524,
+1965,Massachusetts,156,565,
+1966,Massachusetts,157,611,4
+1967,Massachusetts,154,644,0
+1968,Massachusetts,153,680,5
+1969,Massachusetts,156,710,4
+1970,Massachusetts,158,742,2
+1971,Massachusetts,154,779,1
+1972,Massachusetts,151,810,1
+1973,Massachusetts,148,849,0
+1974,Massachusetts,147,882,2
+1975,Massachusetts,145,902,0
+1976,Massachusetts,143,925,0
+1977,Massachusetts,145,926,0
+1978,Massachusetts,146,923,1
+1979,Massachusetts,143,935,0
+1980,Massachusetts,138,952,0
+1981,Massachusetts,138,981,2
+1982,Massachusetts,136,993,3
+1983,Massachusetts,127,1003,1
+1984,Massachusetts,125,959,1
+1985,Massachusetts,116,988,3
+1986,Massachusetts,108,1027,2
+1987,Massachusetts,108,1037,10
+1988,Massachusetts,103,1018,2
+1989,Massachusetts,99,1006,1
+1990,Massachusetts,85,987,0
+1991,Massachusetts,73,862,0
+1992,Massachusetts,61,737,0
+1993,Massachusetts,61,697,1
+1994,Massachusetts,53,714,0
+1995,Massachusetts,51,789,0
+1996,Massachusetts,50,709,1
+1997,Massachusetts,46,888,1
+1998,Massachusetts,44,883,1
+1999,Massachusetts,45,997,0
+2000,Massachusetts,43,818,0
+2001,Massachusetts,43,844,1
+2002,Massachusetts,39,937,1
+2003,Massachusetts,37,964,0
+2004,Massachusetts,36,1036,0
+2005,Massachusetts,35,1073,0
+2006,Massachusetts,36,1072,1
+2007,Massachusetts,31,1087,0
+2008,Massachusetts,28,1089,1
+2009,Massachusetts,28,1073,1
+2010,Massachusetts,26,1044,0
+2011,Massachusetts,25,1053,0
+2012,Massachusetts,24,1294,0
+2013,Massachusetts,24,1265,0
+2014,Massachusetts,23,1266,0
+2015,Massachusetts,21,1311,0
+2016,Massachusetts,20,1289,0
+2017,Massachusetts,18,1276,0
+2018,Massachusetts,16,1249,0
+2019,Massachusetts,18,1294,1
+1934,Michigan,428,0,
+1935,Michigan,449,145,
+1936,Michigan,443,151,
+1937,Michigan,438,159,
+1938,Michigan,433,156,
+1939,Michigan,429,159,
+1940,Michigan,421,158,
+1941,Michigan,421,161,
+1942,Michigan,418,164,
+1943,Michigan,414,167,
+1944,Michigan,411,171,
+1945,Michigan,415,170,
+1946,Michigan,417,187,
+1947,Michigan,419,196,
+1948,Michigan,418,205,
+1949,Michigan,418,219,
+1950,Michigan,414,233,
+1951,Michigan,414,250,
+1952,Michigan,412,278,
+1953,Michigan,419,301,
+1954,Michigan,419,337,
+1955,Michigan,412,376,
+1956,Michigan,401,416,
+1957,Michigan,393,445,
+1958,Michigan,391,492,
+1959,Michigan,381,531,
+1960,Michigan,378,576,
+1961,Michigan,371,615,
+1962,Michigan,369,669,
+1963,Michigan,365,726,
+1964,Michigan,359,803,
+1965,Michigan,352,891,
+1966,Michigan,345,986,1
+1967,Michigan,339,1047,0
+1968,Michigan,336,1099,0
+1969,Michigan,330,1151,2
+1970,Michigan,329,1201,4
+1971,Michigan,329,1252,3
+1972,Michigan,330,1328,2
+1973,Michigan,338,1398,10
+1974,Michigan,346,1478,11
+1975,Michigan,350,1560,7
+1976,Michigan,359,1631,9
+1977,Michigan,361,1702,3
+1978,Michigan,364,1791,5
+1979,Michigan,371,1999,8
+1980,Michigan,375,2157,6
+1981,Michigan,375,2236,2
+1982,Michigan,374,2137,4
+1983,Michigan,371,2146,1
+1984,Michigan,365,2103,1
+1985,Michigan,361,2093,2
+1986,Michigan,345,2081,0
+1987,Michigan,312,2020,4
+1988,Michigan,287,2042,1
+1989,Michigan,268,2101,3
+1990,Michigan,235,2174,2
+1991,Michigan,230,2254,2
+1992,Michigan,219,2269,0
+1993,Michigan,208,2278,0
+1994,Michigan,200,2279,2
+1995,Michigan,180,2296,1
+1996,Michigan,176,2304,5
+1997,Michigan,163,2381,7
+1998,Michigan,165,2343,6
+1999,Michigan,172,2384,7
+2000,Michigan,169,2413,5
+2001,Michigan,162,2509,6
+2002,Michigan,160,2616,2
+2003,Michigan,158,2622,0
+2004,Michigan,153,2661,2
+2005,Michigan,156,2694,4
+2006,Michigan,154,2760,2
+2007,Michigan,148,2744,3
+2008,Michigan,143,2709,0
+2009,Michigan,131,2686,2
+2010,Michigan,123,2666,0
+2011,Michigan,120,2644,0
+2012,Michigan,118,2621,0
+2013,Michigan,113,2578,0
+2014,Michigan,107,2564,0
+2015,Michigan,99,2527,0
+2016,Michigan,93,2447,0
+2017,Michigan,89,2323,0
+2018,Michigan,85,2265,0
+2019,Michigan,83,2196,1
+1934,Minnesota,651,0,
+1935,Minnesota,649,6,
+1936,Minnesota,648,6,
+1937,Minnesota,649,6,
+1938,Minnesota,651,6,
+1939,Minnesota,647,6,
+1940,Minnesota,644,6,
+1941,Minnesota,643,6,
+1942,Minnesota,639,6,
+1943,Minnesota,637,6,
+1944,Minnesota,644,6,
+1945,Minnesota,647,6,
+1946,Minnesota,646,6,
+1947,Minnesota,651,6,
+1948,Minnesota,657,6,
+1949,Minnesota,660,6,
+1950,Minnesota,661,6,
+1951,Minnesota,663,6,
+1952,Minnesota,664,6,
+1953,Minnesota,665,6,
+1954,Minnesota,667,6,
+1955,Minnesota,669,6,
+1956,Minnesota,672,6,
+1957,Minnesota,673,6,
+1958,Minnesota,676,6,
+1959,Minnesota,677,6,
+1960,Minnesota,679,6,
+1961,Minnesota,680,6,
+1962,Minnesota,686,6,
+1963,Minnesota,699,8,
+1964,Minnesota,714,9,
+1965,Minnesota,717,10,
+1966,Minnesota,719,9,2
+1967,Minnesota,719,9,0
+1968,Minnesota,720,10,1
+1969,Minnesota,721,10,1
+1970,Minnesota,726,11,6
+1971,Minnesota,728,17,2
+1972,Minnesota,734,20,6
+1973,Minnesota,737,24,3
+1974,Minnesota,742,32,5
+1975,Minnesota,745,52,2
+1976,Minnesota,750,57,5
+1977,Minnesota,752,76,2
+1978,Minnesota,758,176,6
+1979,Minnesota,759,227,1
+1980,Minnesota,760,273,2
+1981,Minnesota,759,312,0
+1982,Minnesota,759,315,5
+1983,Minnesota,751,334,0
+1984,Minnesota,738,348,2
+1985,Minnesota,735,369,0
+1986,Minnesota,733,391,0
+1987,Minnesota,705,427,2
+1988,Minnesota,653,469,0
+1989,Minnesota,637,501,0
+1990,Minnesota,626,593,4
+1991,Minnesota,608,595,1
+1992,Minnesota,593,627,1
+1993,Minnesota,573,662,2
+1994,Minnesota,563,687,2
+1995,Minnesota,525,821,0
+1996,Minnesota,519,829,7
+1997,Minnesota,520,921,6
+1998,Minnesota,514,968,5
+1999,Minnesota,497,999,5
+2000,Minnesota,491,1036,9
+2001,Minnesota,481,1091,3
+2002,Minnesota,465,1121,2
+2003,Minnesota,464,1148,8
+2004,Minnesota,457,1178,5
+2005,Minnesota,444,1239,6
+2006,Minnesota,426,1278,2
+2007,Minnesota,420,1308,3
+2008,Minnesota,408,1320,1
+2009,Minnesota,391,1313,0
+2010,Minnesota,381,1303,0
+2011,Minnesota,367,1300,0
+2012,Minnesota,360,1302,0
+2013,Minnesota,345,1319,0
+2014,Minnesota,323,1326,0
+2015,Minnesota,312,1333,0
+2016,Minnesota,298,1330,0
+2017,Minnesota,292,1321,0
+2018,Minnesota,279,1318,0
+2019,Minnesota,268,1327,0
+1934,Mississippi,203,0,
+1935,Mississippi,199,40,
+1936,Mississippi,197,42,
+1937,Mississippi,196,44,
+1938,Mississippi,194,43,
+1939,Mississippi,194,42,
+1940,Mississippi,196,43,
+1941,Mississippi,201,44,
+1942,Mississippi,197,47,
+1943,Mississippi,196,50,
+1944,Mississippi,197,55,
+1945,Mississippi,197,51,
+1946,Mississippi,198,52,
+1947,Mississippi,202,55,
+1948,Mississippi,201,58,
+1949,Mississippi,198,64,
+1950,Mississippi,197,68,
+1951,Mississippi,198,71,
+1952,Mississippi,199,73,
+1953,Mississippi,197,78,
+1954,Mississippi,194,86,
+1955,Mississippi,194,98,
+1956,Mississippi,193,103,
+1957,Mississippi,192,116,
+1958,Mississippi,191,124,
+1959,Mississippi,191,132,
+1960,Mississippi,191,136,
+1961,Mississippi,191,149,
+1962,Mississippi,190,162,
+1963,Mississippi,192,177,
+1964,Mississippi,194,191,
+1965,Mississippi,196,221,
+1966,Mississippi,190,259,2
+1967,Mississippi,188,281,0
+1968,Mississippi,185,296,1
+1969,Mississippi,181,321,0
+1970,Mississippi,182,348,1
+1971,Mississippi,183,369,2
+1972,Mississippi,181,406,3
+1973,Mississippi,181,449,6
+1974,Mississippi,181,503,8
+1975,Mississippi,185,546,7
+1976,Mississippi,183,577,1
+1977,Mississippi,184,604,4
+1978,Mississippi,184,635,1
+1979,Mississippi,182,666,1
+1980,Mississippi,177,697,0
+1981,Mississippi,170,718,0
+1982,Mississippi,167,731,1
+1983,Mississippi,161,737,0
+1984,Mississippi,153,753,0
+1985,Mississippi,146,765,1
+1986,Mississippi,141,757,0
+1987,Mississippi,128,782,0
+1988,Mississippi,125,807,0
+1989,Mississippi,123,822,0
+1990,Mississippi,123,825,0
+1991,Mississippi,123,819,0
+1992,Mississippi,121,822,0
+1993,Mississippi,118,866,0
+1994,Mississippi,111,885,0
+1995,Mississippi,110,886,2
+1996,Mississippi,111,911,2
+1997,Mississippi,107,984,0
+1998,Mississippi,96,986,3
+1999,Mississippi,99,1010,5
+2000,Mississippi,101,1004,5
+2001,Mississippi,99,1006,0
+2002,Mississippi,97,1002,1
+2003,Mississippi,95,1011,0
+2004,Mississippi,94,1038,0
+2005,Mississippi,93,1054,0
+2006,Mississippi,92,1095,1
+2007,Mississippi,91,1092,0
+2008,Mississippi,90,1109,1
+2009,Mississippi,89,1108,0
+2010,Mississippi,87,1116,0
+2011,Mississippi,84,1129,0
+2012,Mississippi,83,1122,0
+2013,Mississippi,81,1113,0
+2014,Mississippi,79,1103,0
+2015,Mississippi,76,1107,0
+2016,Mississippi,75,1098,0
+2017,Mississippi,73,1093,0
+2018,Mississippi,69,1103,0
+2019,Mississippi,67,1099,0
+1934,Missouri,639,0,
+1935,Missouri,646,0,
+1936,Missouri,624,0,
+1937,Missouri,607,0,
+1938,Missouri,595,0,
+1939,Missouri,587,0,
+1940,Missouri,581,0,
+1941,Missouri,576,0,
+1942,Missouri,569,0,
+1943,Missouri,564,4,
+1944,Missouri,563,5,
+1945,Missouri,562,5,
+1946,Missouri,565,0,
+1947,Missouri,566,0,
+1948,Missouri,570,0,
+1949,Missouri,571,0,
+1950,Missouri,576,1,
+1951,Missouri,575,1,
+1952,Missouri,576,1,
+1953,Missouri,580,1,
+1954,Missouri,581,1,
+1955,Missouri,585,3,
+1956,Missouri,588,4,
+1957,Missouri,589,4,
+1958,Missouri,595,4,
+1959,Missouri,607,9,
+1960,Missouri,610,25,
+1961,Missouri,612,37,
+1962,Missouri,614,44,
+1963,Missouri,624,48,
+1964,Missouri,632,56,
+1965,Missouri,644,63,
+1966,Missouri,652,71,6
+1967,Missouri,656,78,4
+1968,Missouri,659,85,2
+1969,Missouri,661,85,2
+1970,Missouri,664,93,4
+1971,Missouri,666,100,2
+1972,Missouri,671,132,4
+1973,Missouri,681,203,10
+1974,Missouri,694,261,14
+1975,Missouri,700,320,7
+1976,Missouri,706,339,6
+1977,Missouri,712,372,5
+1978,Missouri,714,399,2
+1979,Missouri,721,415,7
+1980,Missouri,725,438,5
+1981,Missouri,728,465,5
+1982,Missouri,732,493,7
+1983,Missouri,733,531,10
+1984,Missouri,713,593,7
+1985,Missouri,673,655,6
+1986,Missouri,610,740,4
+1987,Missouri,596,771,7
+1988,Missouri,577,812,8
+1989,Missouri,551,847,3
+1990,Missouri,544,927,3
+1991,Missouri,532,942,0
+1992,Missouri,510,999,0
+1993,Missouri,490,1026,1
+1994,Missouri,473,1087,0
+1995,Missouri,459,1152,2
+1996,Missouri,430,1231,5
+1997,Missouri,404,1401,8
+1998,Missouri,382,1502,3
+1999,Missouri,365,1578,5
+2000,Missouri,362,1630,4
+2001,Missouri,351,1690,1
+2002,Missouri,349,1683,3
+2003,Missouri,345,1721,2
+2004,Missouri,342,1779,3
+2005,Missouri,342,1837,6
+2006,Missouri,337,1911,5
+2007,Missouri,331,1978,1
+2008,Missouri,321,2012,2
+2009,Missouri,317,2020,0
+2010,Missouri,308,2026,1
+2011,Missouri,303,2029,0
+2012,Missouri,290,2028,0
+2013,Missouri,283,2002,0
+2014,Missouri,280,2009,0
+2015,Missouri,279,2045,0
+2016,Missouri,266,2032,0
+2017,Missouri,260,2015,0
+2018,Missouri,247,2024,0
+2019,Missouri,239,2005,0
+1934,Montana,118,0,
+1935,Montana,119,0,
+1936,Montana,119,0,
+1937,Montana,115,0,
+1938,Montana,114,0,
+1939,Montana,111,0,
+1940,Montana,111,0,
+1941,Montana,112,0,
+1942,Montana,110,0,
+1943,Montana,110,0,
+1944,Montana,111,0,
+1945,Montana,111,0,
+1946,Montana,110,0,
+1947,Montana,112,0,
+1948,Montana,112,0,
+1949,Montana,111,0,
+1950,Montana,110,0,
+1951,Montana,110,0,
+1952,Montana,109,0,
+1953,Montana,109,0,
+1954,Montana,110,0,
+1955,Montana,113,0,
+1956,Montana,113,0,
+1957,Montana,114,1,
+1958,Montana,114,1,
+1959,Montana,115,1,
+1960,Montana,119,1,
+1961,Montana,122,1,
+1962,Montana,122,3,
+1963,Montana,124,3,
+1964,Montana,128,3,
+1965,Montana,129,3,
+1966,Montana,131,3,2
+1967,Montana,132,5,2
+1968,Montana,134,5,2
+1969,Montana,135,5,1
+1970,Montana,139,5,2
+1971,Montana,143,10,4
+1972,Montana,146,12,3
+1973,Montana,149,12,3
+1974,Montana,152,14,3
+1975,Montana,154,16,2
+1976,Montana,155,18,1
+1977,Montana,157,21,2
+1978,Montana,160,23,3
+1979,Montana,162,28,2
+1980,Montana,163,36,1
+1981,Montana,164,46,1
+1982,Montana,166,26,2
+1983,Montana,166,26,1
+1984,Montana,167,29,1
+1985,Montana,169,29,2
+1986,Montana,169,29,0
+1987,Montana,169,30,2
+1988,Montana,169,30,0
+1989,Montana,167,31,0
+1990,Montana,156,45,1
+1991,Montana,145,56,1
+1992,Montana,120,78,1
+1993,Montana,117,83,0
+1994,Montana,112,88,0
+1995,Montana,104,108,4
+1996,Montana,100,121,2
+1997,Montana,96,146,1
+1998,Montana,89,193,0
+1999,Montana,85,215,0
+2000,Montana,84,231,0
+2001,Montana,82,264,0
+2002,Montana,80,271,1
+2003,Montana,77,279,1
+2004,Montana,77,283,0
+2005,Montana,78,296,2
+2006,Montana,80,297,2
+2007,Montana,76,302,2
+2008,Montana,74,314,0
+2009,Montana,71,317,0
+2010,Montana,70,317,0
+2011,Montana,70,317,0
+2012,Montana,62,318,0
+2013,Montana,61,322,0
+2014,Montana,59,331,0
+2015,Montana,54,332,0
+2016,Montana,50,332,0
+2017,Montana,48,331,0
+2018,Montana,46,328,0
+2019,Montana,42,336,0
+1934,Nebraska,379,0,
+1935,Nebraska,376,2,
+1936,Nebraska,376,3,
+1937,Nebraska,373,2,
+1938,Nebraska,370,2,
+1939,Nebraska,364,2,
+1940,Nebraska,360,2,
+1941,Nebraska,361,2,
+1942,Nebraska,357,2,
+1943,Nebraska,350,3,
+1944,Nebraska,354,5,
+1945,Nebraska,356,2,
+1946,Nebraska,356,2,
+1947,Nebraska,360,2,
+1948,Nebraska,361,2,
+1949,Nebraska,361,2,
+1950,Nebraska,367,2,
+1951,Nebraska,367,2,
+1952,Nebraska,369,2,
+1953,Nebraska,373,2,
+1954,Nebraska,375,1,
+1955,Nebraska,379,1,
+1956,Nebraska,382,2,
+1957,Nebraska,382,2,
+1958,Nebraska,384,2,
+1959,Nebraska,388,3,
+1960,Nebraska,392,12,
+1961,Nebraska,394,17,
+1962,Nebraska,396,19,
+1963,Nebraska,418,26,
+1964,Nebraska,427,27,
+1965,Nebraska,430,28,
+1966,Nebraska,433,29,2
+1967,Nebraska,433,33,1
+1968,Nebraska,435,37,1
+1969,Nebraska,437,39,0
+1970,Nebraska,437,42,1
+1971,Nebraska,438,45,2
+1972,Nebraska,440,48,2
+1973,Nebraska,444,56,4
+1974,Nebraska,448,83,5
+1975,Nebraska,448,96,0
+1976,Nebraska,450,98,2
+1977,Nebraska,451,177,1
+1978,Nebraska,452,199,1
+1979,Nebraska,454,236,2
+1980,Nebraska,457,283,3
+1981,Nebraska,457,320,0
+1982,Nebraska,461,130,4
+1983,Nebraska,474,145,1
+1984,Nebraska,473,171,3
+1985,Nebraska,453,192,3
+1986,Nebraska,437,202,1
+1987,Nebraska,428,210,0
+1988,Nebraska,412,225,1
+1989,Nebraska,392,252,1
+1990,Nebraska,392,286,3
+1991,Nebraska,389,293,2
+1992,Nebraska,374,315,0
+1993,Nebraska,361,346,2
+1994,Nebraska,352,362,2
+1995,Nebraska,336,422,1
+1996,Nebraska,329,460,2
+1997,Nebraska,326,471,2
+1998,Nebraska,315,490,2
+1999,Nebraska,301,525,1
+2000,Nebraska,276,548,1
+2001,Nebraska,275,560,3
+2002,Nebraska,268,584,2
+2003,Nebraska,259,615,0
+2004,Nebraska,252,633,0
+2005,Nebraska,248,709,1
+2006,Nebraska,244,730,1
+2007,Nebraska,237,747,1
+2008,Nebraska,231,763,0
+2009,Nebraska,225,770,0
+2010,Nebraska,214,834,0
+2011,Nebraska,207,841,0
+2012,Nebraska,204,846,0
+2013,Nebraska,200,850,0
+2014,Nebraska,193,860,0
+2015,Nebraska,181,860,0
+2016,Nebraska,175,868,0
+2017,Nebraska,169,880,0
+2018,Nebraska,164,879,0
+2019,Nebraska,160,899,0
+1934,Nevada,9,0,
+1935,Nevada,9,7,
+1936,Nevada,8,8,
+1937,Nevada,8,11,
+1938,Nevada,9,11,
+1939,Nevada,11,11,
+1940,Nevada,11,11,
+1941,Nevada,11,11,
+1942,Nevada,11,11,
+1943,Nevada,10,15,
+1944,Nevada,9,17,
+1945,Nevada,8,17,
+1946,Nevada,8,18,
+1947,Nevada,8,18,
+1948,Nevada,8,18,
+1949,Nevada,8,19,
+1950,Nevada,8,19,
+1951,Nevada,8,21,
+1952,Nevada,8,22,
+1953,Nevada,8,22,
+1954,Nevada,8,24,
+1955,Nevada,6,29,
+1956,Nevada,6,29,
+1957,Nevada,6,32,
+1958,Nevada,6,33,
+1959,Nevada,7,36,
+1960,Nevada,7,37,
+1961,Nevada,7,41,
+1962,Nevada,7,45,
+1963,Nevada,7,52,
+1964,Nevada,8,58,
+1965,Nevada,9,63,
+1966,Nevada,9,70,0
+1967,Nevada,9,75,0
+1968,Nevada,9,78,0
+1969,Nevada,8,81,0
+1970,Nevada,8,86,0
+1971,Nevada,8,89,0
+1972,Nevada,8,93,0
+1973,Nevada,8,96,0
+1974,Nevada,8,105,0
+1975,Nevada,8,111,0
+1976,Nevada,8,113,0
+1977,Nevada,8,119,0
+1978,Nevada,9,130,1
+1979,Nevada,9,135,1
+1980,Nevada,9,143,0
+1981,Nevada,12,156,3
+1982,Nevada,13,163,1
+1983,Nevada,14,174,2
+1984,Nevada,16,200,1
+1985,Nevada,17,199,1
+1986,Nevada,18,196,0
+1987,Nevada,17,195,1
+1988,Nevada,17,196,0
+1989,Nevada,17,205,0
+1990,Nevada,19,226,2
+1991,Nevada,19,236,0
+1992,Nevada,18,234,0
+1993,Nevada,21,243,3
+1994,Nevada,22,248,2
+1995,Nevada,25,256,3
+1996,Nevada,26,274,3
+1997,Nevada,25,364,2
+1998,Nevada,27,390,3
+1999,Nevada,27,371,3
+2000,Nevada,32,366,5
+2001,Nevada,34,361,2
+2002,Nevada,34,367,2
+2003,Nevada,35,378,1
+2004,Nevada,36,396,2
+2005,Nevada,37,420,2
+2006,Nevada,35,470,2
+2007,Nevada,39,512,8
+2008,Nevada,37,544,2
+2009,Nevada,34,532,0
+2010,Nevada,26,511,0
+2011,Nevada,23,509,0
+2012,Nevada,21,505,0
+2013,Nevada,17,501,0
+2014,Nevada,16,486,0
+2015,Nevada,15,478,0
+2016,Nevada,15,477,0
+2017,Nevada,15,472,0
+2018,Nevada,15,468,0
+2019,Nevada,15,461,1
+1934,New Hampshire,57,0,
+1935,New Hampshire,56,1,
+1936,New Hampshire,56,1,
+1937,New Hampshire,56,1,
+1938,New Hampshire,56,1,
+1939,New Hampshire,56,1,
+1940,New Hampshire,56,1,
+1941,New Hampshire,56,1,
+1942,New Hampshire,56,1,
+1943,New Hampshire,57,1,
+1944,New Hampshire,57,1,
+1945,New Hampshire,57,2,
+1946,New Hampshire,56,1,
+1947,New Hampshire,57,1,
+1948,New Hampshire,57,1,
+1949,New Hampshire,57,1,
+1950,New Hampshire,58,1,
+1951,New Hampshire,58,1,
+1952,New Hampshire,58,1,
+1953,New Hampshire,62,2,
+1954,New Hampshire,63,2,
+1955,New Hampshire,63,2,
+1956,New Hampshire,62,2,
+1957,New Hampshire,63,3,
+1958,New Hampshire,66,3,
+1959,New Hampshire,71,3,
+1960,New Hampshire,70,4,
+1961,New Hampshire,71,3,
+1962,New Hampshire,71,3,
+1963,New Hampshire,73,4,
+1964,New Hampshire,70,20,
+1965,New Hampshire,71,27,
+1966,New Hampshire,72,33,1
+1967,New Hampshire,73,37,1
+1968,New Hampshire,74,41,2
+1969,New Hampshire,73,52,3
+1970,New Hampshire,72,63,0
+1971,New Hampshire,72,69,0
+1972,New Hampshire,76,79,4
+1973,New Hampshire,80,90,4
+1974,New Hampshire,80,99,1
+1975,New Hampshire,77,112,1
+1976,New Hampshire,77,119,0
+1977,New Hampshire,78,126,1
+1978,New Hampshire,78,135,2
+1979,New Hampshire,78,148,1
+1980,New Hampshire,75,160,0
+1981,New Hampshire,71,175,0
+1982,New Hampshire,71,184,2
+1983,New Hampshire,65,190,1
+1984,New Hampshire,62,204,0
+1985,New Hampshire,61,215,2
+1986,New Hampshire,60,216,2
+1987,New Hampshire,56,222,1
+1988,New Hampshire,52,209,0
+1989,New Hampshire,48,212,2
+1990,New Hampshire,45,204,2
+1991,New Hampshire,32,155,1
+1992,New Hampshire,28,138,0
+1993,New Hampshire,26,131,0
+1994,New Hampshire,24,120,0
+1995,New Hampshire,23,164,0
+1996,New Hampshire,20,164,1
+1997,New Hampshire,21,195,2
+1998,New Hampshire,19,229,0
+1999,New Hampshire,19,226,1
+2000,New Hampshire,16,218,0
+2001,New Hampshire,15,213,0
+2002,New Hampshire,14,216,0
+2003,New Hampshire,13,219,0
+2004,New Hampshire,12,213,0
+2005,New Hampshire,9,209,0
+2006,New Hampshire,9,211,1
+2007,New Hampshire,8,293,1
+2008,New Hampshire,8,252,2
+2009,New Hampshire,8,253,0
+2010,New Hampshire,8,256,0
+2011,New Hampshire,7,256,0
+2012,New Hampshire,5,271,0
+2013,New Hampshire,5,266,0
+2014,New Hampshire,4,255,0
+2015,New Hampshire,5,279,1
+2016,New Hampshire,5,275,0
+2017,New Hampshire,5,286,0
+2018,New Hampshire,4,271,0
+2019,New Hampshire,4,266,1
+1934,New Jersey,391,0,
+1935,New Jersey,389,114,
+1936,New Jersey,385,119,
+1937,New Jersey,376,120,
+1938,New Jersey,373,119,
+1939,New Jersey,356,115,
+1940,New Jersey,352,118,
+1941,New Jersey,349,120,
+1942,New Jersey,347,122,
+1943,New Jersey,347,125,
+1944,New Jersey,345,129,
+1945,New Jersey,343,132,
+1946,New Jersey,341,134,
+1947,New Jersey,339,137,
+1948,New Jersey,333,141,
+1949,New Jersey,328,151,
+1950,New Jersey,320,165,
+1951,New Jersey,314,176,
+1952,New Jersey,308,189,
+1953,New Jersey,307,207,
+1954,New Jersey,304,231,
+1955,New Jersey,294,261,
+1956,New Jersey,273,308,
+1957,New Jersey,268,334,
+1958,New Jersey,259,367,
+1959,New Jersey,255,398,
+1960,New Jersey,250,436,
+1961,New Jersey,244,471,
+1962,New Jersey,239,517,
+1963,New Jersey,232,572,
+1964,New Jersey,233,627,
+1965,New Jersey,230,673,
+1966,New Jersey,229,712,3
+1967,New Jersey,225,757,4
+1968,New Jersey,226,797,4
+1969,New Jersey,226,891,12
+1970,New Jersey,215,1012,10
+1971,New Jersey,209,1097,6
+1972,New Jersey,210,1173,12
+1973,New Jersey,221,1250,17
+1974,New Jersey,218,1336,11
+1975,New Jersey,209,1417,3
+1976,New Jersey,195,1462,2
+1977,New Jersey,188,1498,3
+1978,New Jersey,184,1535,0
+1979,New Jersey,176,1554,1
+1980,New Jersey,169,1588,0
+1981,New Jersey,161,1652,1
+1982,New Jersey,148,1648,1
+1983,New Jersey,136,1677,0
+1984,New Jersey,125,1729,2
+1985,New Jersey,126,1781,4
+1986,New Jersey,124,1819,3
+1987,New Jersey,125,1866,6
+1988,New Jersey,129,1909,13
+1989,New Jersey,126,1955,4
+1990,New Jersey,131,1998,10
+1991,New Jersey,117,2043,2
+1992,New Jersey,106,2062,0
+1993,New Jersey,100,2049,1
+1994,New Jersey,90,2094,0
+1995,New Jersey,83,2076,1
+1996,New Jersey,66,2023,0
+1997,New Jersey,71,2054,6
+1998,New Jersey,72,2092,5
+1999,New Jersey,75,2180,10
+2000,New Jersey,81,2189,8
+2001,New Jersey,80,2134,2
+2002,New Jersey,82,2191,3
+2003,New Jersey,79,2220,1
+2004,New Jersey,75,2258,1
+2005,New Jersey,72,2303,4
+2006,New Jersey,69,2356,4
+2007,New Jersey,69,2395,7
+2008,New Jersey,68,2437,5
+2009,New Jersey,66,2405,0
+2010,New Jersey,62,2353,0
+2011,New Jersey,58,2338,0
+2012,New Jersey,58,2465,0
+2013,New Jersey,55,2401,0
+2014,New Jersey,52,2369,0
+2015,New Jersey,51,2379,0
+2016,New Jersey,46,2309,0
+2017,New Jersey,45,2257,0
+2018,New Jersey,40,2216,0
+2019,New Jersey,34,2311,0
+1934,New Mexico,41,0,
+1935,New Mexico,40,5,
+1936,New Mexico,40,5,
+1937,New Mexico,40,6,
+1938,New Mexico,40,6,
+1939,New Mexico,40,6,
+1940,New Mexico,40,7,
+1941,New Mexico,41,7,
+1942,New Mexico,41,6,
+1943,New Mexico,41,6,
+1944,New Mexico,41,8,
+1945,New Mexico,41,7,
+1946,New Mexico,44,6,
+1947,New Mexico,47,8,
+1948,New Mexico,49,11,
+1949,New Mexico,51,12,
+1950,New Mexico,51,15,
+1951,New Mexico,51,23,
+1952,New Mexico,51,23,
+1953,New Mexico,51,25,
+1954,New Mexico,52,26,
+1955,New Mexico,51,30,
+1956,New Mexico,52,35,
+1957,New Mexico,52,39,
+1958,New Mexico,53,43,
+1959,New Mexico,52,49,
+1960,New Mexico,55,56,
+1961,New Mexico,57,64,
+1962,New Mexico,60,69,
+1963,New Mexico,61,79,
+1964,New Mexico,63,84,
+1965,New Mexico,64,95,
+1966,New Mexico,64,101,0
+1967,New Mexico,64,109,0
+1968,New Mexico,63,114,0
+1969,New Mexico,64,121,1
+1970,New Mexico,66,130,2
+1971,New Mexico,68,140,2
+1972,New Mexico,71,150,3
+1973,New Mexico,73,177,2
+1974,New Mexico,76,189,3
+1975,New Mexico,80,206,4
+1976,New Mexico,82,210,2
+1977,New Mexico,83,216,1
+1978,New Mexico,86,227,3
+1979,New Mexico,86,238,0
+1980,New Mexico,89,244,3
+1981,New Mexico,88,259,0
+1982,New Mexico,92,263,4
+1983,New Mexico,93,269,2
+1984,New Mexico,95,277,2
+1985,New Mexico,96,281,2
+1986,New Mexico,94,291,0
+1987,New Mexico,94,290,0
+1988,New Mexico,93,286,0
+1989,New Mexico,93,288,0
+1990,New Mexico,91,303,0
+1991,New Mexico,83,346,0
+1992,New Mexico,84,332,1
+1993,New Mexico,81,336,0
+1994,New Mexico,70,358,0
+1995,New Mexico,68,371,0
+1996,New Mexico,68,400,1
+1997,New Mexico,58,420,2
+1998,New Mexico,58,419,3
+1999,New Mexico,54,409,1
+2000,New Mexico,54,405,5
+2001,New Mexico,53,387,1
+2002,New Mexico,51,387,0
+2003,New Mexico,51,394,0
+2004,New Mexico,49,393,0
+2005,New Mexico,48,399,0
+2006,New Mexico,47,411,0
+2007,New Mexico,48,421,0
+2008,New Mexico,49,428,1
+2009,New Mexico,49,430,0
+2010,New Mexico,48,424,0
+2011,New Mexico,45,426,0
+2012,New Mexico,44,431,0
+2013,New Mexico,43,444,0
+2014,New Mexico,40,441,0
+2015,New Mexico,37,435,0
+2016,New Mexico,37,425,0
+2017,New Mexico,36,412,0
+2018,New Mexico,34,406,0
+2019,New Mexico,31,398,0
+1934,New York,771,0,
+1935,New York,768,624,
+1936,New York,758,631,
+1937,New York,745,638,
+1938,New York,740,636,
+1939,New York,734,640,
+1940,New York,719,644,
+1941,New York,708,646,
+1942,New York,704,641,
+1943,New York,694,646,
+1944,New York,684,658,
+1945,New York,677,668,
+1946,New York,659,692,
+1947,New York,651,715,
+1948,New York,641,731,
+1949,New York,633,756,
+1950,New York,622,785,
+1951,New York,610,830,
+1952,New York,595,861,
+1953,New York,572,912,
+1954,New York,549,962,
+1955,New York,499,1035,
+1956,New York,472,1108,
+1957,New York,449,1174,
+1958,New York,422,1232,
+1959,New York,403,1299,
+1960,New York,390,1380,
+1961,New York,374,1482,
+1962,New York,355,1579,
+1963,New York,336,1698,
+1964,New York,326,1807,
+1965,New York,316,1926,
+1966,New York,311,2053,2
+1967,New York,303,2127,5
+1968,New York,296,2206,2
+1969,New York,295,2290,2
+1970,New York,287,2431,2
+1971,New York,285,2547,4
+1972,New York,278,2690,4
+1973,New York,276,2870,3
+1974,New York,271,3081,6
+1975,New York,267,3195,4
+1976,New York,230,3257,1
+1977,New York,231,3303,5
+1978,New York,225,3306,2
+1979,New York,219,3378,1
+1980,New York,214,3416,2
+1981,New York,212,3565,2
+1982,New York,205,3265,1
+1983,New York,200,3260,2
+1984,New York,194,3222,7
+1985,New York,191,3262,3
+1986,New York,199,3335,12
+1987,New York,196,3295,6
+1988,New York,198,3310,7
+1989,New York,192,3339,6
+1990,New York,193,3438,5
+1991,New York,189,3498,0
+1992,New York,177,3487,0
+1993,New York,175,3450,2
+1994,New York,167,3444,1
+1995,New York,166,3437,3
+1996,New York,160,3478,1
+1997,New York,153,3369,2
+1998,New York,153,3402,2
+1999,New York,150,3387,4
+2000,New York,148,3364,3
+2001,New York,141,3343,2
+2002,New York,136,3422,5
+2003,New York,135,3533,0
+2004,New York,132,3606,4
+2005,New York,134,3817,6
+2006,New York,129,3901,3
+2007,New York,127,4011,7
+2008,New York,129,4309,5
+2009,New York,128,4282,1
+2010,New York,122,4389,0
+2011,New York,118,4445,0
+2012,New York,115,4360,0
+2013,New York,113,4369,0
+2014,New York,109,4331,0
+2015,New York,103,4407,0
+2016,New York,100,4227,0
+2017,New York,98,4238,0
+2018,New York,97,4113,1
+2019,New York,98,4063,2
+1934,North Carolina,237,0,
+1935,North Carolina,236,89,
+1936,North Carolina,232,103,
+1937,North Carolina,228,108,
+1938,North Carolina,224,113,
+1939,North Carolina,220,124,
+1940,North Carolina,220,125,
+1941,North Carolina,220,129,
+1942,North Carolina,219,136,
+1943,North Carolina,219,145,
+1944,North Carolina,222,147,
+1945,North Carolina,224,148,
+1946,North Carolina,222,159,
+1947,North Carolina,223,168,
+1948,North Carolina,225,179,
+1949,North Carolina,226,192,
+1950,North Carolina,224,216,
+1951,North Carolina,224,233,
+1952,North Carolina,225,255,
+1953,North Carolina,225,270,
+1954,North Carolina,223,301,
+1955,North Carolina,219,323,
+1956,North Carolina,213,354,
+1957,North Carolina,209,384,
+1958,North Carolina,202,409,
+1959,North Carolina,191,449,
+1960,North Carolina,182,505,
+1961,North Carolina,170,547,
+1962,North Carolina,161,606,
+1963,North Carolina,155,669,
+1964,North Carolina,151,713,
+1965,North Carolina,145,733,
+1966,North Carolina,136,786,0
+1967,North Carolina,127,854,2
+1968,North Carolina,120,924,2
+1969,North Carolina,108,1010,1
+1970,North Carolina,97,1112,1
+1971,North Carolina,94,1217,3
+1972,North Carolina,86,1322,3
+1973,North Carolina,89,1435,7
+1974,North Carolina,91,1537,6
+1975,North Carolina,93,1575,2
+1976,North Carolina,91,1611,2
+1977,North Carolina,89,1644,0
+1978,North Carolina,88,1673,1
+1979,North Carolina,82,1713,1
+1980,North Carolina,79,1732,1
+1981,North Carolina,71,1780,0
+1982,North Carolina,69,1783,2
+1983,North Carolina,70,1802,5
+1984,North Carolina,63,1829,1
+1985,North Carolina,63,1864,4
+1986,North Carolina,65,1898,5
+1987,North Carolina,68,1946,6
+1988,North Carolina,71,1969,3
+1989,North Carolina,78,1989,8
+1990,North Carolina,78,2033,3
+1991,North Carolina,81,2066,5
+1992,North Carolina,78,2054,1
+1993,North Carolina,71,2171,0
+1994,North Carolina,68,2198,1
+1995,North Carolina,61,2120,2
+1996,North Carolina,56,2163,3
+1997,North Carolina,61,2135,9
+1998,North Carolina,68,2207,8
+1999,North Carolina,71,2242,3
+2000,North Carolina,75,2231,9
+2001,North Carolina,75,2250,3
+2002,North Carolina,71,2303,1
+2003,North Carolina,68,2282,2
+2004,North Carolina,73,2330,7
+2005,North Carolina,74,2362,3
+2006,North Carolina,77,2434,9
+2007,North Carolina,79,2511,4
+2008,North Carolina,79,2574,6
+2009,North Carolina,74,2576,1
+2010,North Carolina,71,2576,0
+2011,North Carolina,68,2562,0
+2012,North Carolina,61,2551,0
+2013,North Carolina,52,2476,0
+2014,North Carolina,47,2455,0
+2015,North Carolina,44,2407,0
+2016,North Carolina,41,2348,0
+2017,North Carolina,34,2303,0
+2018,North Carolina,31,2229,0
+2019,North Carolina,30,2186,1
+1934,North Dakota,194,0,
+1935,North Dakota,192,0,
+1936,North Dakota,183,10,
+1937,North Dakota,173,14,
+1938,North Dakota,164,17,
+1939,North Dakota,157,20,
+1940,North Dakota,150,21,
+1941,North Dakota,150,23,
+1942,North Dakota,149,22,
+1943,North Dakota,147,21,
+1944,North Dakota,147,23,
+1945,North Dakota,145,23,
+1946,North Dakota,145,23,
+1947,North Dakota,146,22,
+1948,North Dakota,145,22,
+1949,North Dakota,145,22,
+1950,North Dakota,145,22,
+1951,North Dakota,145,22,
+1952,North Dakota,146,22,
+1953,North Dakota,148,22,
+1954,North Dakota,149,23,
+1955,North Dakota,149,24,
+1956,North Dakota,149,26,
+1957,North Dakota,150,26,
+1958,North Dakota,152,27,
+1959,North Dakota,153,27,
+1960,North Dakota,153,29,
+1961,North Dakota,153,31,
+1962,North Dakota,153,33,
+1963,North Dakota,155,38,
+1964,North Dakota,159,44,
+1965,North Dakota,163,49,
+1966,North Dakota,164,59,1
+1967,North Dakota,166,62,2
+1968,North Dakota,166,67,0
+1969,North Dakota,166,66,0
+1970,North Dakota,166,69,0
+1971,North Dakota,166,70,0
+1972,North Dakota,167,71,1
+1973,North Dakota,167,72,0
+1974,North Dakota,168,78,1
+1975,North Dakota,169,85,1
+1976,North Dakota,169,90,0
+1977,North Dakota,170,106,2
+1978,North Dakota,171,117,1
+1979,North Dakota,172,123,1
+1980,North Dakota,175,128,4
+1981,North Dakota,175,137,0
+1982,North Dakota,176,122,1
+1983,North Dakota,177,124,1
+1984,North Dakota,177,123,0
+1985,North Dakota,177,123,0
+1986,North Dakota,176,123,0
+1987,North Dakota,174,124,0
+1988,North Dakota,159,138,0
+1989,North Dakota,158,139,0
+1990,North Dakota,150,155,1
+1991,North Dakota,146,158,0
+1992,North Dakota,143,164,0
+1993,North Dakota,141,174,1
+1994,North Dakota,139,184,0
+1995,North Dakota,127,194,1
+1996,North Dakota,123,205,1
+1997,North Dakota,117,248,1
+1998,North Dakota,114,261,0
+1999,North Dakota,114,265,0
+2000,North Dakota,110,275,0
+2001,North Dakota,104,281,0
+2002,North Dakota,104,282,0
+2003,North Dakota,101,286,0
+2004,North Dakota,100,299,1
+2005,North Dakota,96,302,0
+2006,North Dakota,93,315,0
+2007,North Dakota,95,316,2
+2008,North Dakota,94,323,0
+2009,North Dakota,92,323,0
+2010,North Dakota,90,321,0
+2011,North Dakota,88,320,0
+2012,North Dakota,88,319,0
+2013,North Dakota,86,317,0
+2014,North Dakota,82,315,0
+2015,North Dakota,76,319,0
+2016,North Dakota,76,317,0
+2017,North Dakota,74,319,0
+2018,North Dakota,73,316,0
+2019,North Dakota,72,316,0
+1984,Northern Mariana Islands,,6,
+1985,Northern Mariana Islands,,5,
+1986,Northern Mariana Islands,,5,
+1987,Northern Mariana Islands,,5,
+1988,Northern Mariana Islands,,6,
+1989,Northern Mariana Islands,,6,
+1990,Northern Mariana Islands,,6,
+1991,Northern Mariana Islands,,7,
+1992,Northern Mariana Islands,,7,
+1993,Northern Mariana Islands,,8,
+1994,Northern Mariana Islands,,9,
+1995,Northern Mariana Islands,,9,
+1996,Northern Mariana Islands,,9,
+1997,Northern Mariana Islands,,9,
+1998,Northern Mariana Islands,,11,
+1999,Northern Mariana Islands,,11,
+2000,Northern Mariana Islands,,13,
+2001,Northern Mariana Islands,,13,
+2002,Northern Mariana Islands,,12,
+2003,Northern Mariana Islands,,9,
+2004,Northern Mariana Islands,,9,
+2005,Northern Mariana Islands,,9,
+2006,Northern Mariana Islands,,9,
+2007,Northern Mariana Islands,,9,
+2008,Northern Mariana Islands,,9,
+2009,Northern Mariana Islands,,9,
+2010,Northern Mariana Islands,,9,
+2011,Northern Mariana Islands,,10,
+2012,Northern Mariana Islands,,10,
+2013,Northern Mariana Islands,,9,
+2014,Northern Mariana Islands,,9,
+2015,Northern Mariana Islands,,9,
+2016,Northern Mariana Islands,,8,
+2017,Northern Mariana Islands,,8,
+2018,Northern Mariana Islands,,8,
+2019,Northern Mariana Islands,,8,
+1934,Ohio,680,0,
+1935,Ohio,690,169,
+1936,Ohio,690,171,
+1937,Ohio,688,175,
+1938,Ohio,686,171,
+1939,Ohio,682,169,
+1940,Ohio,674,173,
+1941,Ohio,673,169,
+1942,Ohio,666,169,
+1943,Ohio,663,170,
+1944,Ohio,663,171,
+1945,Ohio,662,175,
+1946,Ohio,659,176,
+1947,Ohio,654,189,
+1948,Ohio,653,204,
+1949,Ohio,649,215,
+1950,Ohio,650,226,
+1951,Ohio,649,246,
+1952,Ohio,644,271,
+1953,Ohio,638,305,
+1954,Ohio,629,333,
+1955,Ohio,620,369,
+1956,Ohio,615,435,
+1957,Ohio,610,491,
+1958,Ohio,605,551,
+1959,Ohio,587,598,
+1960,Ohio,584,638,
+1961,Ohio,575,696,
+1962,Ohio,563,744,
+1963,Ohio,551,815,
+1964,Ohio,546,871,
+1965,Ohio,540,948,
+1966,Ohio,535,1009,2
+1967,Ohio,529,1069,2
+1968,Ohio,523,1130,0
+1969,Ohio,519,1217,1
+1970,Ohio,514,1304,2
+1971,Ohio,512,1370,2
+1972,Ohio,503,1449,2
+1973,Ohio,496,1525,2
+1974,Ohio,496,1613,6
+1975,Ohio,495,1674,1
+1976,Ohio,489,1739,3
+1977,Ohio,486,1827,2
+1978,Ohio,481,1941,0
+1979,Ohio,407,2106,2
+1980,Ohio,384,2237,2
+1981,Ohio,379,2318,0
+1982,Ohio,355,2268,3
+1983,Ohio,343,2280,6
+1984,Ohio,320,2279,0
+1985,Ohio,320,2441,6
+1986,Ohio,309,2471,3
+1987,Ohio,304,2457,2
+1988,Ohio,299,2449,4
+1989,Ohio,294,2496,3
+1990,Ohio,289,2551,2
+1991,Ohio,281,2654,5
+1992,Ohio,271,2634,0
+1993,Ohio,263,2705,2
+1994,Ohio,258,2817,0
+1995,Ohio,261,2851,4
+1996,Ohio,257,2899,2
+1997,Ohio,235,2970,2
+1998,Ohio,220,2989,3
+1999,Ohio,219,3019,2
+2000,Ohio,211,3058,3
+2001,Ohio,201,3048,0
+2002,Ohio,198,3190,2
+2003,Ohio,191,3227,0
+2004,Ohio,181,3335,0
+2005,Ohio,175,3375,2
+2006,Ohio,176,3410,3
+2007,Ohio,167,3429,3
+2008,Ohio,156,3443,0
+2009,Ohio,149,3440,0
+2010,Ohio,148,3426,0
+2011,Ohio,148,3460,0
+2012,Ohio,147,3436,0
+2013,Ohio,142,3383,0
+2014,Ohio,134,3360,0
+2015,Ohio,126,3308,0
+2016,Ohio,122,3260,0
+2017,Ohio,120,3177,0
+2018,Ohio,136,3166,0
+2019,Ohio,136,3100,1
+1934,Oklahoma,394,0,
+1935,Oklahoma,387,0,
+1936,Oklahoma,385,0,
+1937,Oklahoma,384,0,
+1938,Oklahoma,384,0,
+1939,Oklahoma,381,0,
+1940,Oklahoma,380,0,
+1941,Oklahoma,381,0,
+1942,Oklahoma,379,3,
+1943,Oklahoma,374,5,
+1944,Oklahoma,373,6,
+1945,Oklahoma,371,4,
+1946,Oklahoma,374,1,
+1947,Oklahoma,375,1,
+1948,Oklahoma,375,1,
+1949,Oklahoma,375,1,
+1950,Oklahoma,375,1,
+1951,Oklahoma,374,1,
+1952,Oklahoma,376,2,
+1953,Oklahoma,376,2,
+1954,Oklahoma,376,2,
+1955,Oklahoma,377,3,
+1956,Oklahoma,378,6,
+1957,Oklahoma,379,6,
+1958,Oklahoma,380,15,
+1959,Oklahoma,382,18,
+1960,Oklahoma,386,23,
+1961,Oklahoma,385,32,
+1962,Oklahoma,390,32,
+1963,Oklahoma,400,34,
+1964,Oklahoma,416,36,
+1965,Oklahoma,420,38,
+1966,Oklahoma,419,42,0
+1967,Oklahoma,421,46,2
+1968,Oklahoma,423,55,3
+1969,Oklahoma,425,58,2
+1970,Oklahoma,433,60,8
+1971,Oklahoma,435,71,2
+1972,Oklahoma,436,84,1
+1973,Oklahoma,447,91,11
+1974,Oklahoma,455,96,8
+1975,Oklahoma,462,99,7
+1976,Oklahoma,469,104,7
+1977,Oklahoma,476,175,8
+1978,Oklahoma,478,217,2
+1979,Oklahoma,489,248,11
+1980,Oklahoma,495,255,6
+1981,Oklahoma,501,284,6
+1982,Oklahoma,509,134,10
+1983,Oklahoma,525,139,18
+1984,Oklahoma,539,193,18
+1985,Oklahoma,535,220,6
+1986,Oklahoma,520,231,2
+1987,Oklahoma,487,259,0
+1988,Oklahoma,466,274,0
+1989,Oklahoma,430,318,0
+1990,Oklahoma,419,337,0
+1991,Oklahoma,411,373,0
+1992,Oklahoma,394,441,0
+1993,Oklahoma,371,487,1
+1994,Oklahoma,350,526,0
+1995,Oklahoma,342,558,0
+1996,Oklahoma,332,598,3
+1997,Oklahoma,320,640,1
+1998,Oklahoma,309,669,1
+1999,Oklahoma,300,746,2
+2000,Oklahoma,286,796,1
+2001,Oklahoma,283,831,1
+2002,Oklahoma,274,866,2
+2003,Oklahoma,273,902,1
+2004,Oklahoma,269,931,1
+2005,Oklahoma,267,980,1
+2006,Oklahoma,258,1025,0
+2007,Oklahoma,254,1064,0
+2008,Oklahoma,248,1084,1
+2009,Oklahoma,247,1099,1
+2010,Oklahoma,243,1100,0
+2011,Oklahoma,235,1106,0
+2012,Oklahoma,231,1106,0
+2013,Oklahoma,226,1095,0
+2014,Oklahoma,218,1100,0
+2015,Oklahoma,209,1083,0
+2016,Oklahoma,206,1083,0
+2017,Oklahoma,205,1073,1
+2018,Oklahoma,199,1085,0
+2019,Oklahoma,196,1102,1
+1934,Oregon,102,0,
+1935,Oregon,93,42,
+1936,Oregon,87,50,
+1937,Oregon,73,66,
+1938,Oregon,73,66,
+1939,Oregon,71,67,
+1940,Oregon,69,68,
+1941,Oregon,69,69,
+1942,Oregon,68,70,
+1943,Oregon,67,73,
+1944,Oregon,66,72,
+1945,Oregon,68,73,
+1946,Oregon,67,76,
+1947,Oregon,68,81,
+1948,Oregon,69,88,
+1949,Oregon,68,96,
+1950,Oregon,68,102,
+1951,Oregon,68,104,
+1952,Oregon,66,111,
+1953,Oregon,65,116,
+1954,Oregon,45,138,
+1955,Oregon,47,145,
+1956,Oregon,49,151,
+1957,Oregon,53,157,
+1958,Oregon,53,165,
+1959,Oregon,51,179,
+1960,Oregon,49,195,
+1961,Oregon,47,206,
+1962,Oregon,47,213,
+1963,Oregon,49,234,
+1964,Oregon,49,249,
+1965,Oregon,48,265,
+1966,Oregon,49,273,1
+1967,Oregon,47,285,1
+1968,Oregon,48,307,2
+1969,Oregon,49,319,2
+1970,Oregon,47,337,1
+1971,Oregon,44,359,0
+1972,Oregon,43,381,3
+1973,Oregon,44,401,1
+1974,Oregon,47,420,3
+1975,Oregon,45,447,0
+1976,Oregon,46,476,2
+1977,Oregon,53,492,7
+1978,Oregon,60,522,9
+1979,Oregon,75,548,15
+1980,Oregon,80,582,6
+1981,Oregon,84,600,6
+1982,Oregon,88,604,6
+1983,Oregon,80,615,2
+1984,Oregon,72,618,0
+1985,Oregon,67,625,0
+1986,Oregon,59,630,0
+1987,Oregon,54,643,0
+1988,Oregon,52,640,1
+1989,Oregon,49,652,0
+1990,Oregon,50,650,3
+1991,Oregon,51,699,1
+1992,Oregon,48,657,0
+1993,Oregon,45,673,0
+1994,Oregon,44,682,1
+1995,Oregon,43,702,2
+1996,Oregon,43,678,3
+1997,Oregon,41,702,1
+1998,Oregon,42,684,4
+1999,Oregon,44,716,3
+2000,Oregon,42,729,3
+2001,Oregon,33,753,0
+2002,Oregon,32,743,2
+2003,Oregon,35,766,2
+2004,Oregon,38,791,4
+2005,Oregon,38,875,2
+2006,Oregon,38,901,1
+2007,Oregon,37,918,1
+2008,Oregon,37,1048,1
+2009,Oregon,34,1046,0
+2010,Oregon,31,1039,0
+2011,Oregon,31,1064,0
+2012,Oregon,29,1035,0
+2013,Oregon,25,1052,0
+2014,Oregon,25,1025,0
+2015,Oregon,22,1013,0
+2016,Oregon,21,983,0
+2017,Oregon,17,969,0
+2018,Oregon,15,939,0
+2019,Oregon,14,916,0
+1934,Other Areas,0,0,
+1935,Other Areas,0,0,
+1936,Other Areas,1,1,
+1937,Other Areas,1,1,
+1938,Other Areas,1,1,
+1939,Other Areas,1,1,
+1940,Other Areas,1,1,
+1941,Other Areas,1,2,
+1942,Other Areas,1,2,
+1943,Other Areas,1,1,
+1944,Other Areas,1,1,
+1945,Other Areas,1,1,
+1946,Other Areas,1,1,
+1947,Other Areas,1,1,
+1948,Other Areas,1,1,
+1949,Other Areas,1,1,
+1950,Other Areas,8,35,
+1951,Other Areas,8,38,
+1952,Other Areas,8,50,
+1953,Other Areas,10,54,
+1954,Other Areas,9,58,
+1955,Other Areas,9,59,
+1956,Other Areas,9,65,
+1957,Other Areas,9,76,
+1958,Other Areas,9,106,
+1959,Other Areas,8,117,
+1960,Other Areas,8,120,
+1961,Other Areas,8,129,
+1962,Other Areas,8,131,
+1963,Other Areas,8,136,
+1964,Other Areas,8,140,
+1965,Other Areas,8,174,
+1966,Other Areas,9,187,0
+1967,Other Areas,8,195,0
+1968,Other Areas,8,217,0
+1969,Other Areas,9,230,0
+1970,Other Areas,9,242,0
+1971,Other Areas,10,256,1
+1972,Other Areas,12,263,2
+1973,Other Areas,12,270,0
+1974,Other Areas,12,267,0
+1975,Other Areas,12,276,1
+1976,Other Areas,13,276,1
+1977,Other Areas,14,272,3
+1978,Other Areas,13,267,0
+1979,Other Areas,13,270,1
+1980,Other Areas,13,280,0
+1981,Other Areas,13,286,0
+1982,Other Areas,16,298,2
+1983,Other Areas,15,305,0
+1984,Other Areas,13,314,0
+1985,Other Areas,15,323,1
+1986,Other Areas,17,339,2
+1987,Other Areas,18,342,0
+1988,Other Areas,18,349,0
+1989,Other Areas,18,360,0
+1990,Other Areas,18,399,0
+1991,Other Areas,18,390,1
+1992,Other Areas,17,405,0
+1993,Other Areas,16,419,0
+1994,Other Areas,21,513,1
+1995,Other Areas,21,520,1
+1996,Other Areas,20,539,0
+1997,Other Areas,19,563,0
+1998,Other Areas,18,583,0
+1999,Other Areas,18,599,1
+2000,Other Areas,18,611,0
+2001,Other Areas,18,616,0
+2002,Other Areas,17,618,0
+2003,Other Areas,17,621,0
+2004,Other Areas,16,623,0
+2005,Other Areas,16,637,0
+2006,Other Areas,17,642,1
+2007,Other Areas,17,652,0
+2008,Other Areas,16,613,0
+2009,Other Areas,16,572,0
+2010,Other Areas,13,547,0
+2011,Other Areas,12,519,0
+2012,Other Areas,11,504,0
+2013,Other Areas,11,468,0
+2014,Other Areas,11,445,0
+2015,Other Areas,10,421,0
+2016,Other Areas,10,392,0
+2017,Other Areas,9,375,0
+2018,Other Areas,9,362,0
+2019,Other Areas,8,364,0
+1934,Pacific Islands,,,
+1935,Pacific Islands,,,
+1936,Pacific Islands,,,
+1937,Pacific Islands,,,
+1938,Pacific Islands,,,
+1939,Pacific Islands,,,
+1940,Pacific Islands,,,
+1941,Pacific Islands,,,
+1942,Pacific Islands,,,
+1943,Pacific Islands,,,
+1944,Pacific Islands,,,
+1945,Pacific Islands,,,
+1946,Pacific Islands,,,
+1947,Pacific Islands,,,
+1948,Pacific Islands,,,
+1949,Pacific Islands,,,
+1950,Pacific Islands,,,
+1951,Pacific Islands,,,
+1952,Pacific Islands,,,
+1953,Pacific Islands,,,
+1954,Pacific Islands,,,
+1955,Pacific Islands,,,
+1956,Pacific Islands,,,
+1957,Pacific Islands,,,
+1958,Pacific Islands,,,
+1959,Pacific Islands,,,
+1960,Pacific Islands,,,
+1961,Pacific Islands,,,
+1962,Pacific Islands,,,
+1963,Pacific Islands,,,
+1964,Pacific Islands,,,
+1965,Pacific Islands,,,
+1966,Pacific Islands,,,
+1967,Pacific Islands,,,
+1968,Pacific Islands,,,
+1969,Pacific Islands,,,
+1970,Pacific Islands,,,
+1971,Pacific Islands,,,
+1972,Pacific Islands,,,
+1973,Pacific Islands,,,
+1974,Pacific Islands,,,
+1975,Pacific Islands,,,
+1976,Pacific Islands,,,
+1977,Pacific Islands,,,
+1978,Pacific Islands,,,
+1979,Pacific Islands,,,
+1980,Pacific Islands,,,
+1981,Pacific Islands,,,
+1982,Pacific Islands,,,
+1983,Pacific Islands,,,
+1984,Pacific Islands,,,
+1985,Pacific Islands,,,
+1986,Pacific Islands,,,
+1987,Pacific Islands,,,
+1988,Pacific Islands,,,
+1989,Pacific Islands,,,
+1990,Pacific Islands,,,
+1991,Pacific Islands,,,
+1992,Pacific Islands,,,
+1993,Pacific Islands,,,
+1994,Pacific Islands,,,
+1995,Pacific Islands,,,
+1996,Pacific Islands,,,
+1997,Pacific Islands,,,
+1998,Pacific Islands,,,
+1999,Pacific Islands,,,
+2000,Pacific Islands,,,
+2001,Pacific Islands,,,
+2002,Pacific Islands,,,
+2003,Pacific Islands,,,
+2004,Pacific Islands,,,
+2005,Pacific Islands,,,
+2006,Pacific Islands,,,
+2007,Pacific Islands,,,
+2008,Pacific Islands,,,
+2009,Pacific Islands,,,
+2010,Pacific Islands,,,
+2011,Pacific Islands,,,
+2012,Pacific Islands,,,
+2013,Pacific Islands,,,
+2014,Pacific Islands,,,
+2015,Pacific Islands,,,
+2016,Pacific Islands,,,
+2017,Pacific Islands,,,
+2018,Pacific Islands,,,
+2019,Pacific Islands,,,
+1984,Palau,,2,
+1985,Palau,,2,
+1986,Palau,,2,
+1987,Palau,,2,
+1988,Palau,,2,
+1989,Palau,,2,
+1990,Palau,,2,
+1991,Palau,,2,
+1992,Palau,,2,
+1993,Palau,,2,
+1994,Palau,,3,
+1995,Palau,,3,
+1996,Palau,,3,
+1997,Palau,,3,
+1998,Palau,,3,
+1999,Palau,,3,
+2000,Palau,,3,
+2001,Palau,,3,
+2002,Palau,,3,
+2003,Palau,,3,
+2004,Palau,,3,
+2005,Palau,,3,
+2006,Palau,,3,
+2007,Palau,,3,
+2008,Palau,,3,
+2009,Palau,,3,
+2010,Palau,,2,
+2011,Palau,,2,
+2012,Palau,,2,
+2013,Palau,,2,
+2014,Palau,,2,
+2015,Palau,,2,
+2016,Palau,,2,
+2017,Palau,,2,
+2018,Palau,,2,
+2019,Palau,,2,
+1934,Pennsylvania,1080,0,
+1935,Pennsylvania,1082,91,
+1936,Pennsylvania,1082,95,
+1937,Pennsylvania,1068,99,
+1938,Pennsylvania,1067,99,
+1939,Pennsylvania,1062,98,
+1940,Pennsylvania,1052,93,
+1941,Pennsylvania,1048,95,
+1942,Pennsylvania,1033,101,
+1943,Pennsylvania,1017,103,
+1944,Pennsylvania,1015,107,
+1945,Pennsylvania,1008,116,
+1946,Pennsylvania,998,122,
+1947,Pennsylvania,978,145,
+1948,Pennsylvania,967,162,
+1949,Pennsylvania,960,177,
+1950,Pennsylvania,954,189,
+1951,Pennsylvania,944,216,
+1952,Pennsylvania,923,252,
+1953,Pennsylvania,888,310,
+1954,Pennsylvania,843,392,
+1955,Pennsylvania,804,468,
+1956,Pennsylvania,778,535,
+1957,Pennsylvania,758,593,
+1958,Pennsylvania,730,668,
+1959,Pennsylvania,710,738,
+1960,Pennsylvania,691,791,
+1961,Pennsylvania,666,872,
+1962,Pennsylvania,628,944,
+1963,Pennsylvania,611,1045,
+1964,Pennsylvania,581,1145,
+1965,Pennsylvania,561,1235,
+1966,Pennsylvania,536,1336,0
+1967,Pennsylvania,512,1419,0
+1968,Pennsylvania,500,1517,2
+1969,Pennsylvania,483,1614,1
+1970,Pennsylvania,463,1725,1
+1971,Pennsylvania,447,1824,0
+1972,Pennsylvania,430,1917,0
+1973,Pennsylvania,415,2059,0
+1974,Pennsylvania,399,2191,1
+1975,Pennsylvania,392,2273,2
+1976,Pennsylvania,386,2322,0
+1977,Pennsylvania,381,2358,0
+1978,Pennsylvania,370,2425,0
+1979,Pennsylvania,367,2477,0
+1980,Pennsylvania,355,2557,0
+1981,Pennsylvania,350,2672,0
+1982,Pennsylvania,340,2627,0
+1983,Pennsylvania,332,2659,1
+1984,Pennsylvania,326,2706,2
+1985,Pennsylvania,312,2762,3
+1986,Pennsylvania,300,2836,2
+1987,Pennsylvania,295,2895,5
+1988,Pennsylvania,293,2952,10
+1989,Pennsylvania,298,3048,7
+1990,Pennsylvania,300,3174,6
+1991,Pennsylvania,289,3319,1
+1992,Pennsylvania,281,3402,2
+1993,Pennsylvania,261,3402,0
+1994,Pennsylvania,245,3525,1
+1995,Pennsylvania,224,3542,1
+1996,Pennsylvania,217,3468,2
+1997,Pennsylvania,212,3550,4
+1998,Pennsylvania,197,3434,2
+1999,Pennsylvania,193,3488,8
+2000,Pennsylvania,187,3492,1
+2001,Pennsylvania,180,3193,4
+2002,Pennsylvania,173,3184,1
+2003,Pennsylvania,169,3196,3
+2004,Pennsylvania,165,3252,5
+2005,Pennsylvania,161,3282,4
+2006,Pennsylvania,159,3347,4
+2007,Pennsylvania,154,3404,6
+2008,Pennsylvania,145,3490,3
+2009,Pennsylvania,140,3383,0
+2010,Pennsylvania,135,3431,0
+2011,Pennsylvania,130,3425,0
+2012,Pennsylvania,128,3570,0
+2013,Pennsylvania,124,3494,1
+2014,Pennsylvania,122,3460,0
+2015,Pennsylvania,113,3398,0
+2016,Pennsylvania,107,3307,0
+2017,Pennsylvania,101,3256,0
+2018,Pennsylvania,95,3180,0
+2019,Pennsylvania,92,3459,0
+1934,Puerto Rico,0,0,
+1935,Puerto Rico,0,0,
+1936,Puerto Rico,0,0,
+1937,Puerto Rico,0,0,
+1938,Puerto Rico,0,0,
+1939,Puerto Rico,0,0,
+1940,Puerto Rico,0,0,
+1941,Puerto Rico,0,0,
+1942,Puerto Rico,0,0,
+1943,Puerto Rico,0,0,
+1944,Puerto Rico,0,0,
+1945,Puerto Rico,0,0,
+1946,Puerto Rico,0,0,
+1947,Puerto Rico,0,0,
+1948,Puerto Rico,0,0,
+1949,Puerto Rico,0,0,
+1950,Puerto Rico,7,34,
+1951,Puerto Rico,7,37,
+1952,Puerto Rico,7,49,
+1953,Puerto Rico,8,53,
+1954,Puerto Rico,7,56,
+1955,Puerto Rico,7,57,
+1956,Puerto Rico,7,63,
+1957,Puerto Rico,7,74,
+1958,Puerto Rico,7,102,
+1959,Puerto Rico,7,112,
+1960,Puerto Rico,7,115,
+1961,Puerto Rico,7,123,
+1962,Puerto Rico,7,125,
+1963,Puerto Rico,7,130,
+1964,Puerto Rico,7,134,
+1965,Puerto Rico,7,138,
+1966,Puerto Rico,8,145,0
+1967,Puerto Rico,7,151,0
+1968,Puerto Rico,7,165,0
+1969,Puerto Rico,8,173,0
+1970,Puerto Rico,8,180,0
+1971,Puerto Rico,8,187,0
+1972,Puerto Rico,9,189,1
+1973,Puerto Rico,9,195,0
+1974,Puerto Rico,9,199,0
+1975,Puerto Rico,9,206,0
+1976,Puerto Rico,11,211,1
+1977,Puerto Rico,13,214,3
+1978,Puerto Rico,12,217,0
+1979,Puerto Rico,12,220,1
+1980,Puerto Rico,12,228,0
+1981,Puerto Rico,12,235,0
+1982,Puerto Rico,14,245,2
+1983,Puerto Rico,13,252,0
+1984,Puerto Rico,11,261,0
+1985,Puerto Rico,13,271,1
+1986,Puerto Rico,14,288,1
+1987,Puerto Rico,15,293,0
+1988,Puerto Rico,15,298,0
+1989,Puerto Rico,15,308,0
+1990,Puerto Rico,15,342,0
+1991,Puerto Rico,14,330,0
+1992,Puerto Rico,13,344,0
+1993,Puerto Rico,12,352,0
+1994,Puerto Rico,16,438,0
+1995,Puerto Rico,15,443,0
+1996,Puerto Rico,14,460,0
+1997,Puerto Rico,13,482,0
+1998,Puerto Rico,12,497,0
+1999,Puerto Rico,12,515,1
+2000,Puerto Rico,12,524,0
+2001,Puerto Rico,12,530,0
+2002,Puerto Rico,11,540,0
+2003,Puerto Rico,11,544,0
+2004,Puerto Rico,10,551,0
+2005,Puerto Rico,10,564,0
+2006,Puerto Rico,10,567,0
+2007,Puerto Rico,10,573,0
+2008,Puerto Rico,10,534,0
+2009,Puerto Rico,10,491,0
+2010,Puerto Rico,7,466,0
+2011,Puerto Rico,7,437,0
+2012,Puerto Rico,6,424,0
+2013,Puerto Rico,6,394,0
+2014,Puerto Rico,6,373,0
+2015,Puerto Rico,5,350,0
+2016,Puerto Rico,5,323,0
+2017,Puerto Rico,5,310,0
+2018,Puerto Rico,5,297,0
+2019,Puerto Rico,4,299,0
+1934,Rhode Island,16,0,
+1935,Rhode Island,16,28,
+1936,Rhode Island,16,28,
+1937,Rhode Island,16,28,
+1938,Rhode Island,16,28,
+1939,Rhode Island,16,28,
+1940,Rhode Island,16,28,
+1941,Rhode Island,16,28,
+1942,Rhode Island,16,28,
+1943,Rhode Island,15,27,
+1944,Rhode Island,16,35,
+1945,Rhode Island,15,35,
+1946,Rhode Island,14,35,
+1947,Rhode Island,14,37,
+1948,Rhode Island,14,38,
+1949,Rhode Island,13,39,
+1950,Rhode Island,12,47,
+1951,Rhode Island,11,52,
+1952,Rhode Island,10,52,
+1953,Rhode Island,9,55,
+1954,Rhode Island,8,62,
+1955,Rhode Island,8,68,
+1956,Rhode Island,8,72,
+1957,Rhode Island,8,77,
+1958,Rhode Island,7,84,
+1959,Rhode Island,8,89,
+1960,Rhode Island,8,90,
+1961,Rhode Island,8,90,
+1962,Rhode Island,8,98,
+1963,Rhode Island,8,100,
+1964,Rhode Island,8,105,
+1965,Rhode Island,9,118,
+1966,Rhode Island,9,121,0
+1967,Rhode Island,12,142,3
+1968,Rhode Island,11,151,0
+1969,Rhode Island,11,153,0
+1970,Rhode Island,11,163,0
+1971,Rhode Island,11,171,0
+1972,Rhode Island,14,177,3
+1973,Rhode Island,14,199,0
+1974,Rhode Island,14,204,0
+1975,Rhode Island,14,210,0
+1976,Rhode Island,14,214,0
+1977,Rhode Island,14,215,0
+1978,Rhode Island,14,216,0
+1979,Rhode Island,14,221,0
+1980,Rhode Island,14,223,0
+1981,Rhode Island,14,227,0
+1982,Rhode Island,15,222,0
+1983,Rhode Island,15,216,0
+1984,Rhode Island,13,184,0
+1985,Rhode Island,16,181,3
+1986,Rhode Island,15,178,0
+1987,Rhode Island,12,160,0
+1988,Rhode Island,12,164,0
+1989,Rhode Island,13,166,0
+1990,Rhode Island,11,166,0
+1991,Rhode Island,13,160,1
+1992,Rhode Island,12,164,0
+1993,Rhode Island,10,145,0
+1994,Rhode Island,9,174,0
+1995,Rhode Island,8,162,0
+1996,Rhode Island,8,177,1
+1997,Rhode Island,9,180,0
+1998,Rhode Island,7,183,0
+1999,Rhode Island,6,183,0
+2000,Rhode Island,7,137,1
+2001,Rhode Island,8,157,1
+2002,Rhode Island,7,154,0
+2003,Rhode Island,8,157,1
+2004,Rhode Island,8,165,0
+2005,Rhode Island,7,171,1
+2006,Rhode Island,7,171,0
+2007,Rhode Island,7,174,0
+2008,Rhode Island,7,177,0
+2009,Rhode Island,7,177,0
+2010,Rhode Island,7,177,0
+2011,Rhode Island,7,177,0
+2012,Rhode Island,6,212,0
+2013,Rhode Island,5,210,0
+2014,Rhode Island,5,212,0
+2015,Rhode Island,5,212,0
+2016,Rhode Island,5,211,0
+2017,Rhode Island,5,202,0
+2018,Rhode Island,5,199,0
+2019,Rhode Island,5,201,0
+1934,South Carolina,97,0,
+1935,South Carolina,112,21,
+1936,South Carolina,111,22,
+1937,South Carolina,111,23,
+1938,South Carolina,109,22,
+1939,South Carolina,112,22,
+1940,South Carolina,113,22,
+1941,South Carolina,114,24,
+1942,South Carolina,115,26,
+1943,South Carolina,117,30,
+1944,South Carolina,120,33,
+1945,South Carolina,120,30,
+1946,South Carolina,126,30,
+1947,South Carolina,127,33,
+1948,South Carolina,129,37,
+1949,South Carolina,134,41,
+1950,South Carolina,131,49,
+1951,South Carolina,134,54,
+1952,South Carolina,134,64,
+1953,South Carolina,136,71,
+1954,South Carolina,139,78,
+1955,South Carolina,139,86,
+1956,South Carolina,139,95,
+1957,South Carolina,137,110,
+1958,South Carolina,137,128,
+1959,South Carolina,138,134,
+1960,South Carolina,139,147,
+1961,South Carolina,138,166,
+1962,South Carolina,138,186,
+1963,South Carolina,134,217,
+1964,South Carolina,129,242,
+1965,South Carolina,125,270,
+1966,South Carolina,124,302,1
+1967,South Carolina,122,328,1
+1968,South Carolina,117,351,1
+1969,South Carolina,104,380,0
+1970,South Carolina,102,418,0
+1971,South Carolina,99,459,1
+1972,South Carolina,94,499,0
+1973,South Carolina,91,548,1
+1974,South Carolina,91,581,4
+1975,South Carolina,90,601,2
+1976,South Carolina,90,607,0
+1977,South Carolina,88,629,0
+1978,South Carolina,87,662,0
+1979,South Carolina,85,687,0
+1980,South Carolina,85,729,2
+1981,South Carolina,83,766,0
+1982,South Carolina,78,773,1
+1983,South Carolina,72,795,0
+1984,South Carolina,73,787,2
+1985,South Carolina,74,794,2
+1986,South Carolina,73,820,5
+1987,South Carolina,74,817,5
+1988,South Carolina,77,832,5
+1989,South Carolina,82,845,5
+1990,South Carolina,85,867,3
+1991,South Carolina,83,871,0
+1992,South Carolina,81,849,0
+1993,South Carolina,78,882,0
+1994,South Carolina,75,937,0
+1995,South Carolina,71,913,2
+1996,South Carolina,79,903,7
+1997,South Carolina,80,904,5
+1998,South Carolina,77,962,6
+1999,South Carolina,77,975,6
+2000,South Carolina,79,1021,4
+2001,South Carolina,77,1050,3
+2002,South Carolina,77,1069,1
+2003,South Carolina,75,1078,1
+2004,South Carolina,75,1102,1
+2005,South Carolina,74,1124,3
+2006,South Carolina,72,1169,6
+2007,South Carolina,69,1232,2
+2008,South Carolina,66,1263,1
+2009,South Carolina,67,1256,1
+2010,South Carolina,63,1257,0
+2011,South Carolina,59,1281,0
+2012,South Carolina,58,1349,0
+2013,South Carolina,56,1325,0
+2014,South Carolina,52,1301,0
+2015,South Carolina,48,1271,0
+2016,South Carolina,44,1247,0
+2017,South Carolina,41,1213,0
+2018,South Carolina,38,1177,1
+2019,South Carolina,35,1163,0
+1934,South Dakota,212,0,
+1935,South Dakota,198,15,
+1936,South Dakota,190,19,
+1937,South Dakota,180,22,
+1938,South Dakota,165,28,
+1939,South Dakota,164,32,
+1940,South Dakota,163,38,
+1941,South Dakota,161,42,
+1942,South Dakota,161,43,
+1943,South Dakota,161,46,
+1944,South Dakota,163,45,
+1945,South Dakota,165,44,
+1946,South Dakota,169,44,
+1947,South Dakota,170,47,
+1948,South Dakota,170,48,
+1949,South Dakota,169,48,
+1950,South Dakota,169,49,
+1951,South Dakota,169,50,
+1952,South Dakota,170,52,
+1953,South Dakota,169,52,
+1954,South Dakota,170,52,
+1955,South Dakota,171,54,
+1956,South Dakota,171,54,
+1957,South Dakota,172,53,
+1958,South Dakota,172,54,
+1959,South Dakota,173,54,
+1960,South Dakota,174,59,
+1961,South Dakota,174,62,
+1962,South Dakota,171,69,
+1963,South Dakota,172,71,
+1964,South Dakota,172,72,
+1965,South Dakota,169,76,
+1966,South Dakota,166,83,0
+1967,South Dakota,165,87,0
+1968,South Dakota,164,91,0
+1969,South Dakota,163,94,0
+1970,South Dakota,161,98,0
+1971,South Dakota,159,100,0
+1972,South Dakota,159,102,0
+1973,South Dakota,159,108,1
+1974,South Dakota,158,115,0
+1975,South Dakota,158,125,1
+1976,South Dakota,156,129,0
+1977,South Dakota,157,137,1
+1978,South Dakota,155,149,0
+1979,South Dakota,154,158,1
+1980,South Dakota,152,166,0
+1981,South Dakota,153,172,1
+1982,South Dakota,152,160,0
+1983,South Dakota,145,165,1
+1984,South Dakota,141,174,1
+1985,South Dakota,137,177,1
+1986,South Dakota,135,177,2
+1987,South Dakota,137,173,8
+1988,South Dakota,133,165,0
+1989,South Dakota,129,171,0
+1990,South Dakota,125,177,0
+1991,South Dakota,125,186,0
+1992,South Dakota,121,193,0
+1993,South Dakota,121,203,0
+1994,South Dakota,120,217,1
+1995,South Dakota,116,228,1
+1996,South Dakota,117,245,2
+1997,South Dakota,106,266,3
+1998,South Dakota,104,282,0
+1999,South Dakota,102,278,0
+2000,South Dakota,97,288,1
+2001,South Dakota,93,292,0
+2002,South Dakota,93,304,0
+2003,South Dakota,90,309,0
+2004,South Dakota,87,321,0
+2005,South Dakota,88,324,1
+2006,South Dakota,85,340,0
+2007,South Dakota,85,344,1
+2008,South Dakota,83,351,0
+2009,South Dakota,80,357,0
+2010,South Dakota,79,358,0
+2011,South Dakota,78,355,0
+2012,South Dakota,75,365,0
+2013,South Dakota,73,362,0
+2014,South Dakota,70,362,0
+2015,South Dakota,69,384,0
+2016,South Dakota,66,383,0
+2017,South Dakota,64,384,0
+2018,South Dakota,59,385,0
+2019,South Dakota,58,382,0
+1984,States of Micronesia,,4,
+1985,States of Micronesia,,4,
+1986,States of Micronesia,1,4,1
+1987,States of Micronesia,1,4,0
+1988,States of Micronesia,1,4,0
+1989,States of Micronesia,1,4,0
+1990,States of Micronesia,1,9,0
+1991,States of Micronesia,1,9,0
+1992,States of Micronesia,1,10,0
+1993,States of Micronesia,1,10,0
+1994,States of Micronesia,1,14,0
+1995,States of Micronesia,1,14,0
+1996,States of Micronesia,1,14,0
+1997,States of Micronesia,1,16,0
+1998,States of Micronesia,1,16,0
+1999,States of Micronesia,1,14,0
+2000,States of Micronesia,1,13,0
+2001,States of Micronesia,1,13,0
+2002,States of Micronesia,1,9,0
+2003,States of Micronesia,1,9,0
+2004,States of Micronesia,1,9,0
+2005,States of Micronesia,1,9,0
+2006,States of Micronesia,1,9,0
+2007,States of Micronesia,1,9,0
+2008,States of Micronesia,1,9,0
+2009,States of Micronesia,1,11,0
+2010,States of Micronesia,1,11,0
+2011,States of Micronesia,1,11,0
+2012,States of Micronesia,1,11,0
+2013,States of Micronesia,1,11,0
+2014,States of Micronesia,1,11,0
+2015,States of Micronesia,1,11,0
+2016,States of Micronesia,1,11,0
+2017,States of Micronesia,1,11,0
+2018,States of Micronesia,1,11,0
+2019,States of Micronesia,1,11,0
+1934,Tennessee,317,0,
+1935,Tennessee,315,48,
+1936,Tennessee,304,48,
+1937,Tennessee,296,51,
+1938,Tennessee,292,51,
+1939,Tennessee,291,49,
+1940,Tennessee,288,51,
+1941,Tennessee,288,52,
+1942,Tennessee,286,52,
+1943,Tennessee,285,54,
+1944,Tennessee,285,59,
+1945,Tennessee,287,61,
+1946,Tennessee,289,68,
+1947,Tennessee,289,74,
+1948,Tennessee,287,82,
+1949,Tennessee,288,87,
+1950,Tennessee,289,98,
+1951,Tennessee,291,103,
+1952,Tennessee,290,113,
+1953,Tennessee,291,124,
+1954,Tennessee,290,128,
+1955,Tennessee,292,138,
+1956,Tennessee,290,152,
+1957,Tennessee,291,168,
+1958,Tennessee,291,183,
+1959,Tennessee,290,197,
+1960,Tennessee,291,216,
+1961,Tennessee,290,236,
+1962,Tennessee,289,255,
+1963,Tennessee,289,271,
+1964,Tennessee,290,295,
+1965,Tennessee,294,328,
+1966,Tennessee,294,377,2
+1967,Tennessee,295,403,2
+1968,Tennessee,299,416,5
+1969,Tennessee,301,448,2
+1970,Tennessee,304,487,4
+1971,Tennessee,307,527,2
+1972,Tennessee,310,594,3
+1973,Tennessee,317,657,7
+1974,Tennessee,334,722,16
+1975,Tennessee,342,772,8
+1976,Tennessee,346,814,5
+1977,Tennessee,346,910,3
+1978,Tennessee,348,953,2
+1979,Tennessee,350,992,3
+1980,Tennessee,350,1032,1
+1981,Tennessee,351,1056,1
+1982,Tennessee,346,989,0
+1983,Tennessee,332,1009,6
+1984,Tennessee,296,1020,1
+1985,Tennessee,289,1036,3
+1986,Tennessee,283,1055,5
+1987,Tennessee,282,1075,6
+1988,Tennessee,272,1138,5
+1989,Tennessee,268,1182,5
+1990,Tennessee,253,1237,3
+1991,Tennessee,250,1253,1
+1992,Tennessee,251,1317,2
+1993,Tennessee,250,1370,4
+1994,Tennessee,251,1397,7
+1995,Tennessee,240,1462,4
+1996,Tennessee,238,1516,5
+1997,Tennessee,232,1583,6
+1998,Tennessee,204,1668,3
+1999,Tennessee,201,1757,8
+2000,Tennessee,197,1712,8
+2001,Tennessee,189,1751,5
+2002,Tennessee,192,1752,4
+2003,Tennessee,188,1812,4
+2004,Tennessee,188,1875,6
+2005,Tennessee,186,1898,7
+2006,Tennessee,183,1980,5
+2007,Tennessee,185,2021,5
+2008,Tennessee,181,2082,1
+2009,Tennessee,178,2093,0
+2010,Tennessee,176,2070,0
+2011,Tennessee,173,2057,0
+2012,Tennessee,172,2070,0
+2013,Tennessee,167,2059,0
+2014,Tennessee,163,2048,0
+2015,Tennessee,158,2023,0
+2016,Tennessee,147,1989,0
+2017,Tennessee,142,1962,1
+2018,Tennessee,135,1958,1
+2019,Tennessee,130,1933,0
+1934,Texas,820,0,
+1935,Texas,805,0,
+1936,Texas,800,0,
+1937,Texas,793,0,
+1938,Texas,788,0,
+1939,Texas,779,0,
+1940,Texas,781,0,
+1941,Texas,785,0,
+1942,Texas,783,1,
+1943,Texas,785,23,
+1944,Texas,788,27,
+1945,Texas,800,20,
+1946,Texas,811,4,
+1947,Texas,828,4,
+1948,Texas,839,3,
+1949,Texas,850,5,
+1950,Texas,861,12,
+1951,Texas,870,12,
+1952,Texas,877,14,
+1953,Texas,882,17,
+1954,Texas,886,17,
+1955,Texas,899,19,
+1956,Texas,917,22,
+1957,Texas,931,24,
+1958,Texas,946,23,
+1959,Texas,967,28,
+1960,Texas,990,28,
+1961,Texas,1001,32,
+1962,Texas,1030,44,
+1963,Texas,1083,45,
+1964,Texas,1115,50,
+1965,Texas,1130,52,
+1966,Texas,1137,53,8
+1967,Texas,1139,59,3
+1968,Texas,1142,63,4
+1969,Texas,1157,67,12
+1970,Texas,1183,76,26
+1971,Texas,1207,86,25
+1972,Texas,1231,95,30
+1973,Texas,1259,110,34
+1974,Texas,1306,123,47
+1975,Texas,1336,138,33
+1976,Texas,1357,157,25
+1977,Texas,1377,176,20
+1978,Texas,1395,203,18
+1979,Texas,1422,234,28
+1980,Texas,1467,260,45
+1981,Texas,1523,298,58
+1982,Texas,1598,305,83
+1983,Texas,1727,318,134
+1984,Texas,1854,364,131
+1985,Texas,1936,393,91
+1986,Texas,1972,444,59
+1987,Texas,1771,726,15
+1988,Texas,1501,1026,2
+1989,Texas,1318,1358,0
+1990,Texas,1184,1623,1
+1991,Texas,1122,1837,0
+1992,Texas,1089,1987,3
+1993,Texas,1011,2219,1
+1994,Texas,980,2417,1
+1995,Texas,935,2605,2
+1996,Texas,878,2873,5
+1997,Texas,839,3126,11
+1998,Texas,799,3329,12
+1999,Texas,754,3412,8
+2000,Texas,709,3513,3
+2001,Texas,687,3684,6
+2002,Texas,669,3841,6
+2003,Texas,653,4060,9
+2004,Texas,639,4493,8
+2005,Texas,623,4986,5
+2006,Texas,608,5278,6
+2007,Texas,612,5636,18
+2008,Texas,594,6247,5
+2009,Texas,581,6286,5
+2010,Texas,567,6160,0
+2011,Texas,552,6151,0
+2012,Texas,520,6205,0
+2013,Texas,493,6244,0
+2014,Texas,470,6198,0
+2015,Texas,447,6142,0
+2016,Texas,430,6018,0
+2017,Texas,423,5912,1
+2018,Texas,409,5972,0
+2019,Texas,393,6003,1
+1934,United States,0,0,
+1935,United States,14125,3112,
+1936,United States,13972,3260,
+1937,United States,13796,3380,
+1938,United States,13660,3411,
+1939,United States,13537,3455,
+1940,United States,13441,3488,
+1941,United States,13429,3515,
+1942,United States,13346,3553,
+1943,United States,13273,3743,
+1944,United States,13267,3874,
+1945,United States,13301,3895,
+1946,United States,13358,3927,
+1947,United States,13402,4095,
+1948,United States,13418,4282,
+1949,United States,13435,4529,
+1950,United States,13438,4797,
+1951,United States,13447,5119,
+1952,United States,13431,5436,
+1953,United States,13422,5801,
+1954,United States,13314,6288,
+1955,United States,13228,6906,
+1956,United States,13209,7574,
+1957,United States,13156,8191,
+1958,United States,13115,8849,
+1959,United States,13106,9615,
+1960,United States,13118,10436,
+1961,United States,13107,11307,
+1962,United States,13116,12290,
+1963,United States,13283,13445,
+1964,United States,13485,14559,
+1965,United States,13536,15698,
+1966,United States,13529,16842,99
+1967,United States,13506,17884,94
+1968,United States,13479,18966,82
+1969,United States,13464,20149,115
+1970,United States,13502,21597,178
+1971,United States,13602,23080,196
+1972,United States,13721,24566,234
+1973,United States,13964,26403,332
+1974,United States,14218,28384,364
+1975,United States,14372,30069,245
+1976,United States,14397,30931,160
+1977,United States,14397,32836,154
+1978,United States,14378,34524,149
+1979,United States,14351,36521,203
+1980,United States,14421,38458,205
+1981,United States,14401,40500,198
+1982,United States,14435,39485,315
+1983,United States,14454,40548,361
+1984,United States,14483,41311,356
+1985,United States,14402,42718,279
+1986,United States,14193,43823,215
+1987,United States,13705,44813,196
+1988,United States,13119,45818,191
+1989,United States,12697,47429,170
+1990,United States,12329,49800,138
+1991,United States,11909,51388,76
+1992,United States,11450,50976,40
+1993,United States,10945,51840,47
+1994,United States,10432,53871,45
+1995,United States,9922,55656,96
+1996,United States,9510,57072,139
+1997,United States,9125,59641,182
+1998,United States,8757,61357,187
+1999,United States,8564,63032,227
+2000,United States,8297,63602,188
+2001,United States,8064,64378,125
+2002,United States,7870,65651,90
+2003,United States,7750,66971,110
+2004,United States,7612,69690,120
+2005,United States,7507,72321,167
+2006,United States,7380,75381,177
+2007,United States,7262,77968,175
+2008,United States,7061,81809,90
+2009,United States,6813,81918,24
+2010,United States,6506,81464,5
+2011,United States,6263,82045,0
+2012,United States,6061,82461,0
+2013,United States,5836,81658,1
+2014,United States,5596,80960,0
+2015,United States,5330,80537,1
+2016,United States,5102,79107,0
+2017,United States,4909,77821,5
+2018,United States,4708,76772,7
+2019,United States,4510,76473,13
+1934,United States & Other Areas,14146,0,1220
+1935,United States & Other Areas,14125,3112,45
+1936,United States & Other Areas,13973,3261,32
+1937,United States & Other Areas,13797,3381,46
+1938,United States & Other Areas,13661,3412,22
+1939,United States & Other Areas,13538,3456,26
+1940,United States & Other Areas,13442,3489,28
+1941,United States & Other Areas,13430,3517,37
+1942,United States & Other Areas,13347,3555,15
+1943,United States & Other Areas,13274,3744,36
+1944,United States & Other Areas,13268,3875,56
+1945,United States & Other Areas,13302,3896,101
+1946,United States & Other Areas,13359,3928,130
+1947,United States & Other Areas,13403,4096,99
+1948,United States & Other Areas,13419,4283,61
+1949,United States & Other Areas,13436,4530,58
+1950,United States & Other Areas,13446,4832,58
+1951,United States & Other Areas,13455,5157,51
+1952,United States & Other Areas,13439,5486,61
+1953,United States & Other Areas,13432,5855,59
+1954,United States & Other Areas,13323,6346,66
+1955,United States & Other Areas,13237,6965,103
+1956,United States & Other Areas,13218,7639,107
+1957,United States & Other Areas,13165,8267,73
+1958,United States & Other Areas,13124,8955,83
+1959,United States & Other Areas,13114,9732,102
+1960,United States & Other Areas,13126,10556,111
+1961,United States & Other Areas,13115,11436,98
+1962,United States & Other Areas,13124,12421,167
+1963,United States & Other Areas,13291,13581,281
+1964,United States & Other Areas,13493,14699,323
+1965,United States & Other Areas,13544,15872,182
+1966,United States & Other Areas,13538,17029,99
+1967,United States & Other Areas,13514,18079,94
+1968,United States & Other Areas,13487,19183,82
+1969,United States & Other Areas,13473,20379,115
+1970,United States & Other Areas,13511,21839,178
+1971,United States & Other Areas,13612,23336,197
+1972,United States & Other Areas,13733,24829,236
+1973,United States & Other Areas,13976,26673,332
+1974,United States & Other Areas,14230,28651,364
+1975,United States & Other Areas,14384,30205,246
+1976,United States & Other Areas,14410,31344,161
+1977,United States & Other Areas,14411,33108,157
+1978,United States & Other Areas,14391,34791,149
+1979,United States & Other Areas,14364,36791,204
+1980,United States & Other Areas,14434,38738,205
+1981,United States & Other Areas,14414,40786,198
+1982,United States & Other Areas,14451,39783,317
+1983,United States & Other Areas,14469,40853,361
+1984,United States & Other Areas,14496,41625,356
+1985,United States & Other Areas,14417,43041,280
+1986,United States & Other Areas,14210,44162,217
+1987,United States & Other Areas,13723,45155,196
+1988,United States & Other Areas,13137,46167,191
+1989,United States & Other Areas,12715,47789,170
+1990,United States & Other Areas,12347,50199,138
+1991,United States & Other Areas,11927,51778,77
+1992,United States & Other Areas,11467,51381,40
+1993,United States & Other Areas,10961,52259,47
+1994,United States & Other Areas,10453,54384,46
+1995,United States & Other Areas,9943,56176,97
+1996,United States & Other Areas,9530,57611,139
+1997,United States & Other Areas,9144,60204,182
+1998,United States & Other Areas,8775,61940,187
+1999,United States & Other Areas,8582,63631,228
+2000,United States & Other Areas,8315,64213,188
+2001,United States & Other Areas,8082,64994,125
+2002,United States & Other Areas,7887,66269,90
+2003,United States & Other Areas,7767,67592,110
+2004,United States & Other Areas,7628,70313,120
+2005,United States & Other Areas,7523,72958,167
+2006,United States & Other Areas,7397,76023,178
+2007,United States & Other Areas,7279,78620,175
+2008,United States & Other Areas,7077,82422,90
+2009,United States & Other Areas,6829,82490,24
+2010,United States & Other Areas,6519,82011,5
+2011,United States & Other Areas,6275,82564,0
+2012,United States & Other Areas,6072,82965,0
+2013,United States & Other Areas,5847,82126,1
+2014,United States & Other Areas,5607,81405,0
+2015,United States & Other Areas,5340,80958,1
+2016,United States & Other Areas,5112,79499,0
+2017,United States & Other Areas,4918,78196,5
+2018,United States & Other Areas,4717,77134,7
+2019,United States & Other Areas,4518,76837,13
+1934,Utah,58,0,
+1935,Utah,59,10,
+1936,Utah,59,10,
+1937,Utah,59,12,
+1938,Utah,59,12,
+1939,Utah,59,12,
+1940,Utah,60,12,
+1941,Utah,60,12,
+1942,Utah,59,12,
+1943,Utah,57,21,
+1944,Utah,57,20,
+1945,Utah,57,19,
+1946,Utah,59,12,
+1947,Utah,60,15,
+1948,Utah,55,22,
+1949,Utah,55,23,
+1950,Utah,55,24,
+1951,Utah,54,30,
+1952,Utah,55,34,
+1953,Utah,54,37,
+1954,Utah,54,38,
+1955,Utah,51,45,
+1956,Utah,47,54,
+1957,Utah,44,66,
+1958,Utah,44,68,
+1959,Utah,46,70,
+1960,Utah,46,74,
+1961,Utah,46,77,
+1962,Utah,45,83,
+1963,Utah,50,95,
+1964,Utah,54,103,
+1965,Utah,56,109,
+1966,Utah,55,111,0
+1967,Utah,55,112,0
+1968,Utah,54,115,1
+1969,Utah,51,126,0
+1970,Utah,48,139,1
+1971,Utah,50,148,3
+1972,Utah,52,160,4
+1973,Utah,53,171,6
+1974,Utah,54,186,3
+1975,Utah,63,204,9
+1976,Utah,66,209,3
+1977,Utah,71,229,7
+1978,Utah,66,253,5
+1979,Utah,74,273,9
+1980,Utah,76,286,3
+1981,Utah,66,318,2
+1982,Utah,61,332,0
+1983,Utah,61,339,0
+1984,Utah,60,352,1
+1985,Utah,59,373,0
+1986,Utah,61,381,2
+1987,Utah,55,387,0
+1988,Utah,55,388,4
+1989,Utah,57,381,4
+1990,Utah,55,391,0
+1991,Utah,55,386,2
+1992,Utah,54,384,0
+1993,Utah,48,389,3
+1994,Utah,44,403,0
+1995,Utah,45,427,2
+1996,Utah,48,440,4
+1997,Utah,49,458,4
+1998,Utah,50,474,3
+1999,Utah,51,487,3
+2000,Utah,56,495,6
+2001,Utah,55,489,3
+2002,Utah,56,487,2
+2003,Utah,60,491,6
+2004,Utah,62,491,4
+2005,Utah,63,498,4
+2006,Utah,63,506,1
+2007,Utah,61,519,0
+2008,Utah,63,569,3
+2009,Utah,58,562,0
+2010,Utah,53,550,0
+2011,Utah,51,547,0
+2012,Utah,51,538,0
+2013,Utah,50,536,0
+2014,Utah,49,530,0
+2015,Utah,46,525,0
+2016,Utah,45,503,0
+2017,Utah,42,494,0
+2018,Utah,40,482,0
+2019,Utah,38,481,0
+1934,Vermont,76,0,
+1935,Vermont,76,12,
+1936,Vermont,75,12,
+1937,Vermont,75,12,
+1938,Vermont,75,12,
+1939,Vermont,75,12,
+1940,Vermont,73,12,
+1941,Vermont,72,9,
+1942,Vermont,72,9,
+1943,Vermont,71,8,
+1944,Vermont,71,9,
+1945,Vermont,71,9,
+1946,Vermont,71,9,
+1947,Vermont,69,10,
+1948,Vermont,69,11,
+1949,Vermont,69,11,
+1950,Vermont,69,11,
+1951,Vermont,68,11,
+1952,Vermont,66,11,
+1953,Vermont,66,11,
+1954,Vermont,64,13,
+1955,Vermont,61,15,
+1956,Vermont,60,16,
+1957,Vermont,58,18,
+1958,Vermont,57,30,
+1959,Vermont,56,33,
+1960,Vermont,55,33,
+1961,Vermont,52,37,
+1962,Vermont,50,40,
+1963,Vermont,48,43,
+1964,Vermont,48,49,
+1965,Vermont,47,57,
+1966,Vermont,47,59,0
+1967,Vermont,45,67,0
+1968,Vermont,44,71,0
+1969,Vermont,43,78,0
+1970,Vermont,42,85,0
+1971,Vermont,41,89,0
+1972,Vermont,40,98,0
+1973,Vermont,38,109,0
+1974,Vermont,33,131,0
+1975,Vermont,31,139,0
+1976,Vermont,29,142,0
+1977,Vermont,30,145,2
+1978,Vermont,29,147,0
+1979,Vermont,29,159,0
+1980,Vermont,28,167,0
+1981,Vermont,27,173,0
+1982,Vermont,27,180,0
+1983,Vermont,27,181,0
+1984,Vermont,27,181,0
+1985,Vermont,25,185,0
+1986,Vermont,25,191,0
+1987,Vermont,26,194,1
+1988,Vermont,26,194,0
+1989,Vermont,27,196,1
+1990,Vermont,27,195,0
+1991,Vermont,24,197,0
+1992,Vermont,22,195,0
+1993,Vermont,20,186,0
+1994,Vermont,20,181,0
+1995,Vermont,20,183,0
+1996,Vermont,22,170,0
+1997,Vermont,21,196,0
+1998,Vermont,21,196,0
+1999,Vermont,20,201,0
+2000,Vermont,18,188,0
+2001,Vermont,18,188,0
+2002,Vermont,15,214,0
+2003,Vermont,14,221,0
+2004,Vermont,14,223,0
+2005,Vermont,14,225,0
+2006,Vermont,14,226,0
+2007,Vermont,11,210,0
+2008,Vermont,9,157,0
+2009,Vermont,9,156,0
+2010,Vermont,9,155,0
+2011,Vermont,9,155,0
+2012,Vermont,9,151,0
+2013,Vermont,8,140,0
+2014,Vermont,7,145,0
+2015,Vermont,7,180,0
+2016,Vermont,7,180,0
+2017,Vermont,6,189,0
+2018,Vermont,6,183,0
+2019,Vermont,6,181,0
+1934,Virgin Islands,0,0,
+1935,Virgin Islands,0,0,
+1936,Virgin Islands,1,1,
+1937,Virgin Islands,1,1,
+1938,Virgin Islands,1,1,
+1939,Virgin Islands,1,1,
+1940,Virgin Islands,1,1,
+1941,Virgin Islands,1,2,
+1942,Virgin Islands,1,2,
+1943,Virgin Islands,1,1,
+1944,Virgin Islands,1,1,
+1945,Virgin Islands,1,1,
+1946,Virgin Islands,1,1,
+1947,Virgin Islands,1,1,
+1948,Virgin Islands,1,1,
+1949,Virgin Islands,1,1,
+1950,Virgin Islands,1,1,
+1951,Virgin Islands,1,1,
+1952,Virgin Islands,1,1,
+1953,Virgin Islands,2,1,
+1954,Virgin Islands,2,2,
+1955,Virgin Islands,2,2,
+1956,Virgin Islands,2,2,
+1957,Virgin Islands,2,2,
+1958,Virgin Islands,2,4,
+1959,Virgin Islands,1,5,
+1960,Virgin Islands,1,5,
+1961,Virgin Islands,1,6,
+1962,Virgin Islands,1,6,
+1963,Virgin Islands,1,6,
+1964,Virgin Islands,1,6,
+1965,Virgin Islands,1,6,
+1966,Virgin Islands,1,11,0
+1967,Virgin Islands,1,13,0
+1968,Virgin Islands,1,19,0
+1969,Virgin Islands,1,20,0
+1970,Virgin Islands,1,24,0
+1971,Virgin Islands,2,28,1
+1972,Virgin Islands,2,29,0
+1973,Virgin Islands,2,30,0
+1974,Virgin Islands,2,29,0
+1975,Virgin Islands,2,28,1
+1976,Virgin Islands,1,26,0
+1977,Virgin Islands,0,24,0
+1978,Virgin Islands,0,24,0
+1979,Virgin Islands,0,24,0
+1980,Virgin Islands,0,23,0
+1981,Virgin Islands,0,24,0
+1982,Virgin Islands,0,24,0
+1983,Virgin Islands,0,23,0
+1984,Virgin Islands,,20,
+1985,Virgin Islands,,19,
+1986,Virgin Islands,,17,
+1987,Virgin Islands,,16,
+1988,Virgin Islands,,17,
+1989,Virgin Islands,,18,
+1990,Virgin Islands,,18,
+1991,Virgin Islands,,18,
+1992,Virgin Islands,,15,
+1993,Virgin Islands,,17,
+1994,Virgin Islands,1,19,1
+1995,Virgin Islands,2,19,1
+1996,Virgin Islands,2,19,0
+1997,Virgin Islands,2,19,0
+1998,Virgin Islands,2,19,0
+1999,Virgin Islands,2,19,0
+2000,Virgin Islands,2,21,0
+2001,Virgin Islands,2,21,0
+2002,Virgin Islands,2,21,0
+2003,Virgin Islands,2,20,0
+2004,Virgin Islands,2,19,0
+2005,Virgin Islands,2,19,0
+2006,Virgin Islands,3,19,1
+2007,Virgin Islands,3,24,0
+2008,Virgin Islands,2,24,0
+2009,Virgin Islands,2,24,0
+2010,Virgin Islands,2,25,0
+2011,Virgin Islands,2,25,0
+2012,Virgin Islands,2,25,0
+2013,Virgin Islands,2,25,0
+2014,Virgin Islands,2,24,0
+2015,Virgin Islands,2,24,0
+2016,Virgin Islands,2,24,0
+2017,Virgin Islands,1,21,0
+2018,Virgin Islands,1,21,0
+2019,Virgin Islands,1,23,0
+1934,Virginia,320,0,
+1935,Virginia,322,68,
+1936,Virginia,320,67,
+1937,Virginia,320,67,
+1938,Virginia,315,70,
+1939,Virginia,313,72,
+1940,Virginia,312,72,
+1941,Virginia,314,70,
+1942,Virginia,315,77,
+1943,Virginia,313,87,
+1944,Virginia,312,89,
+1945,Virginia,313,89,
+1946,Virginia,315,86,
+1947,Virginia,314,88,
+1948,Virginia,314,96,
+1949,Virginia,312,109,
+1950,Virginia,313,114,
+1951,Virginia,315,120,
+1952,Virginia,315,128,
+1953,Virginia,316,144,
+1954,Virginia,316,157,
+1955,Virginia,316,176,
+1956,Virginia,312,199,
+1957,Virginia,312,217,
+1958,Virginia,312,234,
+1959,Virginia,309,255,
+1960,Virginia,305,284,
+1961,Virginia,302,320,
+1962,Virginia,292,367,
+1963,Virginia,280,430,
+1964,Virginia,277,486,
+1965,Virginia,262,558,
+1966,Virginia,251,612,5
+1967,Virginia,250,656,5
+1968,Virginia,237,709,2
+1969,Virginia,233,765,4
+1970,Virginia,233,825,5
+1971,Virginia,245,887,13
+1972,Virginia,256,955,13
+1973,Virginia,271,1045,20
+1974,Virginia,288,1112,20
+1975,Virginia,290,1173,7
+1976,Virginia,283,1211,5
+1977,Virginia,279,1255,4
+1978,Virginia,262,1302,6
+1979,Virginia,233,1372,7
+1980,Virginia,229,1410,0
+1981,Virginia,223,1443,3
+1982,Virginia,202,1465,4
+1983,Virginia,189,1507,4
+1984,Virginia,176,1538,2
+1985,Virginia,167,1571,8
+1986,Virginia,171,1620,8
+1987,Virginia,174,1662,6
+1988,Virginia,184,1757,11
+1989,Virginia,182,1822,2
+1990,Virginia,178,1871,3
+1991,Virginia,174,1872,1
+1992,Virginia,170,1929,0
+1993,Virginia,165,1862,0
+1994,Virginia,164,1906,2
+1995,Virginia,157,1957,1
+1996,Virginia,154,1988,5
+1997,Virginia,151,2045,2
+1998,Virginia,152,2091,9
+1999,Virginia,147,2150,13
+2000,Virginia,143,2142,3
+2001,Virginia,138,2171,1
+2002,Virginia,130,2166,4
+2003,Virginia,125,2086,3
+2004,Virginia,125,2142,4
+2005,Virginia,128,2175,4
+2006,Virginia,111,2300,4
+2007,Virginia,104,2340,4
+2008,Virginia,103,2399,3
+2009,Virginia,106,2549,3
+2010,Virginia,104,2566,0
+2011,Virginia,101,2562,0
+2012,Virginia,99,2502,0
+2013,Virginia,99,2470,0
+2014,Virginia,91,2424,0
+2015,Virginia,88,2423,0
+2016,Virginia,80,2347,0
+2017,Virginia,75,2275,0
+2018,Virginia,71,2198,0
+2019,Virginia,68,2165,1
+1934,Washington,187,0,
+1935,Washington,172,44,
+1936,Washington,171,47,
+1937,Washington,152,66,
+1938,Washington,141,78,
+1939,Washington,134,84,
+1940,Washington,130,87,
+1941,Washington,131,88,
+1942,Washington,127,87,
+1943,Washington,125,94,
+1944,Washington,123,103,
+1945,Washington,119,114,
+1946,Washington,119,118,
+1947,Washington,120,119,
+1948,Washington,119,124,
+1949,Washington,119,133,
+1950,Washington,115,144,
+1951,Washington,114,156,
+1952,Washington,114,162,
+1953,Washington,109,173,
+1954,Washington,104,186,
+1955,Washington,100,208,
+1956,Washington,90,229,
+1957,Washington,86,244,
+1958,Washington,87,253,
+1959,Washington,85,268,
+1960,Washington,85,291,
+1961,Washington,88,305,
+1962,Washington,91,323,
+1963,Washington,92,344,
+1964,Washington,96,378,
+1965,Washington,99,409,
+1966,Washington,94,424,0
+1967,Washington,94,452,4
+1968,Washington,94,487,3
+1969,Washington,92,523,2
+1970,Washington,90,558,6
+1971,Washington,91,589,3
+1972,Washington,88,611,3
+1973,Washington,86,640,3
+1974,Washington,88,661,4
+1975,Washington,92,685,6
+1976,Washington,85,722,2
+1977,Washington,87,766,4
+1978,Washington,94,785,7
+1979,Washington,101,884,7
+1980,Washington,101,942,4
+1981,Washington,99,918,3
+1982,Washington,100,856,5
+1983,Washington,100,868,0
+1984,Washington,102,868,3
+1985,Washington,99,881,2
+1986,Washington,94,880,1
+1987,Washington,90,896,0
+1988,Washington,90,905,4
+1989,Washington,92,957,6
+1990,Washington,94,980,5
+1991,Washington,93,1021,2
+1992,Washington,94,1008,5
+1993,Washington,87,1028,1
+1994,Washington,86,1075,1
+1995,Washington,86,1124,3
+1996,Washington,82,1107,3
+1997,Washington,79,1130,6
+1998,Washington,77,1105,5
+1999,Washington,80,1106,8
+2000,Washington,80,1193,4
+2001,Washington,76,1215,1
+2002,Washington,80,1253,5
+2003,Washington,78,1268,0
+2004,Washington,77,1292,2
+2005,Washington,78,1415,4
+2006,Washington,82,1454,8
+2007,Washington,80,1476,3
+2008,Washington,81,1693,1
+2009,Washington,79,1667,1
+2010,Washington,65,1652,0
+2011,Washington,58,1667,0
+2012,Washington,58,1663,0
+2013,Washington,50,1686,0
+2014,Washington,47,1673,0
+2015,Washington,40,1640,0
+2016,Washington,39,1640,0
+2017,Washington,37,1627,0
+2018,Washington,33,1594,0
+2019,Washington,32,1555,0
+1934,West Virginia,169,0,
+1935,West Virginia,170,2,
+1936,West Virginia,175,2,
+1937,West Virginia,175,1,
+1938,West Virginia,174,1,
+1939,West Virginia,173,1,
+1940,West Virginia,173,1,
+1941,West Virginia,175,0,
+1942,West Virginia,175,0,
+1943,West Virginia,175,0,
+1944,West Virginia,173,0,
+1945,West Virginia,174,1,
+1946,West Virginia,175,0,
+1947,West Virginia,177,0,
+1948,West Virginia,177,0,
+1949,West Virginia,176,0,
+1950,West Virginia,176,0,
+1951,West Virginia,177,0,
+1952,West Virginia,178,0,
+1953,West Virginia,178,0,
+1954,West Virginia,179,0,
+1955,West Virginia,177,0,
+1956,West Virginia,178,0,
+1957,West Virginia,179,0,
+1958,West Virginia,180,0,
+1959,West Virginia,181,0,
+1960,West Virginia,181,0,
+1961,West Virginia,180,0,
+1962,West Virginia,181,0,
+1963,West Virginia,181,0,
+1964,West Virginia,183,0,
+1965,West Virginia,186,0,
+1966,West Virginia,189,0,3
+1967,West Virginia,194,0,4
+1968,West Virginia,195,4,1
+1969,West Virginia,195,5,0
+1970,West Virginia,200,5,5
+1971,West Virginia,199,6,0
+1972,West Virginia,203,8,4
+1973,West Virginia,210,15,7
+1974,West Virginia,214,26,3
+1975,West Virginia,219,35,5
+1976,West Virginia,222,49,3
+1977,West Virginia,227,51,5
+1978,West Virginia,231,56,4
+1979,West Virginia,235,59,4
+1980,West Virginia,237,64,3
+1981,West Virginia,243,66,6
+1982,West Virginia,241,84,0
+1983,West Virginia,231,114,2
+1984,West Virginia,227,158,2
+1985,West Virginia,218,198,1
+1986,West Virginia,213,239,2
+1987,West Virginia,207,265,1
+1988,West Virginia,199,288,0
+1989,West Virginia,188,315,0
+1990,West Virginia,180,333,1
+1991,West Virginia,169,375,0
+1992,West Virginia,164,379,1
+1993,West Virginia,148,408,0
+1994,West Virginia,122,431,0
+1995,West Virginia,118,442,3
+1996,West Virginia,113,461,3
+1997,West Virginia,100,489,0
+1998,West Virginia,89,505,3
+1999,West Virginia,82,509,2
+2000,West Virginia,70,524,1
+2001,West Virginia,72,539,2
+2002,West Virginia,69,547,0
+2003,West Virginia,67,548,1
+2004,West Virginia,66,549,0
+2005,West Virginia,64,562,1
+2006,West Virginia,64,563,0
+2007,West Virginia,62,578,0
+2008,West Virginia,61,591,0
+2009,West Virginia,60,590,0
+2010,West Virginia,60,592,0
+2011,West Virginia,58,601,0
+2012,West Virginia,57,601,0
+2013,West Virginia,57,594,0
+2014,West Virginia,56,592,0
+2015,West Virginia,56,585,0
+2016,West Virginia,54,577,0
+2017,West Virginia,51,564,0
+2018,West Virginia,48,555,0
+2019,West Virginia,46,548,0
+1934,Wisconsin,602,0,
+1935,Wisconsin,591,104,
+1936,Wisconsin,584,106,
+1937,Wisconsin,579,112,
+1938,Wisconsin,568,120,
+1939,Wisconsin,560,125,
+1940,Wisconsin,555,129,
+1941,Wisconsin,553,133,
+1942,Wisconsin,549,135,
+1943,Wisconsin,548,136,
+1944,Wisconsin,545,142,
+1945,Wisconsin,546,146,
+1946,Wisconsin,545,145,
+1947,Wisconsin,543,149,
+1948,Wisconsin,542,149,
+1949,Wisconsin,543,150,
+1950,Wisconsin,543,151,
+1951,Wisconsin,545,151,
+1952,Wisconsin,545,150,
+1953,Wisconsin,548,149,
+1954,Wisconsin,548,149,
+1955,Wisconsin,547,149,
+1956,Wisconsin,545,149,
+1957,Wisconsin,546,151,
+1958,Wisconsin,547,152,
+1959,Wisconsin,550,152,
+1960,Wisconsin,554,158,
+1961,Wisconsin,561,159,
+1962,Wisconsin,567,162,
+1963,Wisconsin,573,165,
+1964,Wisconsin,575,170,
+1965,Wisconsin,577,170,
+1966,Wisconsin,587,173,11
+1967,Wisconsin,595,171,8
+1968,Wisconsin,599,223,4
+1969,Wisconsin,600,252,3
+1970,Wisconsin,604,273,9
+1971,Wisconsin,607,286,6
+1972,Wisconsin,608,296,3
+1973,Wisconsin,616,310,8
+1974,Wisconsin,620,326,7
+1975,Wisconsin,623,336,5
+1976,Wisconsin,625,347,3
+1977,Wisconsin,623,427,2
+1978,Wisconsin,628,444,5
+1979,Wisconsin,631,500,3
+1980,Wisconsin,635,525,4
+1981,Wisconsin,636,551,4
+1982,Wisconsin,624,462,4
+1983,Wisconsin,603,522,0
+1984,Wisconsin,594,564,0
+1985,Wisconsin,574,599,2
+1986,Wisconsin,566,620,0
+1987,Wisconsin,553,649,3
+1988,Wisconsin,523,690,0
+1989,Wisconsin,510,730,3
+1990,Wisconsin,473,872,3
+1991,Wisconsin,458,932,2
+1992,Wisconsin,445,983,0
+1993,Wisconsin,436,1012,2
+1994,Wisconsin,399,1059,1
+1995,Wisconsin,387,1086,5
+1996,Wisconsin,364,1131,4
+1997,Wisconsin,360,1204,4
+1998,Wisconsin,344,1332,1
+1999,Wisconsin,337,1386,3
+2000,Wisconsin,315,1428,5
+2001,Wisconsin,281,1487,2
+2002,Wisconsin,273,1503,0
+2003,Wisconsin,272,1530,1
+2004,Wisconsin,270,1568,0
+2005,Wisconsin,265,1679,3
+2006,Wisconsin,265,1720,1
+2007,Wisconsin,260,1735,4
+2008,Wisconsin,249,1764,1
+2009,Wisconsin,246,1754,0
+2010,Wisconsin,242,1758,0
+2011,Wisconsin,237,1752,0
+2012,Wisconsin,233,1742,0
+2013,Wisconsin,227,1690,0
+2014,Wisconsin,220,1691,0
+2015,Wisconsin,214,1661,0
+2016,Wisconsin,195,1685,0
+2017,Wisconsin,185,1652,0
+2018,Wisconsin,177,1663,0
+2019,Wisconsin,166,1619,0
+1934,Wyoming,60,0,
+1935,Wyoming,59,0,
+1936,Wyoming,58,0,
+1937,Wyoming,58,0,
+1938,Wyoming,58,0,
+1939,Wyoming,58,0,
+1940,Wyoming,58,0,
+1941,Wyoming,58,0,
+1942,Wyoming,56,0,
+1943,Wyoming,56,0,
+1944,Wyoming,56,1,
+1945,Wyoming,56,0,
+1946,Wyoming,55,0,
+1947,Wyoming,55,0,
+1948,Wyoming,55,0,
+1949,Wyoming,53,0,
+1950,Wyoming,53,0,
+1951,Wyoming,52,0,
+1952,Wyoming,52,0,
+1953,Wyoming,53,1,
+1954,Wyoming,53,1,
+1955,Wyoming,53,1,
+1956,Wyoming,53,1,
+1957,Wyoming,53,1,
+1958,Wyoming,52,1,
+1959,Wyoming,53,1,
+1960,Wyoming,55,1,
+1961,Wyoming,55,1,
+1962,Wyoming,56,1,
+1963,Wyoming,63,1,
+1964,Wyoming,68,1,
+1965,Wyoming,69,1,
+1966,Wyoming,69,1,0
+1967,Wyoming,69,1,0
+1968,Wyoming,70,1,1
+1969,Wyoming,70,2,0
+1970,Wyoming,70,2,0
+1971,Wyoming,71,2,1
+1972,Wyoming,71,2,0
+1973,Wyoming,71,2,0
+1974,Wyoming,74,2,3
+1975,Wyoming,77,2,3
+1976,Wyoming,78,2,1
+1977,Wyoming,82,3,4
+1978,Wyoming,88,3,6
+1979,Wyoming,94,3,6
+1980,Wyoming,102,3,8
+1981,Wyoming,108,4,6
+1982,Wyoming,111,4,3
+1983,Wyoming,111,4,1
+1984,Wyoming,117,5,7
+1985,Wyoming,115,5,0
+1986,Wyoming,106,4,0
+1987,Wyoming,102,5,0
+1988,Wyoming,95,12,0
+1989,Wyoming,71,36,0
+1990,Wyoming,71,45,0
+1991,Wyoming,62,48,0
+1992,Wyoming,63,45,1
+1993,Wyoming,55,54,0
+1994,Wyoming,53,57,0
+1995,Wyoming,53,69,0
+1996,Wyoming,54,74,1
+1997,Wyoming,53,96,1
+1998,Wyoming,52,101,0
+1999,Wyoming,50,114,1
+2000,Wyoming,46,124,0
+2001,Wyoming,45,136,0
+2002,Wyoming,47,143,1
+2003,Wyoming,43,153,0
+2004,Wyoming,41,157,0
+2005,Wyoming,40,163,0
+2006,Wyoming,42,171,3
+2007,Wyoming,40,175,0
+2008,Wyoming,36,184,0
+2009,Wyoming,34,192,0
+2010,Wyoming,34,192,0
+2011,Wyoming,34,185,0
+2012,Wyoming,32,188,0
+2013,Wyoming,31,189,0
+2014,Wyoming,30,191,0
+2015,Wyoming,30,188,0
+2016,Wyoming,30,188,0
+2017,Wyoming,30,183,0
+2018,Wyoming,29,183,0
+2019,Wyoming,28,185,0
