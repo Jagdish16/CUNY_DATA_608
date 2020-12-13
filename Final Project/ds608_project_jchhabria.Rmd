@@ -3,8 +3,9 @@ title: "DS608_Final_Project_JChhabria"
 author: "Jagdish Chhabria"
 date: "12/5/2020"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
+always_allow_html: true
 ---
 ### The Physical Bank Branch - Asset or Liability?
 
@@ -402,6 +403,16 @@ leaflet()%>%setView(-96,37.8,4)%>%addProviderTiles("CartoDB.Positron")%>%addMark
 #leaflet()%>%setView(-96,37.8,4)%>%addProviderTiles("CartoDB.Positron")%>%addCircleMarkers(data=bankam_branches,lng=~branch_lon,lat=~branch_lat,label=~branch, popup=~paste("$",branch_deposits), radius=~branch_deposits/total_deposits)
 
 ```
+
+### Conclusion
+Based on the analysis and visualizations above, it can be seen that the physical bank branch is seeing a lot of headwinds since the past 11 years. While the number of banks across the country have declined by about 30%, the number of branches have declined by about 5%. This is probably on account of mergers and acquisitions. Given the advent of Fintech and the increasing penetration of digital banking, there has been a secular decline in branch networks as bank managements optimize the branch network. At the same time, the amount of bank deposits has been steadily climbing every year. This is probably due to the large amount of liquidity pumped into the system by the Federal Reserve and the fiscal policy.
+
+All of the above data is pre-Covid. It is safe to assume that the data for next year would show a furher accentuation in decrease in bank branches and increase in bank deposits due to the effect of the pandemic. 
+
+In terms of further study, it would be interesting to repeat this analysis next year, as well as dig deeper into Citibank's data to understand how it maintains a large asset and deposit base despite having far fewer branches.
+
+
+
 
 
 
